@@ -1,0 +1,8 @@
+streamlit
+nba_api
+pbpstats
+basketball-reference-scraper
+sportsreference
+pandas
+plotly
+requests

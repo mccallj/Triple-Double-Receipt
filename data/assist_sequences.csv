@@ -1,0 +1,1467 @@
+game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,shot_value,points_scored,is_and1,free_throw_points
+0022400075,203999,Nikola Jokić,1,8:18,Gordon,2-pointer,2,2,False,0
+0022400075,203999,Nikola Jokić,1,7:38,Murray,3-pointer,3,3,False,0
+0022400075,203999,Nikola Jokić,1,7:02,Braun,2-pointer,2,2,False,0
+0022400075,203999,Nikola Jokić,2,4:19,Braun,2-pointer,2,2,False,0
+0022400075,203999,Nikola Jokić,2,3:52,Porter Jr.,3-pointer,3,3,False,0
+0022400075,203999,Nikola Jokić,2,1:31,Braun,2-pointer,2,2,False,0
+0022400075,203999,Nikola Jokić,3,10:55,Porter Jr.,3-pointer,3,3,False,0
+0022400075,203999,Nikola Jokić,3,9:25,Porter Jr.,2-pointer,2,2,False,0
+0022400075,203999,Nikola Jokić,3,8:53,Gordon,2-pointer,2,2,False,0
+0022400075,203999,Nikola Jokić,3,7:51,Braun,2-pointer,2,2,False,0
+0022400075,203999,Nikola Jokić,4,5:05,Gordon,2-pointer,2,2,False,0
+0022400075,203999,Nikola Jokić,4,3:47,Braun,2-pointer,2,2,False,0
+0022400075,203999,Nikola Jokić,4,2:43,Gordon,2-pointer,2,2,False,0
+0022400096,2544,LeBron James,2,11:09,Knecht,3-pointer,3,3,False,0
+0022400096,2544,LeBron James,3,11:26,Reaves,2-pointer,2,2,False,0
+0022400096,2544,LeBron James,3,7:19,Davis,2-pointer,2,2,False,0
+0022400096,2544,LeBron James,3,1:02,Hayes,2-pointer,2,2,False,0
+0022400096,2544,LeBron James,4,9:32,Hayes,2-pointer,2,2,False,0
+0022400096,2544,LeBron James,4,3:24,Davis,2-pointer,2,2,False,0
+0022400096,2544,LeBron James,4,2:34,Davis,2-pointer,2,2,False,0
+0022400096,2544,LeBron James,4,1:59,Davis,2-pointer,2,2,False,0
+0022400096,2544,LeBron James,4,0:37,Davis,3-pointer,3,3,False,0
+0022400096,2544,LeBron James,4,0:18,Hachimura,2-pointer,2,2,False,0
+0022400096,1627734,Domantas Sabonis,1,7:56,Fox,2-pointer,2,2,False,0
+0022400096,1627734,Domantas Sabonis,1,6:33,DeRozan,2-pointer,2,2,False,0
+0022400096,1627734,Domantas Sabonis,1,5:35,Huerter,3-pointer,3,3,False,0
+0022400096,1627734,Domantas Sabonis,2,4:33,Monk,3-pointer,3,3,False,0
+0022400096,1627734,Domantas Sabonis,3,10:16,Murray,3-pointer,3,3,False,0
+0022400096,1627734,Domantas Sabonis,3,6:41,Huerter,2-pointer,2,2,False,0
+0022400096,1627734,Domantas Sabonis,3,5:09,Fox,2-pointer,2,2,False,0
+0022400096,1627734,Domantas Sabonis,3,2:50,Fox,2-pointer,2,2,False,0
+0022400096,1627734,Domantas Sabonis,4,7:09,DeRozan,2-pointer,2,2,False,0
+0022400096,1627734,Domantas Sabonis,4,5:24,DeRozan,2-pointer,2,2,False,0
+0022400113,203999,Nikola Jokić,1,10:25,Murray,2-pointer,2,2,False,0
+0022400113,203999,Nikola Jokić,1,9:12,Murray,3-pointer,3,3,False,0
+0022400113,203999,Nikola Jokić,1,6:53,Murray,2-pointer,2,2,False,0
+0022400113,203999,Nikola Jokić,1,3:40,Strawther,2-pointer,2,2,False,0
+0022400113,203999,Nikola Jokić,2,3:41,Porter Jr.,3-pointer,3,3,False,0
+0022400113,203999,Nikola Jokić,2,2:42,Porter Jr.,3-pointer,3,3,False,0
+0022400113,203999,Nikola Jokić,2,1:27,Murray,2-pointer,2,2,False,0
+0022400113,203999,Nikola Jokić,3,10:58,Murray,3-pointer,3,3,False,0
+0022400113,203999,Nikola Jokić,3,9:36,Gordon,2-pointer,2,2,False,0
+0022400113,203999,Nikola Jokić,3,2:50,Westbrook,2-pointer,2,2,False,0
+0022400113,203999,Nikola Jokić,3,2:04,Porter Jr.,3-pointer,3,3,False,0
+0022400113,203999,Nikola Jokić,4,6:50,Murray,2-pointer,2,2,False,0
+0022400113,203999,Nikola Jokić,4,5:16,Strawther,2-pointer,2,2,False,0
+0022400113,203999,Nikola Jokić,4,4:37,Gordon,2-pointer,2,2,False,0
+0022400113,203999,Nikola Jokić,5,3:09,Porter Jr.,2-pointer,2,2,False,0
+0022400113,203999,Nikola Jokić,5,1:05,Braun,3-pointer,3,3,False,0
+0022400128,1629630,Ja Morant,1,5:56,Pippen Jr.,2-pointer,2,2,True,0
+0022400128,1629630,Ja Morant,1,4:58,Aldama,3-pointer,3,3,False,0
+0022400128,1629630,Ja Morant,1,4:35,Aldama,2-pointer,2,2,False,0
+0022400128,1629630,Ja Morant,1,3:21,Pippen Jr.,2-pointer,2,2,False,0
+0022400128,1629630,Ja Morant,2,7:39,Wells,3-pointer,3,3,False,0
+0022400128,1629630,Ja Morant,2,5:32,Aldama,2-pointer,2,2,False,0
+0022400128,1629630,Ja Morant,2,4:04,Aldama,2-pointer,2,2,False,0
+0022400128,1629630,Ja Morant,2,2:33,Clarke,2-pointer,2,2,True,0
+0022400128,1629630,Ja Morant,2,1:15,Jackson Jr.,2-pointer,2,2,True,0
+0022400128,1629630,Ja Morant,3,9:52,Edey,2-pointer,2,2,False,0
+0022400128,1629630,Ja Morant,3,7:55,Aldama,2-pointer,2,2,False,0
+0022400128,1629630,Ja Morant,3,7:28,Edey,2-pointer,2,2,False,0
+0022400128,1629630,Ja Morant,3,4:38,LaRavia,2-pointer,2,2,False,0
+0022400128,1629630,Ja Morant,4,7:25,Aldama,2-pointer,2,2,False,0
+0022400131,201935,James Harden,1,11:33,Mann,2-pointer,2,2,False,0
+0022400131,201935,James Harden,1,11:01,Mann,2-pointer,2,2,False,0
+0022400131,201935,James Harden,1,10:00,Jones Jr.,3-pointer,3,3,False,0
+0022400131,201935,James Harden,1,9:04,Jones Jr.,2-pointer,2,2,False,0
+0022400131,201935,James Harden,1,8:11,Powell,2-pointer,2,2,False,0
+0022400131,201935,James Harden,1,5:31,Powell,2-pointer,2,2,False,0
+0022400131,201935,James Harden,1,3:13,Porter Jr.,2-pointer,2,2,False,0
+0022400131,201935,James Harden,2,6:59,Mann,2-pointer,2,2,False,0
+0022400131,201935,James Harden,2,6:05,Powell,3-pointer,3,3,False,0
+0022400131,201935,James Harden,2,4:50,Powell,3-pointer,3,3,False,0
+0022400131,201935,James Harden,3,11:46,Zubac,2-pointer,2,2,True,0
+0022400131,201935,James Harden,3,11:11,Zubac,2-pointer,2,2,False,0
+0022400131,201935,James Harden,3,4:37,Dunn,3-pointer,3,3,False,0
+0022400143,1627734,Domantas Sabonis,1,10:38,McDermott,3-pointer,3,3,False,0
+0022400143,1627734,Domantas Sabonis,1,9:36,Fox,2-pointer,2,2,False,0
+0022400143,1627734,Domantas Sabonis,1,8:28,Murray,3-pointer,3,3,False,0
+0022400143,1627734,Domantas Sabonis,1,7:19,Murray,2-pointer,2,2,False,0
+0022400143,1627734,Domantas Sabonis,1,3:47,Monk,3-pointer,3,3,False,0
+0022400143,1627734,Domantas Sabonis,2,6:14,Murray,2-pointer,2,2,False,0
+0022400143,1627734,Domantas Sabonis,2,2:21,Fox,2-pointer,2,2,False,0
+0022400143,1627734,Domantas Sabonis,3,5:57,DeRozan,3-pointer,3,3,False,0
+0022400143,1627734,Domantas Sabonis,4,8:14,Murray,2-pointer,2,2,False,0
+0022400143,1627734,Domantas Sabonis,5,0:40,DeRozan,3-pointer,3,3,False,0
+0022400166,203999,Nikola Jokić,1,10:50,Gordon,3-pointer,3,3,False,0
+0022400166,203999,Nikola Jokić,1,10:14,Braun,2-pointer,2,2,False,0
+0022400166,203999,Nikola Jokić,1,9:48,Westbrook,3-pointer,3,3,False,0
+0022400166,203999,Nikola Jokić,1,5:41,Porter Jr.,3-pointer,3,3,False,0
+0022400166,203999,Nikola Jokić,1,3:06,Watson,2-pointer,2,2,False,0
+0022400166,203999,Nikola Jokić,2,3:58,Porter Jr.,3-pointer,3,3,False,0
+0022400166,203999,Nikola Jokić,2,1:32,Braun,2-pointer,2,2,False,0
+0022400166,203999,Nikola Jokić,3,6:47,Braun,2-pointer,2,2,False,0
+0022400166,203999,Nikola Jokić,3,3:40,Porter Jr.,2-pointer,2,2,False,0
+0022400166,203999,Nikola Jokić,3,3:18,Strawther,2-pointer,2,2,False,0
+0022400166,203999,Nikola Jokić,3,0:22,Strawther,3-pointer,3,3,False,0
+0022400166,203999,Nikola Jokić,4,4:49,Porter Jr.,2-pointer,2,2,False,0
+0022400166,203999,Nikola Jokić,4,2:38,Braun,3-pointer,3,3,False,0
+0022400156,1630595,Cade Cunningham,1,8:45,Hardaway Jr.,2-pointer,2,2,False,0
+0022400156,1630595,Cade Cunningham,1,8:09,Harris,2-pointer,2,2,False,0
+0022400156,1630595,Cade Cunningham,1,3:07,Harris,2-pointer,2,2,False,0
+0022400156,1630595,Cade Cunningham,2,6:09,Duren,2-pointer,2,2,True,0
+0022400156,1630595,Cade Cunningham,2,1:43,Beasley,3-pointer,3,3,False,0
+0022400156,1630595,Cade Cunningham,3,11:21,Duren,2-pointer,2,2,False,0
+0022400156,1630595,Cade Cunningham,3,10:21,Hardaway Jr.,3-pointer,3,3,False,0
+0022400156,1630595,Cade Cunningham,4,9:37,Ivey,2-pointer,2,2,False,0
+0022400156,1630595,Cade Cunningham,4,9:05,Stewart,2-pointer,2,2,False,0
+0022400156,1630595,Cade Cunningham,4,1:36,Ivey,3-pointer,3,3,False,0
+0022400156,1630595,Cade Cunningham,4,1:01,Ivey,2-pointer,2,2,False,0
+0022400180,1627734,Domantas Sabonis,1,10:45,Murray,2-pointer,2,2,False,0
+0022400180,1627734,Domantas Sabonis,1,10:17,DeRozan,2-pointer,2,2,False,0
+0022400180,1627734,Domantas Sabonis,1,8:18,Murray,3-pointer,3,3,False,0
+0022400180,1627734,Domantas Sabonis,1,6:26,Murray,3-pointer,3,3,False,0
+0022400180,1627734,Domantas Sabonis,1,5:39,DeRozan,2-pointer,2,2,True,0
+0022400180,1627734,Domantas Sabonis,1,2:01,Fox,3-pointer,3,3,False,0
+0022400180,1627734,Domantas Sabonis,2,6:36,Huerter,2-pointer,2,2,False,0
+0022400180,1627734,Domantas Sabonis,2,2:13,Murray,2-pointer,2,2,False,0
+0022400180,1627734,Domantas Sabonis,2,1:33,Fox,2-pointer,2,2,False,0
+0022400180,1627734,Domantas Sabonis,2,0:21,DeRozan,3-pointer,3,3,False,0
+0022400180,1627734,Domantas Sabonis,3,8:37,DeRozan,2-pointer,2,2,True,0
+0022400180,1627734,Domantas Sabonis,3,4:59,Monk,2-pointer,2,2,False,0
+0022400180,1627734,Domantas Sabonis,4,4:17,Fox,3-pointer,3,3,False,0
+0022400169,1630595,Cade Cunningham,2,11:10,Beasley,3-pointer,3,3,False,0
+0022400169,1630595,Cade Cunningham,2,8:39,Holland II,3-pointer,3,3,False,0
+0022400169,1630595,Cade Cunningham,2,1:23,Ivey,3-pointer,3,3,False,0
+0022400169,1630595,Cade Cunningham,3,8:29,Harris,2-pointer,2,2,False,0
+0022400169,1630595,Cade Cunningham,3,6:54,Hardaway Jr.,3-pointer,3,3,False,0
+0022400169,1630595,Cade Cunningham,3,4:22,Reed,2-pointer,2,2,False,0
+0022400169,1630595,Cade Cunningham,4,9:35,Fontecchio,3-pointer,3,3,False,0
+0022400169,1630595,Cade Cunningham,4,8:44,Reed,2-pointer,2,2,False,0
+0022400169,1630595,Cade Cunningham,4,7:51,Beasley,2-pointer,2,2,False,0
+0022400169,1630595,Cade Cunningham,4,2:17,Hardaway Jr.,3-pointer,3,3,False,0
+0022400177,203999,Nikola Jokić,1,11:01,Westbrook,2-pointer,2,2,False,0
+0022400177,203999,Nikola Jokić,1,10:13,Westbrook,3-pointer,3,3,False,0
+0022400177,203999,Nikola Jokić,1,6:43,Westbrook,2-pointer,2,2,False,0
+0022400177,203999,Nikola Jokić,1,6:17,Braun,2-pointer,2,2,False,0
+0022400177,203999,Nikola Jokić,1,5:49,Porter Jr.,3-pointer,3,3,False,0
+0022400177,203999,Nikola Jokić,1,2:15,Tyson,2-pointer,2,2,False,0
+0022400177,203999,Nikola Jokić,2,5:07,Watson,2-pointer,2,2,False,0
+0022400177,203999,Nikola Jokić,2,3:23,Westbrook,2-pointer,2,2,False,0
+0022400177,203999,Nikola Jokić,2,3:04,Westbrook,2-pointer,2,2,False,0
+0022400177,203999,Nikola Jokić,2,1:53,Braun,3-pointer,3,3,False,0
+0022400177,203999,Nikola Jokić,3,7:20,Westbrook,3-pointer,3,3,False,0
+0022400177,203999,Nikola Jokić,3,5:56,Westbrook,2-pointer,2,2,False,0
+0022400177,203999,Nikola Jokić,3,4:04,Strawther,3-pointer,3,3,False,0
+0022400177,203999,Nikola Jokić,4,5:08,Porter Jr.,3-pointer,3,3,False,0
+0022400177,203999,Nikola Jokić,4,3:55,Braun,2-pointer,2,2,False,0
+0022400177,203999,Nikola Jokić,4,1:40,Watson,2-pointer,2,2,False,0
+0022400191,1630590,Scotty Pippen Jr.,1,11:44,Clarke,2-pointer,2,2,False,0
+0022400191,1630590,Scotty Pippen Jr.,1,8:34,Jackson Jr.,3-pointer,3,3,False,0
+0022400191,1630590,Scotty Pippen Jr.,2,2:34,Huff,2-pointer,2,2,True,0
+0022400191,1630590,Scotty Pippen Jr.,2,2:08,Jackson Jr.,3-pointer,3,3,False,0
+0022400191,1630590,Scotty Pippen Jr.,3,9:45,Clarke,2-pointer,2,2,False,0
+0022400191,1630590,Scotty Pippen Jr.,3,7:38,Jackson Jr.,3-pointer,3,3,False,0
+0022400191,1630590,Scotty Pippen Jr.,3,6:56,Pippen Jr.,2-pointer,2,2,False,0
+0022400191,1630590,Scotty Pippen Jr.,3,2:39,Kennard,3-pointer,3,3,False,0
+0022400191,1630590,Scotty Pippen Jr.,4,10:58,Jackson Jr.,2-pointer,2,2,False,0
+0022400191,1630590,Scotty Pippen Jr.,4,8:45,Jackson Jr.,2-pointer,2,2,False,0
+0022400191,1630590,Scotty Pippen Jr.,4,8:03,Jackson Jr.,3-pointer,3,3,False,0
+0022400191,1630590,Scotty Pippen Jr.,4,7:24,Aldama,2-pointer,2,2,False,0
+0022400185,1630595,Cade Cunningham,1,11:29,Stewart,2-pointer,2,2,False,0
+0022400185,1630595,Cade Cunningham,1,8:48,Hardaway Jr.,3-pointer,3,3,False,0
+0022400185,1630595,Cade Cunningham,1,8:21,Stewart,2-pointer,2,2,False,0
+0022400185,1630595,Cade Cunningham,1,5:51,Ivey,2-pointer,2,2,False,0
+0022400185,1630595,Cade Cunningham,1,4:20,Reed,3-pointer,3,3,False,0
+0022400185,1630595,Cade Cunningham,1,3:50,Reed,2-pointer,2,2,False,0
+0022400185,1630595,Cade Cunningham,2,10:20,Stewart,2-pointer,2,2,False,0
+0022400185,1630595,Cade Cunningham,2,4:37,Harris,3-pointer,3,3,False,0
+0022400185,1630595,Cade Cunningham,2,3:23,Beasley,3-pointer,3,3,False,0
+0022400185,1630595,Cade Cunningham,3,10:16,Ivey,3-pointer,3,3,False,0
+0022400185,1630595,Cade Cunningham,3,3:33,Beasley,2-pointer,2,2,False,0
+0022400185,1630595,Cade Cunningham,3,0:01,Beasley,3-pointer,3,3,False,0
+0022400185,1630595,Cade Cunningham,4,6:43,Fontecchio,2-pointer,2,2,False,0
+0022400194,203999,Nikola Jokić,1,11:26,Watson,2-pointer,2,2,False,0
+0022400194,203999,Nikola Jokić,1,9:46,Porter Jr.,2-pointer,2,2,False,0
+0022400194,203999,Nikola Jokić,1,8:39,Porter Jr.,3-pointer,3,3,False,0
+0022400194,203999,Nikola Jokić,1,8:10,Watson,3-pointer,3,3,False,0
+0022400194,203999,Nikola Jokić,1,7:50,Murray,3-pointer,3,3,False,0
+0022400194,203999,Nikola Jokić,2,6:26,Strawther,2-pointer,2,2,False,0
+0022400194,203999,Nikola Jokić,2,4:05,Murray,3-pointer,3,3,False,0
+0022400194,203999,Nikola Jokić,2,1:18,Braun,3-pointer,3,3,False,0
+0022400194,203999,Nikola Jokić,3,11:50,Porter Jr.,3-pointer,3,3,False,0
+0022400194,203999,Nikola Jokić,3,11:12,Braun,2-pointer,2,2,False,0
+0022400194,203999,Nikola Jokić,3,10:11,Porter Jr.,2-pointer,2,2,False,0
+0022400194,203999,Nikola Jokić,3,1:37,Tyson,2-pointer,2,2,False,0
+0022400194,203999,Nikola Jokić,3,0:12,Murray,2-pointer,2,2,False,0
+0022400194,203999,Nikola Jokić,4,0:35,Braun,2-pointer,2,2,False,0
+0022400195,2544,LeBron James,1,11:41,Hachimura,3-pointer,3,3,False,0
+0022400195,2544,LeBron James,1,10:16,Davis,2-pointer,2,2,False,0
+0022400195,2544,LeBron James,1,9:05,Reaves,3-pointer,3,3,False,0
+0022400195,2544,LeBron James,1,7:13,Davis,2-pointer,2,2,False,0
+0022400195,2544,LeBron James,1,6:41,Reddish,3-pointer,3,3,False,0
+0022400195,2544,LeBron James,1,6:15,Davis,2-pointer,2,2,False,0
+0022400195,2544,LeBron James,2,6:24,Reaves,3-pointer,3,3,False,0
+0022400195,2544,LeBron James,2,0:25,Reaves,3-pointer,3,3,False,0
+0022400195,2544,LeBron James,3,10:57,Reaves,3-pointer,3,3,False,0
+0022400195,2544,LeBron James,3,8:12,Hachimura,3-pointer,3,3,False,0
+0022400195,2544,LeBron James,3,1:13,Russell,2-pointer,2,2,True,0
+0022400195,2544,LeBron James,3,0:38,Russell,3-pointer,3,3,False,0
+0022400195,2544,LeBron James,4,9:38,Hayes,2-pointer,2,2,False,0
+0022400208,203999,Nikola Jokić,1,11:46,Murray,2-pointer,2,2,True,0
+0022400208,203999,Nikola Jokić,1,10:09,Porter Jr.,2-pointer,2,2,False,0
+0022400208,203999,Nikola Jokić,1,8:25,Murray,2-pointer,2,2,False,0
+0022400208,203999,Nikola Jokić,1,7:53,Watson,3-pointer,3,3,False,0
+0022400208,203999,Nikola Jokić,1,4:46,Watson,2-pointer,2,2,False,0
+0022400208,203999,Nikola Jokić,1,3:48,Strawther,2-pointer,2,2,False,0
+0022400208,203999,Nikola Jokić,2,3:28,Watson,2-pointer,2,2,False,0
+0022400208,203999,Nikola Jokić,3,11:21,Watson,3-pointer,3,3,False,0
+0022400208,203999,Nikola Jokić,3,10:51,Murray,3-pointer,3,3,False,0
+0022400208,203999,Nikola Jokić,3,10:24,Murray,2-pointer,2,2,False,0
+0022400208,203999,Nikola Jokić,3,9:09,Braun,3-pointer,3,3,False,0
+0022400208,203999,Nikola Jokić,3,8:33,Braun,2-pointer,2,2,False,0
+0022400208,203999,Nikola Jokić,3,3:48,Strawther,3-pointer,3,3,False,0
+0022400208,203999,Nikola Jokić,3,2:48,Watson,3-pointer,3,3,False,0
+0022400208,203999,Nikola Jokić,4,7:09,Murray,2-pointer,2,2,False,0
+0022400211,2544,LeBron James,1,10:54,Davis,3-pointer,3,3,False,0
+0022400211,2544,LeBron James,1,7:40,Hachimura,2-pointer,2,2,False,0
+0022400211,2544,LeBron James,1,1:11,Vincent,3-pointer,3,3,False,0
+0022400211,2544,LeBron James,2,11:35,Russell,3-pointer,3,3,False,0
+0022400211,2544,LeBron James,2,6:52,Davis,2-pointer,2,2,False,0
+0022400211,2544,LeBron James,2,0:00,Russell,3-pointer,3,3,False,0
+0022400211,2544,LeBron James,3,9:53,Reaves,2-pointer,2,2,True,0
+0022400211,2544,LeBron James,3,7:58,Davis,3-pointer,3,3,False,0
+0022400211,2544,LeBron James,3,2:14,Knecht,3-pointer,3,3,False,0
+0022400211,2544,LeBron James,3,0:00,Reddish,2-pointer,2,2,False,0
+0022400211,2544,LeBron James,4,10:57,Reddish,2-pointer,2,2,False,0
+0022400211,2544,LeBron James,4,9:24,Hayes,2-pointer,2,2,False,0
+0022400211,2544,LeBron James,4,9:00,Hayes,2-pointer,2,2,False,0
+0022400211,2544,LeBron James,4,7:13,Reaves,2-pointer,2,2,False,0
+0022400211,2544,LeBron James,4,2:31,Reaves,2-pointer,2,2,True,0
+0022400211,2544,LeBron James,4,1:40,Reaves,3-pointer,3,3,False,0
+0022400001,1630552,Jalen Johnson,1,8:05,Capela,2-pointer,2,2,False,0
+0022400001,1630552,Jalen Johnson,2,11:21,Okongwu,2-pointer,2,2,False,0
+0022400001,1630552,Jalen Johnson,2,9:15,Okongwu,2-pointer,2,2,False,0
+0022400001,1630552,Jalen Johnson,2,8:19,Roddy,2-pointer,2,2,False,0
+0022400001,1630552,Jalen Johnson,3,11:07,Capela,2-pointer,2,2,False,0
+0022400001,1630552,Jalen Johnson,3,7:17,Capela,2-pointer,2,2,False,0
+0022400001,1630552,Jalen Johnson,4,8:59,Wallace,3-pointer,3,3,False,0
+0022400001,1630552,Jalen Johnson,4,7:50,Okongwu,2-pointer,2,2,False,0
+0022400001,1630552,Jalen Johnson,4,6:29,Daniels,2-pointer,2,2,False,0
+0022400001,1630552,Jalen Johnson,4,1:09,Nance Jr.,3-pointer,3,3,False,0
+0022400004,1628404,Josh Hart,1,10:59,Towns,3-pointer,3,3,False,0
+0022400004,1628404,Josh Hart,1,6:47,Anunoby,2-pointer,2,2,False,0
+0022400004,1628404,Josh Hart,2,4:14,Anunoby,3-pointer,3,3,False,0
+0022400004,1628404,Josh Hart,2,3:11,Brunson,2-pointer,2,2,False,0
+0022400004,1628404,Josh Hart,3,10:25,Anunoby,2-pointer,2,2,False,0
+0022400004,1628404,Josh Hart,3,9:14,Anunoby,3-pointer,3,3,False,0
+0022400004,1628404,Josh Hart,4,10:37,Anunoby,2-pointer,2,2,False,0
+0022400004,1628404,Josh Hart,4,8:14,Towns,2-pointer,2,2,False,0
+0022400004,1628404,Josh Hart,4,1:29,Towns,2-pointer,2,2,False,0
+0022400004,1628404,Josh Hart,4,0:49,Anunoby,2-pointer,2,2,False,0
+0022400225,2544,LeBron James,1,11:22,Hachimura,3-pointer,3,3,False,0
+0022400225,2544,LeBron James,1,8:14,Reaves,3-pointer,3,3,False,0
+0022400225,2544,LeBron James,1,7:22,Hachimura,3-pointer,3,3,False,0
+0022400225,2544,LeBron James,1,2:28,Knecht,3-pointer,3,3,False,0
+0022400225,2544,LeBron James,1,1:39,Russell,2-pointer,2,2,False,0
+0022400225,2544,LeBron James,2,9:50,Hachimura,2-pointer,2,2,False,0
+0022400225,2544,LeBron James,3,4:05,Reaves,3-pointer,3,3,False,0
+0022400225,2544,LeBron James,3,3:04,Knecht,2-pointer,2,2,False,0
+0022400225,2544,LeBron James,3,2:36,Reaves,2-pointer,2,2,True,0
+0022400225,2544,LeBron James,4,11:38,Knecht,3-pointer,3,3,False,0
+0022400225,2544,LeBron James,4,9:58,Russell,3-pointer,3,3,False,0
+0022400225,2544,LeBron James,4,8:05,Koloko,2-pointer,2,2,False,0
+0022400225,2544,LeBron James,4,3:49,Davis,3-pointer,3,3,False,0
+0022400225,2544,LeBron James,4,2:23,Hachimura,3-pointer,3,3,False,0
+0022400016,1630578,Alperen Sengun,1,3:37,VanVleet,3-pointer,3,3,False,0
+0022400016,1630578,Alperen Sengun,2,6:36,Brooks,3-pointer,3,3,False,0
+0022400016,1630578,Alperen Sengun,2,3:34,Smith Jr.,3-pointer,3,3,False,0
+0022400016,1630578,Alperen Sengun,2,2:09,VanVleet,3-pointer,3,3,False,0
+0022400016,1630578,Alperen Sengun,3,9:52,Green,2-pointer,2,2,False,0
+0022400016,1630578,Alperen Sengun,3,7:17,Brooks,3-pointer,3,3,False,0
+0022400016,1630578,Alperen Sengun,3,3:42,Thompson,2-pointer,2,2,False,0
+0022400016,1630578,Alperen Sengun,4,5:58,Brooks,3-pointer,3,3,False,0
+0022400016,1630578,Alperen Sengun,4,5:24,Brooks,3-pointer,3,3,False,0
+0022400016,1630578,Alperen Sengun,4,2:41,Tate,2-pointer,2,2,True,0
+0022400015,2544,LeBron James,1,9:00,Knecht,2-pointer,2,2,False,0
+0022400015,2544,LeBron James,2,11:35,Vincent,2-pointer,2,2,False,0
+0022400015,2544,LeBron James,2,10:20,Koloko,2-pointer,2,2,False,0
+0022400015,2544,LeBron James,2,9:56,Christie,2-pointer,2,2,False,0
+0022400015,2544,LeBron James,2,9:41,Christie,3-pointer,3,3,False,0
+0022400015,2544,LeBron James,2,6:46,Reaves,3-pointer,3,3,False,0
+0022400015,2544,LeBron James,2,1:47,Christie,2-pointer,2,2,False,0
+0022400015,2544,LeBron James,2,0:14,Davis,2-pointer,2,2,False,0
+0022400015,2544,LeBron James,3,7:51,Davis,2-pointer,2,2,False,0
+0022400015,2544,LeBron James,3,6:08,Reaves,3-pointer,3,3,False,0
+0022400015,2544,LeBron James,4,10:24,Russell,3-pointer,3,3,False,0
+0022400015,2544,LeBron James,4,7:18,Davis,3-pointer,3,3,False,0
+0022400229,203507,Giannis Antetokounmpo,1,11:41,Prince,3-pointer,3,3,False,0
+0022400229,203507,Giannis Antetokounmpo,1,10:48,Lopez,3-pointer,3,3,False,0
+0022400229,203507,Giannis Antetokounmpo,1,8:58,Jackson Jr.,3-pointer,3,3,False,0
+0022400229,203507,Giannis Antetokounmpo,1,6:45,Prince,3-pointer,3,3,False,0
+0022400229,203507,Giannis Antetokounmpo,1,4:58,Portis,2-pointer,2,2,False,0
+0022400229,203507,Giannis Antetokounmpo,1,4:10,Wright,3-pointer,3,3,False,0
+0022400229,203507,Giannis Antetokounmpo,2,4:39,Connaughton,2-pointer,2,2,False,0
+0022400229,203507,Giannis Antetokounmpo,2,1:48,Portis,3-pointer,3,3,False,0
+0022400229,203507,Giannis Antetokounmpo,2,0:00,Prince,2-pointer,2,2,False,0
+0022400229,203507,Giannis Antetokounmpo,3,9:49,Jackson Jr.,3-pointer,3,3,False,0
+0022400229,203507,Giannis Antetokounmpo,4,0:50,Connaughton,3-pointer,3,3,False,0
+0022400229,203507,Giannis Antetokounmpo,4,0:19,Connaughton,2-pointer,2,2,False,0
+0022400230,1629628,RJ Barrett,1,10:45,Poeltl,2-pointer,2,2,False,0
+0022400230,1629628,RJ Barrett,2,8:21,Poeltl,2-pointer,2,2,False,0
+0022400230,1629628,RJ Barrett,2,7:44,Poeltl,2-pointer,2,2,False,0
+0022400230,1629628,RJ Barrett,2,4:40,Mitchell,2-pointer,2,2,False,0
+0022400230,1629628,RJ Barrett,2,1:52,Poeltl,2-pointer,2,2,False,0
+0022400230,1629628,RJ Barrett,3,9:45,Mitchell,2-pointer,2,2,False,0
+0022400230,1629628,RJ Barrett,3,8:32,Poeltl,2-pointer,2,2,False,0
+0022400230,1629628,RJ Barrett,3,5:42,Fernando,2-pointer,2,2,False,0
+0022400230,1629628,RJ Barrett,3,4:06,Mogbo,2-pointer,2,2,False,0
+0022400230,1629628,RJ Barrett,3,2:03,Boucher,2-pointer,2,2,True,0
+0022400230,1629628,RJ Barrett,3,0:34,Poeltl,2-pointer,2,2,False,0
+0022400230,1629628,RJ Barrett,4,6:52,Boucher,3-pointer,3,3,False,0
+0022400230,1629628,RJ Barrett,4,1:27,Dick,2-pointer,2,2,False,0
+0022400230,1629628,RJ Barrett,5,3:48,Poeltl,2-pointer,2,2,False,0
+0022400230,1629628,RJ Barrett,5,2:25,Agbaji,3-pointer,3,3,False,0
+0022400241,1630578,Alperen Sengun,1,7:50,Brooks,2-pointer,2,2,False,0
+0022400241,1630578,Alperen Sengun,1,5:56,VanVleet,3-pointer,3,3,False,0
+0022400241,1630578,Alperen Sengun,2,4:31,Smith Jr.,2-pointer,2,2,False,0
+0022400241,1630578,Alperen Sengun,2,3:38,VanVleet,2-pointer,2,2,False,0
+0022400241,1630578,Alperen Sengun,2,2:42,Brooks,2-pointer,2,2,False,0
+0022400241,1630578,Alperen Sengun,2,1:15,Brooks,2-pointer,2,2,False,0
+0022400241,1630578,Alperen Sengun,3,11:31,VanVleet,2-pointer,2,2,False,0
+0022400241,1630578,Alperen Sengun,3,10:30,Brooks,3-pointer,3,3,False,0
+0022400241,1630578,Alperen Sengun,3,10:10,Green,2-pointer,2,2,False,0
+0022400241,1630578,Alperen Sengun,3,9:49,Smith Jr.,2-pointer,2,2,False,0
+0022400241,1630578,Alperen Sengun,3,5:03,VanVleet,2-pointer,2,2,False,0
+0022400237,1630595,Cade Cunningham,1,10:33,Beasley,2-pointer,2,2,False,0
+0022400237,1630595,Cade Cunningham,1,6:41,Beasley,2-pointer,2,2,False,0
+0022400237,1630595,Cade Cunningham,2,9:14,Beasley,3-pointer,3,3,False,0
+0022400237,1630595,Cade Cunningham,2,8:48,Sasser,3-pointer,3,3,False,0
+0022400237,1630595,Cade Cunningham,3,11:45,Beasley,3-pointer,3,3,False,0
+0022400237,1630595,Cade Cunningham,3,7:22,Ivey,3-pointer,3,3,False,0
+0022400237,1630595,Cade Cunningham,3,5:19,Duren,2-pointer,2,2,False,0
+0022400237,1630595,Cade Cunningham,4,9:30,Beasley,2-pointer,2,2,False,0
+0022400237,1630595,Cade Cunningham,4,8:18,Beasley,2-pointer,2,2,False,0
+0022400237,1630595,Cade Cunningham,4,6:31,Beasley,3-pointer,3,3,False,0
+0022400023,201566,Russell Westbrook,1,1:37,Braun,2-pointer,2,2,False,0
+0022400023,201566,Russell Westbrook,1,1:00,Braun,2-pointer,2,2,False,0
+0022400023,201566,Russell Westbrook,1,0:48,Porter Jr.,2-pointer,2,2,False,0
+0022400023,201566,Russell Westbrook,2,8:28,Watson,2-pointer,2,2,False,0
+0022400023,201566,Russell Westbrook,2,3:17,Murray,3-pointer,3,3,False,0
+0022400023,201566,Russell Westbrook,2,2:36,Watson,3-pointer,3,3,False,0
+0022400023,201566,Russell Westbrook,2,1:10,Porter Jr.,2-pointer,2,2,True,0
+0022400023,201566,Russell Westbrook,3,8:19,Porter Jr.,2-pointer,2,2,True,0
+0022400023,201566,Russell Westbrook,3,7:53,Jordan,2-pointer,2,2,False,0
+0022400023,201566,Russell Westbrook,3,0:23,Nnaji,2-pointer,2,2,False,0
+0022400023,201566,Russell Westbrook,4,8:59,Porter Jr.,2-pointer,2,2,False,0
+0022400023,201566,Russell Westbrook,4,8:10,Murray,3-pointer,3,3,False,0
+0022400023,201566,Russell Westbrook,4,7:46,Murray,3-pointer,3,3,False,0
+0022400023,201566,Russell Westbrook,4,2:42,Watson,2-pointer,2,2,False,0
+0022400029,203507,Giannis Antetokounmpo,1,8:25,Lopez,2-pointer,2,2,False,0
+0022400029,203507,Giannis Antetokounmpo,1,4:07,Portis,3-pointer,3,3,False,0
+0022400029,203507,Giannis Antetokounmpo,1,3:35,Portis,3-pointer,3,3,False,0
+0022400029,203507,Giannis Antetokounmpo,1,0:45,Trent Jr.,3-pointer,3,3,False,0
+0022400029,203507,Giannis Antetokounmpo,2,2:16,Portis,2-pointer,2,2,False,0
+0022400029,203507,Giannis Antetokounmpo,3,10:00,Prince,3-pointer,3,3,False,0
+0022400029,203507,Giannis Antetokounmpo,3,8:16,Lillard,3-pointer,3,3,False,0
+0022400029,203507,Giannis Antetokounmpo,3,7:52,Lillard,3-pointer,3,3,False,0
+0022400029,203507,Giannis Antetokounmpo,3,6:46,Prince,2-pointer,2,2,False,0
+0022400029,203507,Giannis Antetokounmpo,4,7:27,Lillard,3-pointer,3,3,False,0
+0022400029,203507,Giannis Antetokounmpo,4,5:33,Trent Jr.,3-pointer,3,3,False,0
+0022400033,203999,Nikola Jokić,1,10:38,Braun,2-pointer,2,2,False,0
+0022400033,203999,Nikola Jokić,1,9:18,Braun,3-pointer,3,3,False,0
+0022400033,203999,Nikola Jokić,1,7:31,Murray,3-pointer,3,3,False,0
+0022400033,203999,Nikola Jokić,2,8:08,Westbrook,3-pointer,3,3,False,0
+0022400033,203999,Nikola Jokić,3,9:28,Porter Jr.,2-pointer,2,2,False,0
+0022400033,203999,Nikola Jokić,3,6:17,Porter Jr.,3-pointer,3,3,False,0
+0022400033,203999,Nikola Jokić,3,5:25,Braun,2-pointer,2,2,False,0
+0022400033,203999,Nikola Jokić,3,2:58,Porter Jr.,2-pointer,2,2,False,0
+0022400033,203999,Nikola Jokić,4,5:34,Watson,3-pointer,3,3,False,0
+0022400033,203999,Nikola Jokić,4,0:10,Murray,3-pointer,3,3,True,0
+0022400037,1630578,Alperen Sengun,1,10:13,Brooks,3-pointer,3,3,False,0
+0022400037,1630578,Alperen Sengun,1,7:48,VanVleet,3-pointer,3,3,False,0
+0022400037,1630578,Alperen Sengun,1,6:23,Green,2-pointer,2,2,False,0
+0022400037,1630578,Alperen Sengun,1,5:31,Brooks,2-pointer,2,2,False,0
+0022400037,1630578,Alperen Sengun,2,7:41,VanVleet,3-pointer,3,3,False,0
+0022400037,1630578,Alperen Sengun,3,8:21,Smith Jr.,2-pointer,2,2,False,0
+0022400037,1630578,Alperen Sengun,3,5:17,VanVleet,2-pointer,2,2,False,0
+0022400037,1630578,Alperen Sengun,4,10:48,Thompson,2-pointer,2,2,False,0
+0022400037,1630578,Alperen Sengun,4,8:54,VanVleet,3-pointer,3,3,False,0
+0022400037,1630578,Alperen Sengun,4,1:51,VanVleet,3-pointer,3,3,False,0
+0022400037,1630578,Alperen Sengun,5,1:26,Brooks,2-pointer,2,2,False,0
+0022400296,2544,LeBron James,1,9:24,Knecht,3-pointer,3,3,False,0
+0022400296,2544,LeBron James,1,6:54,Knecht,2-pointer,2,2,False,0
+0022400296,2544,LeBron James,1,1:16,Russell,2-pointer,2,2,False,0
+0022400296,2544,LeBron James,2,8:57,Russell,3-pointer,3,3,False,0
+0022400296,2544,LeBron James,2,0:00,Reaves,3-pointer,3,3,False,0
+0022400296,2544,LeBron James,3,10:23,Davis,2-pointer,2,2,False,0
+0022400296,2544,LeBron James,3,7:36,Hachimura,3-pointer,3,3,False,0
+0022400296,2544,LeBron James,3,1:05,Christie,2-pointer,2,2,True,0
+0022400296,2544,LeBron James,4,9:17,Hachimura,2-pointer,2,2,False,0
+0022400296,2544,LeBron James,4,3:58,Knecht,2-pointer,2,2,False,0
+0022400296,2544,LeBron James,4,3:35,Knecht,3-pointer,3,3,False,0
+0022400049,1627734,Domantas Sabonis,1,9:15,Fox,2-pointer,2,2,False,0
+0022400049,1627734,Domantas Sabonis,1,8:17,Monk,3-pointer,3,3,False,0
+0022400049,1627734,Domantas Sabonis,3,6:20,Jones,2-pointer,2,2,True,0
+0022400049,1627734,Domantas Sabonis,3,5:47,Fox,2-pointer,2,2,False,0
+0022400049,1627734,Domantas Sabonis,3,3:21,Monk,2-pointer,2,2,True,0
+0022400049,1627734,Domantas Sabonis,3,2:41,Monk,3-pointer,3,3,False,0
+0022400049,1627734,Domantas Sabonis,4,9:15,Fox,2-pointer,2,2,False,0
+0022400049,1627734,Domantas Sabonis,4,8:17,Crowder,2-pointer,2,2,False,0
+0022400049,1627734,Domantas Sabonis,4,7:44,Monk,2-pointer,2,2,False,0
+0022400049,1627734,Domantas Sabonis,4,0:25,Monk,3-pointer,3,3,False,0
+0022400049,1627734,Domantas Sabonis,4,0:04,Monk,3-pointer,3,3,False,0
+0022400046,1628389,Bam Adebayo,1,7:32,Herro,3-pointer,3,3,False,0
+0022400046,1628389,Bam Adebayo,2,5:54,Herro,2-pointer,2,2,False,0
+0022400046,1628389,Bam Adebayo,2,1:03,Robinson,2-pointer,2,2,False,0
+0022400046,1628389,Bam Adebayo,2,0:34,Butler III,3-pointer,3,3,False,0
+0022400046,1628389,Bam Adebayo,3,11:05,Butler III,2-pointer,2,2,False,0
+0022400046,1628389,Bam Adebayo,3,9:57,Herro,2-pointer,2,2,True,0
+0022400046,1628389,Bam Adebayo,3,6:46,Herro,3-pointer,3,3,False,0
+0022400046,1628389,Bam Adebayo,4,10:26,Robinson,3-pointer,3,3,False,0
+0022400046,1628389,Bam Adebayo,4,9:52,Rozier,3-pointer,3,3,False,0
+0022400046,1628389,Bam Adebayo,4,2:03,Butler III,3-pointer,3,3,False,0
+0022400046,1630567,Scottie Barnes,1,10:16,Poeltl,2-pointer,2,2,False,0
+0022400046,1630567,Scottie Barnes,1,7:48,Barrett,2-pointer,2,2,False,0
+0022400046,1630567,Scottie Barnes,2,9:43,Mogbo,2-pointer,2,2,False,0
+0022400046,1630567,Scottie Barnes,2,0:14,Poeltl,2-pointer,2,2,False,0
+0022400046,1630567,Scottie Barnes,3,6:16,Agbaji,3-pointer,3,3,False,0
+0022400046,1630567,Scottie Barnes,4,7:32,Poeltl,2-pointer,2,2,False,0
+0022400046,1630567,Scottie Barnes,4,7:11,Agbaji,3-pointer,3,3,False,0
+0022400046,1630567,Scottie Barnes,4,5:31,Barrett,3-pointer,3,3,False,0
+0022400046,1630567,Scottie Barnes,4,1:54,Agbaji,2-pointer,2,2,False,0
+0022400046,1630567,Scottie Barnes,4,0:25,Poeltl,2-pointer,2,2,False,0
+0022400302,203507,Giannis Antetokounmpo,1,9:51,Lillard,3-pointer,3,3,False,0
+0022400302,203507,Giannis Antetokounmpo,1,7:31,Prince,3-pointer,3,3,False,0
+0022400302,203507,Giannis Antetokounmpo,1,3:57,Green,2-pointer,2,2,False,0
+0022400302,203507,Giannis Antetokounmpo,1,0:02,Green,3-pointer,3,3,False,0
+0022400302,203507,Giannis Antetokounmpo,2,6:14,Green,3-pointer,3,3,False,0
+0022400302,203507,Giannis Antetokounmpo,2,5:53,Lillard,3-pointer,3,3,False,0
+0022400302,203507,Giannis Antetokounmpo,2,4:16,Prince,3-pointer,3,3,False,0
+0022400302,203507,Giannis Antetokounmpo,3,4:32,Portis,3-pointer,3,3,False,0
+0022400302,203507,Giannis Antetokounmpo,3,1:52,Green,3-pointer,3,3,False,0
+0022400302,203507,Giannis Antetokounmpo,4,3:25,Lopez,2-pointer,2,2,False,0
+0022400302,203507,Giannis Antetokounmpo,4,2:02,Prince,3-pointer,3,3,False,0
+0022400313,1641705,Victor Wembanyama,1,8:12,Castle,2-pointer,2,2,False,0
+0022400313,1641705,Victor Wembanyama,1,6:41,Castle,3-pointer,3,3,False,0
+0022400313,1641705,Victor Wembanyama,2,11:19,Johnson,3-pointer,3,3,False,0
+0022400313,1641705,Victor Wembanyama,2,3:23,Vassell,2-pointer,2,2,False,0
+0022400313,1641705,Victor Wembanyama,3,9:32,Castle,3-pointer,3,3,False,0
+0022400313,1641705,Victor Wembanyama,3,8:05,Paul,3-pointer,3,3,False,0
+0022400313,1641705,Victor Wembanyama,3,6:25,Barnes,2-pointer,2,2,False,0
+0022400313,1641705,Victor Wembanyama,4,10:41,Jones,2-pointer,2,2,False,0
+0022400313,1641705,Victor Wembanyama,4,9:56,Johnson,3-pointer,3,3,False,0
+0022400313,1641705,Victor Wembanyama,4,2:49,Vassell,3-pointer,3,3,False,0
+0022400313,1641705,Victor Wembanyama,4,0:20,Paul,3-pointer,3,3,False,0
+0022400314,203999,Nikola Jokić,2,6:14,Murray,2-pointer,2,2,False,0
+0022400314,203999,Nikola Jokić,2,4:23,Porter Jr.,2-pointer,2,2,False,0
+0022400314,203999,Nikola Jokić,2,2:43,Braun,2-pointer,2,2,False,0
+0022400314,203999,Nikola Jokić,2,1:02,Watson,2-pointer,2,2,False,0
+0022400314,203999,Nikola Jokić,2,0:35,Watson,2-pointer,2,2,False,0
+0022400314,203999,Nikola Jokić,3,11:46,Watson,2-pointer,2,2,False,0
+0022400314,203999,Nikola Jokić,3,9:20,Braun,2-pointer,2,2,False,0
+0022400314,203999,Nikola Jokić,3,5:13,Porter Jr.,2-pointer,2,2,False,0
+0022400314,203999,Nikola Jokić,3,4:52,Braun,2-pointer,2,2,False,0
+0022400314,203999,Nikola Jokić,3,2:55,Watson,2-pointer,2,2,False,0
+0022400314,203999,Nikola Jokić,4,5:38,Gordon,2-pointer,2,2,False,0
+0022400317,1630581,Josh Giddey,1,8:21,Vučević,3-pointer,3,3,False,0
+0022400317,1630581,Josh Giddey,1,1:15,Smith,3-pointer,3,3,False,0
+0022400317,1630581,Josh Giddey,3,11:45,Vučević,2-pointer,2,2,False,0
+0022400317,1630581,Josh Giddey,3,10:18,Vučević,3-pointer,3,3,False,0
+0022400317,1630581,Josh Giddey,3,9:01,Vučević,2-pointer,2,2,False,0
+0022400317,1630581,Josh Giddey,3,2:04,Terry,2-pointer,2,2,False,0
+0022400317,1630581,Josh Giddey,3,1:17,Buzelis,3-pointer,3,3,False,0
+0022400317,1630581,Josh Giddey,3,0:24,Buzelis,2-pointer,2,2,False,0
+0022400317,1630581,Josh Giddey,4,6:19,Vučević,2-pointer,2,2,False,0
+0022400317,1630581,Josh Giddey,4,6:01,Dosunmu,2-pointer,2,2,True,0
+0022400317,1630581,Josh Giddey,4,5:39,Dosunmu,2-pointer,2,2,False,0
+0022400053,1628404,Josh Hart,1,5:46,Towns,2-pointer,2,2,False,0
+0022400053,1628404,Josh Hart,2,10:45,McBride,3-pointer,3,3,False,0
+0022400053,1628404,Josh Hart,2,3:01,Anunoby,2-pointer,2,2,False,0
+0022400053,1628404,Josh Hart,3,10:49,Brunson,3-pointer,3,3,False,0
+0022400053,1628404,Josh Hart,3,8:50,Towns,2-pointer,2,2,True,0
+0022400053,1628404,Josh Hart,3,7:33,Bridges,3-pointer,3,3,False,0
+0022400053,1628404,Josh Hart,3,6:12,Anunoby,3-pointer,3,3,False,0
+0022400053,1628404,Josh Hart,3,5:49,Brunson,2-pointer,2,2,False,0
+0022400053,1628404,Josh Hart,4,10:56,Towns,3-pointer,3,3,False,0
+0022400053,1628404,Josh Hart,4,5:09,McBride,3-pointer,3,3,False,0
+0022400325,203999,Nikola Jokić,1,7:11,Braun,2-pointer,2,2,False,0
+0022400325,203999,Nikola Jokić,1,6:25,Westbrook,2-pointer,2,2,False,0
+0022400325,203999,Nikola Jokić,2,6:07,Gordon,2-pointer,2,2,False,0
+0022400325,203999,Nikola Jokić,2,3:26,Porter Jr.,3-pointer,3,3,False,0
+0022400325,203999,Nikola Jokić,2,1:00,Porter Jr.,2-pointer,2,2,False,0
+0022400325,203999,Nikola Jokić,3,10:34,Gordon,2-pointer,2,2,False,0
+0022400325,203999,Nikola Jokić,3,9:11,Braun,2-pointer,2,2,False,0
+0022400325,203999,Nikola Jokić,3,3:29,Westbrook,3-pointer,3,3,False,0
+0022400325,203999,Nikola Jokić,3,0:59,Watson,3-pointer,3,3,False,0
+0022400325,203999,Nikola Jokić,4,3:37,Porter Jr.,3-pointer,3,3,False,0
+0022400325,203999,Nikola Jokić,4,2:30,Porter Jr.,2-pointer,2,2,False,0
+0022400331,1630245,Ayo Dosunmu,1,9:45,Vučević,2-pointer,2,2,False,0
+0022400331,1630245,Ayo Dosunmu,1,2:42,Terry,2-pointer,2,2,True,0
+0022400331,1630245,Ayo Dosunmu,1,1:58,Terry,2-pointer,2,2,False,0
+0022400331,1630245,Ayo Dosunmu,1,1:42,Smith,2-pointer,2,2,False,0
+0022400331,1630245,Ayo Dosunmu,2,11:19,Horton-Tucker,3-pointer,3,3,False,0
+0022400331,1630245,Ayo Dosunmu,2,8:40,Buzelis,3-pointer,3,3,False,0
+0022400331,1630245,Ayo Dosunmu,2,7:47,Smith,3-pointer,3,3,False,0
+0022400331,1630245,Ayo Dosunmu,2,1:51,Vučević,3-pointer,3,3,False,0
+0022400331,1630245,Ayo Dosunmu,3,10:09,Vučević,3-pointer,3,3,False,0
+0022400331,1630245,Ayo Dosunmu,3,4:04,Vučević,2-pointer,2,2,False,0
+0022400331,1630245,Ayo Dosunmu,4,2:28,Horton-Tucker,3-pointer,3,3,False,0
+0022400334,2544,LeBron James,1,11:00,Hachimura,2-pointer,2,2,False,0
+0022400334,2544,LeBron James,1,7:28,Davis,2-pointer,2,2,False,0
+0022400334,2544,LeBron James,1,6:31,Hachimura,3-pointer,3,3,False,0
+0022400334,2544,LeBron James,2,6:52,Knecht,2-pointer,2,2,False,0
+0022400334,2544,LeBron James,2,2:11,Davis,2-pointer,2,2,True,0
+0022400334,2544,LeBron James,2,1:16,Davis,2-pointer,2,2,False,0
+0022400334,2544,LeBron James,2,0:51,Davis,2-pointer,2,2,False,0
+0022400334,2544,LeBron James,3,10:57,Hachimura,3-pointer,3,3,False,0
+0022400334,2544,LeBron James,3,9:44,Vincent,2-pointer,2,2,False,0
+0022400334,2544,LeBron James,3,6:12,Vincent,2-pointer,2,2,False,0
+0022400334,2544,LeBron James,5,0:42,Davis,2-pointer,2,2,False,0
+0022400343,1630595,Cade Cunningham,1,11:35,Hardaway Jr.,3-pointer,3,3,False,0
+0022400343,1630595,Cade Cunningham,1,10:21,Harris,2-pointer,2,2,False,0
+0022400343,1630595,Cade Cunningham,1,6:21,Hardaway Jr.,2-pointer,2,2,False,0
+0022400343,1630595,Cade Cunningham,1,6:08,Ivey,2-pointer,2,2,False,0
+0022400343,1630595,Cade Cunningham,1,3:17,Beasley,3-pointer,3,3,False,0
+0022400343,1630595,Cade Cunningham,1,0:04,Beasley,3-pointer,3,3,False,0
+0022400343,1630595,Cade Cunningham,2,7:18,Holland II,2-pointer,2,2,False,0
+0022400343,1630595,Cade Cunningham,2,2:18,Beasley,3-pointer,3,3,False,0
+0022400343,1630595,Cade Cunningham,2,1:47,Duren,2-pointer,2,2,False,0
+0022400343,1630595,Cade Cunningham,3,7:46,Ivey,2-pointer,2,2,False,0
+0022400343,1630595,Cade Cunningham,3,6:45,Stewart,2-pointer,2,2,False,0
+0022400343,1630595,Cade Cunningham,4,10:03,Duren,2-pointer,2,2,False,0
+0022400343,1630595,Cade Cunningham,4,9:04,Fontecchio,3-pointer,3,3,False,0
+0022400343,1630595,Cade Cunningham,4,3:10,Hardaway Jr.,2-pointer,2,2,False,0
+0022400343,1630595,Cade Cunningham,4,2:04,Beasley,3-pointer,3,3,False,0
+0022400347,1630178,Tyrese Maxey,1,6:54,Oubre Jr.,3-pointer,3,3,False,0
+0022400347,1630178,Tyrese Maxey,2,9:52,Embiid,2-pointer,2,2,False,0
+0022400347,1630178,Tyrese Maxey,2,7:07,Embiid,2-pointer,2,2,False,0
+0022400347,1630178,Tyrese Maxey,2,6:40,Embiid,2-pointer,2,2,False,0
+0022400347,1630178,Tyrese Maxey,2,5:16,Embiid,2-pointer,2,2,False,0
+0022400347,1630178,Tyrese Maxey,2,4:03,Embiid,2-pointer,2,2,False,0
+0022400347,1630178,Tyrese Maxey,2,3:12,Embiid,2-pointer,2,2,False,0
+0022400347,1630178,Tyrese Maxey,3,10:17,Embiid,2-pointer,2,2,True,0
+0022400347,1630178,Tyrese Maxey,3,9:56,Embiid,2-pointer,2,2,False,0
+0022400347,1630178,Tyrese Maxey,3,9:24,George,2-pointer,2,2,False,0
+0022400347,1630178,Tyrese Maxey,3,8:52,Embiid,2-pointer,2,2,False,0
+0022400347,1630178,Tyrese Maxey,3,5:43,Oubre Jr.,2-pointer,2,2,False,0
+0022400347,1630178,Tyrese Maxey,4,6:43,Oubre Jr.,3-pointer,3,3,False,0
+0022400347,1630178,Tyrese Maxey,4,6:18,Embiid,2-pointer,2,2,False,0
+0022401206,1629628,RJ Barrett,1,10:36,Fernando,2-pointer,2,2,False,0
+0022401206,1629628,RJ Barrett,1,9:39,Poeltl,2-pointer,2,2,False,0
+0022401206,1629628,RJ Barrett,1,6:25,Dick,2-pointer,2,2,False,0
+0022401206,1629628,RJ Barrett,2,11:36,Poeltl,2-pointer,2,2,False,0
+0022401206,1629628,RJ Barrett,2,0:35,Poeltl,2-pointer,2,2,False,0
+0022401206,1629628,RJ Barrett,3,10:25,Agbaji,2-pointer,2,2,False,0
+0022401206,1629628,RJ Barrett,3,2:30,Battle,3-pointer,3,3,False,0
+0022401206,1629628,RJ Barrett,4,6:11,Mitchell,3-pointer,3,3,False,0
+0022401206,1629628,RJ Barrett,4,3:54,Dick,3-pointer,3,3,False,0
+0022401206,1629628,RJ Barrett,4,0:35,Agbaji,2-pointer,2,2,False,0
+0022401221,1630595,Cade Cunningham,1,10:51,Beasley,3-pointer,3,3,False,0
+0022401221,1630595,Cade Cunningham,1,9:35,Hardaway Jr.,3-pointer,3,3,False,0
+0022401221,1630595,Cade Cunningham,1,5:34,Thompson,3-pointer,3,3,False,0
+0022401221,1630595,Cade Cunningham,1,4:14,Beasley,3-pointer,3,3,False,0
+0022401221,1630595,Cade Cunningham,2,10:44,Beasley,3-pointer,3,3,False,0
+0022401221,1630595,Cade Cunningham,2,9:27,Fontecchio,3-pointer,3,3,False,0
+0022401221,1630595,Cade Cunningham,2,7:15,Thompson,2-pointer,2,2,False,0
+0022401221,1630595,Cade Cunningham,2,3:41,Holland II,2-pointer,2,2,False,0
+0022401221,1630595,Cade Cunningham,3,11:42,Thompson,2-pointer,2,2,False,0
+0022401221,1630595,Cade Cunningham,3,11:18,Thompson,2-pointer,2,2,False,0
+0022401221,1630595,Cade Cunningham,3,9:50,Duren,2-pointer,2,2,False,0
+0022401221,1630595,Cade Cunningham,3,9:00,Holland II,2-pointer,2,2,False,0
+0022401221,1630595,Cade Cunningham,3,7:44,Beasley,3-pointer,3,3,False,0
+0022401221,1630595,Cade Cunningham,3,5:50,Thompson,2-pointer,2,2,False,0
+0022401221,1630595,Cade Cunningham,4,9:09,Duren,2-pointer,2,2,True,0
+0022401221,1630595,Cade Cunningham,5,2:07,Hardaway Jr.,3-pointer,3,3,False,0
+0022401221,1630595,Cade Cunningham,5,1:35,Hardaway Jr.,3-pointer,3,3,False,0
+0022401221,1630595,Cade Cunningham,5,1:10,Hardaway Jr.,3-pointer,3,3,False,0
+0022401225,203999,Nikola Jokić,1,6:01,Gordon,2-pointer,2,2,False,0
+0022401225,203999,Nikola Jokić,1,5:07,Gordon,2-pointer,2,2,False,0
+0022401225,203999,Nikola Jokić,1,3:19,Strawther,2-pointer,2,2,False,0
+0022401225,203999,Nikola Jokić,1,2:20,Murray,2-pointer,2,2,False,0
+0022401225,203999,Nikola Jokić,1,1:07,Watson,3-pointer,3,3,False,0
+0022401225,203999,Nikola Jokić,1,0:23,Watson,2-pointer,2,2,True,0
+0022401225,203999,Nikola Jokić,2,3:23,Porter Jr.,2-pointer,2,2,False,0
+0022401225,203999,Nikola Jokić,2,2:22,Westbrook,2-pointer,2,2,False,0
+0022401225,203999,Nikola Jokić,2,1:56,Murray,2-pointer,2,2,False,0
+0022401225,203999,Nikola Jokić,3,2:52,Westbrook,2-pointer,2,2,False,0
+0022401225,203999,Nikola Jokić,3,2:07,Strawther,2-pointer,2,2,False,0
+0022401225,203999,Nikola Jokić,4,2:20,Westbrook,2-pointer,2,2,False,0
+0022401225,203999,Nikola Jokić,4,0:08,Murray,2-pointer,2,2,False,0
+0022401221,202710,Jimmy Butler III,1,6:24,Robinson,3-pointer,3,3,False,0
+0022401221,202710,Jimmy Butler III,1,5:17,Smith,3-pointer,3,3,False,0
+0022401221,202710,Jimmy Butler III,1,3:29,Jaquez Jr.,2-pointer,2,2,False,0
+0022401221,202710,Jimmy Butler III,1,3:06,Smith,2-pointer,2,2,False,0
+0022401221,202710,Jimmy Butler III,2,0:44,Highsmith,3-pointer,3,3,False,0
+0022401221,202710,Jimmy Butler III,3,1:58,Robinson,3-pointer,3,3,False,0
+0022401221,202710,Jimmy Butler III,4,6:31,Herro,2-pointer,2,2,False,0
+0022401221,202710,Jimmy Butler III,4,2:25,Rozier,2-pointer,2,2,False,0
+0022401221,202710,Jimmy Butler III,4,0:05,Herro,3-pointer,3,3,False,0
+0022401221,202710,Jimmy Butler III,5,2:49,Robinson,2-pointer,2,2,False,0
+0022400381,1628369,Jayson Tatum,1,4:39,White,2-pointer,2,2,False,0
+0022400381,1628369,Jayson Tatum,2,11:04,Porziņģis,3-pointer,3,3,False,0
+0022400381,1628369,Jayson Tatum,2,8:49,Porziņģis,2-pointer,2,2,False,0
+0022400381,1628369,Jayson Tatum,2,3:05,Brown,2-pointer,2,2,False,0
+0022400381,1628369,Jayson Tatum,2,2:02,White,2-pointer,2,2,False,0
+0022400381,1628369,Jayson Tatum,3,11:16,Porziņģis,2-pointer,2,2,False,0
+0022400381,1628369,Jayson Tatum,3,7:03,Brown,2-pointer,2,2,False,0
+0022400381,1628369,Jayson Tatum,3,6:14,White,2-pointer,2,2,False,0
+0022400381,1628369,Jayson Tatum,3,0:35,Horford,2-pointer,2,2,False,0
+0022400381,1628369,Jayson Tatum,4,6:09,Porziņģis,2-pointer,2,2,False,0
+0022400404,2544,LeBron James,1,11:12,Davis,3-pointer,3,3,False,0
+0022400404,2544,LeBron James,1,10:27,Hachimura,2-pointer,2,2,False,0
+0022400404,2544,LeBron James,1,9:12,Hachimura,2-pointer,2,2,False,0
+0022400404,2544,LeBron James,1,7:15,Christie,2-pointer,2,2,True,0
+0022400404,2544,LeBron James,2,9:45,Knecht,3-pointer,3,3,False,0
+0022400404,2544,LeBron James,2,2:44,Reddish,2-pointer,2,2,False,0
+0022400404,2544,LeBron James,2,2:14,Reaves,3-pointer,3,3,False,0
+0022400404,2544,LeBron James,2,1:40,Davis,2-pointer,2,2,False,0
+0022400404,2544,LeBron James,2,0:11,Reddish,3-pointer,3,3,False,0
+0022400404,2544,LeBron James,4,9:40,Christie,2-pointer,2,2,False,0
+0022400404,2544,LeBron James,4,7:39,Reaves,3-pointer,3,3,False,0
+0022400408,1630559,Austin Reaves,1,10:34,James,2-pointer,2,2,False,0
+0022400408,1630559,Austin Reaves,1,4:32,Reddish,2-pointer,2,2,False,0
+0022400408,1630559,Austin Reaves,1,4:04,Knecht,2-pointer,2,2,False,0
+0022400408,1630559,Austin Reaves,2,6:54,Knecht,2-pointer,2,2,False,0
+0022400408,1630559,Austin Reaves,2,4:49,Christie,3-pointer,3,3,False,0
+0022400408,1630559,Austin Reaves,2,2:12,James,2-pointer,2,2,True,0
+0022400408,1630559,Austin Reaves,3,5:18,James,2-pointer,2,2,True,0
+0022400408,1630559,Austin Reaves,3,3:51,Hachimura,3-pointer,3,3,False,0
+0022400408,1630559,Austin Reaves,4,9:17,James,2-pointer,2,2,False,0
+0022400408,1630559,Austin Reaves,4,2:28,James,3-pointer,3,3,False,0
+0022400430,1630581,Josh Giddey,1,9:21,Vučević,2-pointer,2,2,False,0
+0022400430,1630581,Josh Giddey,1,8:26,Williams,2-pointer,2,2,False,0
+0022400430,1630581,Josh Giddey,1,6:51,LaVine,2-pointer,2,2,False,0
+0022400430,1630581,Josh Giddey,2,6:04,Craig,3-pointer,3,3,False,0
+0022400430,1630581,Josh Giddey,2,5:27,Craig,3-pointer,3,3,False,0
+0022400430,1630581,Josh Giddey,2,4:27,LaVine,3-pointer,3,3,False,0
+0022400430,1630581,Josh Giddey,3,10:58,LaVine,2-pointer,2,2,False,0
+0022400430,1630581,Josh Giddey,4,11:30,Terry,2-pointer,2,2,False,0
+0022400430,1630581,Josh Giddey,4,11:04,Vučević,3-pointer,3,3,False,0
+0022400430,1630581,Josh Giddey,4,3:15,White,2-pointer,2,2,False,0
+0022400443,1628404,Josh Hart,1,5:56,Anunoby,2-pointer,2,2,False,0
+0022400443,1628404,Josh Hart,2,6:03,Payne,3-pointer,3,3,False,0
+0022400443,1628404,Josh Hart,2,1:30,Bridges,2-pointer,2,2,False,0
+0022400443,1628404,Josh Hart,3,9:03,Anunoby,3-pointer,3,3,False,0
+0022400443,1628404,Josh Hart,3,8:32,Anunoby,3-pointer,3,3,False,0
+0022400443,1628404,Josh Hart,3,6:43,Towns,2-pointer,2,2,False,0
+0022400443,1628404,Josh Hart,3,3:54,Bridges,3-pointer,3,3,False,0
+0022400443,1628404,Josh Hart,3,0:09,Achiuwa,2-pointer,2,2,False,0
+0022400443,1628404,Josh Hart,4,6:29,Towns,2-pointer,2,2,False,0
+0022400443,1628404,Josh Hart,4,4:47,Towns,2-pointer,2,2,False,0
+0022400445,201566,Russell Westbrook,1,10:35,Braun,2-pointer,2,2,False,0
+0022400445,201566,Russell Westbrook,1,9:52,Braun,2-pointer,2,2,False,0
+0022400445,201566,Russell Westbrook,1,5:05,Jokić,3-pointer,3,3,False,0
+0022400445,201566,Russell Westbrook,1,4:09,Braun,2-pointer,2,2,False,0
+0022400445,201566,Russell Westbrook,2,5:56,Jokić,2-pointer,2,2,False,0
+0022400445,201566,Russell Westbrook,2,0:28,Porter Jr.,2-pointer,2,2,False,0
+0022400445,201566,Russell Westbrook,3,3:35,Jokić,2-pointer,2,2,False,0
+0022400445,201566,Russell Westbrook,4,7:16,Jokić,3-pointer,3,3,False,0
+0022400445,201566,Russell Westbrook,4,6:47,Porter Jr.,2-pointer,2,2,False,0
+0022400445,201566,Russell Westbrook,4,6:17,Watson,2-pointer,2,2,False,0
+0022400458,1628404,Josh Hart,1,11:23,Bridges,3-pointer,3,3,False,0
+0022400458,1628404,Josh Hart,1,3:38,Anunoby,2-pointer,2,2,False,0
+0022400458,1628404,Josh Hart,2,9:02,Bridges,2-pointer,2,2,False,0
+0022400458,1628404,Josh Hart,2,8:29,Bridges,2-pointer,2,2,False,0
+0022400458,1628404,Josh Hart,2,7:39,Achiuwa,2-pointer,2,2,False,0
+0022400458,1628404,Josh Hart,3,11:17,Anunoby,2-pointer,2,2,False,0
+0022400458,1628404,Josh Hart,3,7:13,Towns,3-pointer,3,3,False,0
+0022400458,1628404,Josh Hart,3,6:45,Bridges,2-pointer,2,2,False,0
+0022400458,1628404,Josh Hart,3,5:11,Anunoby,3-pointer,3,3,False,0
+0022400458,1628404,Josh Hart,3,2:00,Anunoby,2-pointer,2,2,False,0
+0022400458,1628404,Josh Hart,3,1:29,Anunoby,2-pointer,2,2,False,0
+0022400458,1628404,Josh Hart,4,1:22,Bridges,3-pointer,3,3,False,0
+0022400489,1627749,Dejounte Murray,1,8:03,McCollum,3-pointer,3,3,False,0
+0022400489,1627749,Dejounte Murray,1,2:26,Robinson-Earl,3-pointer,3,3,False,0
+0022400489,1627749,Dejounte Murray,1,0:47,Murphy III,3-pointer,3,3,False,0
+0022400489,1627749,Dejounte Murray,1,0:02,Hawkins,3-pointer,3,3,False,0
+0022400489,1627749,Dejounte Murray,2,6:02,McCollum,3-pointer,3,3,False,0
+0022400489,1627749,Dejounte Murray,2,2:42,McCollum,3-pointer,3,3,False,0
+0022400489,1627749,Dejounte Murray,2,1:28,McCollum,2-pointer,2,2,False,0
+0022400489,1627749,Dejounte Murray,2,0:03,Murphy III,3-pointer,3,3,False,0
+0022400489,1627749,Dejounte Murray,3,4:47,Missi,2-pointer,2,2,False,0
+0022400489,1627749,Dejounte Murray,3,4:17,Jones,2-pointer,2,2,False,0
+0022400489,1627749,Dejounte Murray,4,7:15,McCollum,2-pointer,2,2,False,0
+0022400489,1627749,Dejounte Murray,4,6:16,Missi,2-pointer,2,2,False,0
+0022400497,203507,Giannis Antetokounmpo,1,4:57,Jackson Jr.,3-pointer,3,3,False,0
+0022400497,203507,Giannis Antetokounmpo,1,4:29,Prince,2-pointer,2,2,False,0
+0022400497,203507,Giannis Antetokounmpo,1,3:21,Rollins,2-pointer,2,2,False,0
+0022400497,203507,Giannis Antetokounmpo,1,1:51,Portis,3-pointer,3,3,False,0
+0022400497,203507,Giannis Antetokounmpo,2,6:40,Lopez,3-pointer,3,3,False,0
+0022400497,203507,Giannis Antetokounmpo,2,6:10,Trent Jr.,3-pointer,3,3,False,0
+0022400497,203507,Giannis Antetokounmpo,2,5:43,Lopez,3-pointer,3,3,False,0
+0022400497,203507,Giannis Antetokounmpo,2,3:47,Trent Jr.,3-pointer,3,3,False,0
+0022400497,203507,Giannis Antetokounmpo,2,2:26,Portis,3-pointer,3,3,False,0
+0022400497,203507,Giannis Antetokounmpo,2,0:31,Trent Jr.,2-pointer,2,2,False,0
+0022400497,203507,Giannis Antetokounmpo,3,11:28,Lillard,3-pointer,3,3,False,0
+0022400497,203507,Giannis Antetokounmpo,3,8:13,Lillard,3-pointer,3,3,False,0
+0022400497,203507,Giannis Antetokounmpo,3,6:51,Lillard,3-pointer,3,3,True,0
+0022400501,1627734,Domantas Sabonis,1,9:41,DeRozan,2-pointer,2,2,False,0
+0022400501,1627734,Domantas Sabonis,1,4:35,Lyles,2-pointer,2,2,False,0
+0022400501,1627734,Domantas Sabonis,1,2:27,DeRozan,2-pointer,2,2,False,0
+0022400501,1627734,Domantas Sabonis,2,5:05,Monk,2-pointer,2,2,False,0
+0022400501,1627734,Domantas Sabonis,2,3:04,Ellis,2-pointer,2,2,False,0
+0022400501,1627734,Domantas Sabonis,2,2:05,Monk,2-pointer,2,2,True,0
+0022400501,1627734,Domantas Sabonis,3,11:44,Monk,2-pointer,2,2,False,0
+0022400501,1627734,Domantas Sabonis,3,10:39,Murray,3-pointer,3,3,False,0
+0022400501,1627734,Domantas Sabonis,4,6:50,Ellis,3-pointer,3,3,False,0
+0022400501,1627734,Domantas Sabonis,5,3:57,Ellis,2-pointer,2,2,False,0
+0022400501,1627734,Domantas Sabonis,6,3:40,DeRozan,3-pointer,3,3,False,0
+0022400501,1631170,Jaime Jaquez Jr.,1,7:49,Rozier,2-pointer,2,2,False,0
+0022400501,1631170,Jaime Jaquez Jr.,1,6:07,Herro,2-pointer,2,2,False,0
+0022400501,1631170,Jaime Jaquez Jr.,1,4:52,Herro,3-pointer,3,3,False,0
+0022400501,1631170,Jaime Jaquez Jr.,2,6:48,Herro,3-pointer,3,3,False,0
+0022400501,1631170,Jaime Jaquez Jr.,2,1:54,Herro,2-pointer,2,2,False,0
+0022400501,1631170,Jaime Jaquez Jr.,3,10:55,Rozier,2-pointer,2,2,False,0
+0022400501,1631170,Jaime Jaquez Jr.,3,6:31,Highsmith,3-pointer,3,3,False,0
+0022400501,1631170,Jaime Jaquez Jr.,3,4:25,Highsmith,2-pointer,2,2,True,0
+0022400501,1631170,Jaime Jaquez Jr.,5,2:57,Rozier,3-pointer,3,3,False,0
+0022400501,1631170,Jaime Jaquez Jr.,6,2:37,Adebayo,2-pointer,2,2,False,0
+0022400531,201566,Russell Westbrook,1,9:43,Murray,2-pointer,2,2,False,0
+0022400531,201566,Russell Westbrook,2,3:35,Pickett,2-pointer,2,2,False,0
+0022400531,201566,Russell Westbrook,2,2:02,Watson,2-pointer,2,2,False,0
+0022400531,201566,Russell Westbrook,3,11:46,Jokić,3-pointer,3,3,False,0
+0022400531,201566,Russell Westbrook,3,11:03,Jokić,2-pointer,2,2,False,0
+0022400531,201566,Russell Westbrook,3,6:53,Strawther,2-pointer,2,2,False,0
+0022400531,201566,Russell Westbrook,4,7:50,Jokić,2-pointer,2,2,False,0
+0022400531,201566,Russell Westbrook,4,4:28,Braun,2-pointer,2,2,False,0
+0022400531,201566,Russell Westbrook,4,3:45,Jokić,2-pointer,2,2,False,0
+0022400531,201566,Russell Westbrook,4,2:48,Braun,2-pointer,2,2,False,0
+0022400534,1630595,Cade Cunningham,1,10:07,Duren,2-pointer,2,2,False,0
+0022400534,1630595,Cade Cunningham,1,7:31,Harris,3-pointer,3,3,False,0
+0022400534,1630595,Cade Cunningham,1,6:28,Harris,2-pointer,2,2,True,0
+0022400534,1630595,Cade Cunningham,2,11:43,Beasley,3-pointer,3,3,False,0
+0022400534,1630595,Cade Cunningham,2,10:12,Fontecchio,2-pointer,2,2,False,0
+0022400534,1630595,Cade Cunningham,2,4:23,Harris,3-pointer,3,3,False,0
+0022400534,1630595,Cade Cunningham,2,2:28,Beasley,2-pointer,2,2,False,0
+0022400534,1630595,Cade Cunningham,2,1:32,Hardaway Jr.,3-pointer,3,3,False,0
+0022400534,1630595,Cade Cunningham,2,0:46,Hardaway Jr.,3-pointer,3,3,False,0
+0022400534,1630595,Cade Cunningham,3,9:59,Hardaway Jr.,2-pointer,2,2,False,0
+0022400534,1630595,Cade Cunningham,3,9:33,Hardaway Jr.,3-pointer,3,3,False,0
+0022400534,1630595,Cade Cunningham,3,8:44,Hardaway Jr.,2-pointer,2,2,True,0
+0022400534,1630595,Cade Cunningham,3,8:14,Harris,2-pointer,2,2,False,0
+0022400534,1630595,Cade Cunningham,4,9:29,Stewart,2-pointer,2,2,False,0
+0022400534,1630595,Cade Cunningham,4,9:00,Stewart,2-pointer,2,2,False,0
+0022400534,1630595,Cade Cunningham,4,6:37,Beasley,3-pointer,3,3,False,0
+0022400534,1630595,Cade Cunningham,4,2:01,Beasley,3-pointer,3,3,False,0
+0022400558,203507,Giannis Antetokounmpo,1,5:30,Lopez,2-pointer,2,2,False,0
+0022400558,203507,Giannis Antetokounmpo,1,4:49,Prince,3-pointer,3,3,False,0
+0022400558,203507,Giannis Antetokounmpo,1,1:58,Portis,2-pointer,2,2,False,0
+0022400558,203507,Giannis Antetokounmpo,1,0:03,Green,3-pointer,3,3,False,0
+0022400558,203507,Giannis Antetokounmpo,2,0:49,Rollins,2-pointer,2,2,True,0
+0022400558,203507,Giannis Antetokounmpo,3,11:15,Lopez,2-pointer,2,2,False,0
+0022400558,203507,Giannis Antetokounmpo,3,6:20,Lopez,2-pointer,2,2,False,0
+0022400558,203507,Giannis Antetokounmpo,3,4:20,Green,3-pointer,3,3,False,0
+0022400558,203507,Giannis Antetokounmpo,3,1:00,Green,3-pointer,3,3,False,0
+0022400558,203507,Giannis Antetokounmpo,4,7:36,Lopez,3-pointer,3,3,False,0
+0022400558,203507,Giannis Antetokounmpo,4,6:17,Rollins,3-pointer,3,3,False,0
+0022400558,203507,Giannis Antetokounmpo,4,3:53,Lopez,3-pointer,3,3,False,0
+0022400558,203507,Giannis Antetokounmpo,4,3:24,Lillard,3-pointer,3,3,False,0
+0022400561,1628404,Josh Hart,1,10:55,Bridges,3-pointer,3,3,False,0
+0022400561,1628404,Josh Hart,1,4:59,Bridges,2-pointer,2,2,False,0
+0022400561,1628404,Josh Hart,1,2:04,McBride,2-pointer,2,2,False,0
+0022400561,1628404,Josh Hart,1,1:39,McBride,3-pointer,3,3,False,0
+0022400561,1628404,Josh Hart,3,11:25,Brunson,2-pointer,2,2,False,0
+0022400561,1628404,Josh Hart,3,10:56,Sims,2-pointer,2,2,False,0
+0022400561,1628404,Josh Hart,3,8:36,Brunson,2-pointer,2,2,False,0
+0022400561,1628404,Josh Hart,3,6:20,Anunoby,3-pointer,3,3,False,0
+0022400561,1628404,Josh Hart,4,10:53,Achiuwa,2-pointer,2,2,False,0
+0022400561,1628404,Josh Hart,4,7:25,McBride,3-pointer,3,3,False,0
+0022400561,1628404,Josh Hart,4,1:26,Anunoby,3-pointer,3,3,False,0
+0022400561,1628404,Josh Hart,5,1:02,Bridges,2-pointer,2,2,False,0
+0022400610,2544,LeBron James,1,9:26,Hachimura,2-pointer,2,2,False,0
+0022400610,2544,LeBron James,1,8:04,Davis,2-pointer,2,2,False,0
+0022400610,2544,LeBron James,1,1:45,Hayes,2-pointer,2,2,False,0
+0022400610,2544,LeBron James,2,10:25,Reaves,3-pointer,3,3,False,0
+0022400610,2544,LeBron James,2,3:35,Davis,2-pointer,2,2,False,0
+0022400610,2544,LeBron James,2,1:21,Davis,2-pointer,2,2,False,0
+0022400610,2544,LeBron James,2,1:01,Finney-Smith,3-pointer,3,3,False,0
+0022400610,2544,LeBron James,3,8:44,Hachimura,2-pointer,2,2,False,0
+0022400610,2544,LeBron James,4,9:48,Finney-Smith,2-pointer,2,2,False,0
+0022400610,2544,LeBron James,4,9:06,Finney-Smith,3-pointer,3,3,False,0
+0022400610,2544,LeBron James,4,8:30,Reaves,2-pointer,2,2,False,0
+0022400610,2544,LeBron James,4,6:53,Hayes,2-pointer,2,2,False,0
+0022400610,2544,LeBron James,4,5:02,Hachimura,2-pointer,2,2,False,0
+0022400983,201935,James Harden,1,11:05,Jones Jr.,2-pointer,2,2,False,0
+0022400983,201935,James Harden,1,9:11,Jones Jr.,3-pointer,3,3,False,0
+0022400983,201935,James Harden,1,7:07,Zubac,2-pointer,2,2,False,0
+0022400983,201935,James Harden,1,2:21,Zubac,2-pointer,2,2,False,0
+0022400983,201935,James Harden,2,3:09,Zubac,2-pointer,2,2,False,0
+0022400983,201935,James Harden,2,1:56,Jones Jr.,2-pointer,2,2,False,0
+0022400983,201935,James Harden,2,1:32,Powell,2-pointer,2,2,False,0
+0022400983,201935,James Harden,3,10:20,Jones Jr.,3-pointer,3,3,False,0
+0022400983,201935,James Harden,3,9:29,Jones Jr.,2-pointer,2,2,False,0
+0022400983,201935,James Harden,3,4:28,Leonard,2-pointer,2,2,False,0
+0022400983,201935,James Harden,4,6:58,Powell,3-pointer,3,3,False,0
+0022400983,201935,James Harden,4,5:09,Powell,3-pointer,3,3,False,0
+0022400983,201935,James Harden,4,3:10,Powell,2-pointer,2,2,False,0
+0022400624,203081,Damian Lillard,1,9:54,Lopez,3-pointer,3,3,False,0
+0022400624,203081,Damian Lillard,1,4:23,Antetokounmpo,2-pointer,2,2,False,0
+0022400624,203081,Damian Lillard,1,3:32,Antetokounmpo,2-pointer,2,2,False,0
+0022400624,203081,Damian Lillard,2,8:31,Trent Jr.,3-pointer,3,3,False,0
+0022400624,203081,Damian Lillard,2,6:45,Trent Jr.,3-pointer,3,3,False,0
+0022400624,203081,Damian Lillard,2,6:17,Lopez,2-pointer,2,2,False,0
+0022400624,203081,Damian Lillard,3,8:41,Antetokounmpo,2-pointer,2,2,False,0
+0022400624,203081,Damian Lillard,3,6:22,Antetokounmpo,2-pointer,2,2,False,0
+0022400624,203081,Damian Lillard,4,9:18,Lopez,2-pointer,2,2,False,0
+0022400624,203081,Damian Lillard,4,4:29,Antetokounmpo,2-pointer,2,2,False,0
+0022400624,203081,Damian Lillard,4,3:57,Antetokounmpo,2-pointer,2,2,False,0
+0022400641,1628404,Josh Hart,1,11:10,Anunoby,2-pointer,2,2,True,0
+0022400641,1628404,Josh Hart,1,4:35,Achiuwa,2-pointer,2,2,False,0
+0022400641,1628404,Josh Hart,1,4:17,Shamet,3-pointer,3,3,False,0
+0022400641,1628404,Josh Hart,1,2:37,Brunson,3-pointer,3,3,False,0
+0022400641,1628404,Josh Hart,3,11:42,Anunoby,2-pointer,2,2,True,0
+0022400641,1628404,Josh Hart,3,8:47,Bridges,3-pointer,3,3,False,0
+0022400641,1628404,Josh Hart,3,5:43,Brunson,3-pointer,3,3,False,0
+0022400641,1628404,Josh Hart,3,5:13,Anunoby,2-pointer,2,2,False,0
+0022400641,1628404,Josh Hart,3,3:23,Brunson,2-pointer,2,2,False,0
+0022400641,1628404,Josh Hart,3,0:00,Bridges,2-pointer,2,2,False,0
+0022400641,1628404,Josh Hart,4,7:38,Anunoby,3-pointer,3,3,False,0
+0022400646,203081,Damian Lillard,1,7:38,Prince,3-pointer,3,3,False,0
+0022400646,203081,Damian Lillard,1,4:36,Trent Jr.,3-pointer,3,3,False,0
+0022400646,203081,Damian Lillard,2,7:48,Prince,3-pointer,3,3,False,0
+0022400646,203081,Damian Lillard,2,4:05,Antetokounmpo,2-pointer,2,2,False,0
+0022400646,203081,Damian Lillard,2,1:21,Lopez,3-pointer,3,3,False,0
+0022400646,203081,Damian Lillard,3,10:03,Antetokounmpo,2-pointer,2,2,False,0
+0022400646,203081,Damian Lillard,3,5:27,Antetokounmpo,2-pointer,2,2,False,0
+0022400646,203081,Damian Lillard,3,4:13,Trent Jr.,3-pointer,3,3,False,0
+0022400646,203081,Damian Lillard,4,4:44,Prince,2-pointer,2,2,False,0
+0022400646,203081,Damian Lillard,4,1:17,Trent Jr.,3-pointer,3,3,False,0
+0022400640,1641708,Amen Thompson,1,7:01,VanVleet,3-pointer,3,3,False,0
+0022400640,1641708,Amen Thompson,1,5:46,Sengun,2-pointer,2,2,False,0
+0022400640,1641708,Amen Thompson,2,9:35,Tate,2-pointer,2,2,False,0
+0022400640,1641708,Amen Thompson,2,4:42,VanVleet,3-pointer,3,3,False,0
+0022400640,1641708,Amen Thompson,2,4:11,Sengun,2-pointer,2,2,False,0
+0022400640,1641708,Amen Thompson,3,11:39,Sengun,2-pointer,2,2,False,0
+0022400640,1641708,Amen Thompson,3,1:51,Green,3-pointer,3,3,False,0
+0022400640,1641708,Amen Thompson,3,0:43,Adams,2-pointer,2,2,True,0
+0022400640,1641708,Amen Thompson,4,9:18,Adams,2-pointer,2,2,False,0
+0022400640,1641708,Amen Thompson,4,3:46,VanVleet,3-pointer,3,3,False,0
+0022400641,1627734,Domantas Sabonis,1,10:36,Monk,3-pointer,3,3,False,0
+0022400641,1627734,Domantas Sabonis,1,5:01,Monk,2-pointer,2,2,False,0
+0022400641,1627734,Domantas Sabonis,2,9:08,Carter,2-pointer,2,2,False,0
+0022400641,1627734,Domantas Sabonis,2,8:06,DeRozan,2-pointer,2,2,False,0
+0022400641,1627734,Domantas Sabonis,2,5:07,Monk,2-pointer,2,2,False,0
+0022400641,1627734,Domantas Sabonis,2,4:44,Monk,3-pointer,3,3,False,0
+0022400641,1627734,Domantas Sabonis,2,3:53,Monk,2-pointer,2,2,False,0
+0022400641,1627734,Domantas Sabonis,3,7:05,Monk,3-pointer,3,3,False,0
+0022400641,1627734,Domantas Sabonis,3,6:38,Murray,2-pointer,2,2,False,0
+0022400641,1627734,Domantas Sabonis,3,5:05,Ellis,3-pointer,3,3,False,0
+0022400641,1627734,Domantas Sabonis,4,10:03,Monk,2-pointer,2,2,False,0
+0022400641,1627734,Domantas Sabonis,4,5:55,DeRozan,3-pointer,3,3,False,0
+0022400651,1627734,Domantas Sabonis,1,6:28,Fox,2-pointer,2,2,False,0
+0022400651,1627734,Domantas Sabonis,1,5:42,Monk,2-pointer,2,2,False,0
+0022400651,1627734,Domantas Sabonis,1,4:06,Lyles,2-pointer,2,2,False,0
+0022400651,1627734,Domantas Sabonis,2,3:27,DeRozan,2-pointer,2,2,False,0
+0022400651,1627734,Domantas Sabonis,3,9:53,Monk,2-pointer,2,2,False,0
+0022400651,1627734,Domantas Sabonis,3,6:15,Fox,2-pointer,2,2,True,0
+0022400651,1627734,Domantas Sabonis,3,1:45,Ellis,3-pointer,3,3,False,0
+0022400651,1627734,Domantas Sabonis,4,8:49,Ellis,3-pointer,3,3,False,0
+0022400651,1627734,Domantas Sabonis,4,1:57,Ellis,2-pointer,2,2,False,0
+0022400651,1627734,Domantas Sabonis,4,1:20,Ellis,3-pointer,3,3,False,0
+0022400669,1627734,Domantas Sabonis,1,9:26,Fox,2-pointer,2,2,False,0
+0022400669,1627734,Domantas Sabonis,1,6:31,Monk,2-pointer,2,2,False,0
+0022400669,1627734,Domantas Sabonis,1,3:10,Monk,3-pointer,3,3,False,0
+0022400669,1627734,Domantas Sabonis,2,8:05,Lyles,2-pointer,2,2,False,0
+0022400669,1627734,Domantas Sabonis,2,6:38,Huerter,2-pointer,2,2,False,0
+0022400669,1627734,Domantas Sabonis,2,2:36,Monk,2-pointer,2,2,True,0
+0022400669,1627734,Domantas Sabonis,3,11:21,Fox,2-pointer,2,2,False,0
+0022400669,1627734,Domantas Sabonis,3,6:18,Ellis,3-pointer,3,3,False,0
+0022400669,1627734,Domantas Sabonis,4,8:25,DeRozan,3-pointer,3,3,False,0
+0022400669,1627734,Domantas Sabonis,4,3:04,DeRozan,2-pointer,2,2,False,0
+0022400669,1627734,Domantas Sabonis,4,1:04,Fox,2-pointer,2,2,False,0
+0022400692,2544,LeBron James,1,9:55,Christie,2-pointer,2,2,False,0
+0022400692,2544,LeBron James,1,8:56,Hachimura,3-pointer,3,3,False,0
+0022400692,2544,LeBron James,2,7:51,Hachimura,3-pointer,3,3,False,0
+0022400692,2544,LeBron James,2,6:39,Finney-Smith,3-pointer,3,3,False,0
+0022400692,2544,LeBron James,2,1:40,Christie,2-pointer,2,2,False,0
+0022400692,2544,LeBron James,3,11:30,Reaves,3-pointer,3,3,False,0
+0022400692,2544,LeBron James,3,9:26,Hachimura,2-pointer,2,2,False,0
+0022400692,2544,LeBron James,3,0:31,Hayes,2-pointer,2,2,False,0
+0022400692,2544,LeBron James,4,11:41,Christie,3-pointer,3,3,False,0
+0022400692,2544,LeBron James,4,9:02,Vincent,3-pointer,3,3,False,0
+0022400692,2544,LeBron James,4,4:50,Christie,2-pointer,2,2,False,0
+0022400692,2544,LeBron James,4,2:10,Hachimura,2-pointer,2,2,False,0
+0022400692,1628404,Josh Hart,1,10:35,Anunoby,2-pointer,2,2,False,0
+0022400692,1628404,Josh Hart,1,10:09,Anunoby,3-pointer,3,3,False,0
+0022400692,1628404,Josh Hart,1,9:07,Brunson,2-pointer,2,2,False,0
+0022400692,1628404,Josh Hart,1,5:13,Bridges,2-pointer,2,2,False,0
+0022400692,1628404,Josh Hart,1,4:36,Brunson,2-pointer,2,2,False,0
+0022400692,1628404,Josh Hart,3,11:07,Anunoby,3-pointer,3,3,False,0
+0022400692,1628404,Josh Hart,3,9:06,Achiuwa,2-pointer,2,2,False,0
+0022400692,1628404,Josh Hart,3,8:38,Bridges,2-pointer,2,2,False,0
+0022400692,1628404,Josh Hart,3,8:09,Towns,2-pointer,2,2,False,0
+0022400692,1628404,Josh Hart,3,1:54,Achiuwa,2-pointer,2,2,False,0
+0022400692,1628404,Josh Hart,4,7:21,Bridges,3-pointer,3,3,False,0
+0022400702,1641708,Amen Thompson,1,2:00,Whitmore,2-pointer,2,2,True,0
+0022400702,1641708,Amen Thompson,2,11:24,Whitmore,3-pointer,3,3,False,0
+0022400702,1641708,Amen Thompson,2,9:42,Brooks,2-pointer,2,2,False,0
+0022400702,1641708,Amen Thompson,2,9:03,Adams,2-pointer,2,2,False,0
+0022400702,1641708,Amen Thompson,2,1:00,Green,2-pointer,2,2,False,0
+0022400702,1641708,Amen Thompson,3,2:49,Whitmore,2-pointer,2,2,False,0
+0022400702,1641708,Amen Thompson,3,2:13,Holiday,3-pointer,3,3,False,0
+0022400702,1641708,Amen Thompson,4,11:20,Tate,2-pointer,2,2,False,0
+0022400702,1641708,Amen Thompson,4,9:58,Tate,2-pointer,2,2,False,0
+0022400702,1641708,Amen Thompson,4,3:22,Green,2-pointer,2,2,False,0
+0022400702,1641708,Amen Thompson,4,0:07,Holiday,2-pointer,2,2,False,0
+0022400700,1628970,Miles Bridges,1,8:13,Smith Jr.,3-pointer,3,3,False,0
+0022400700,1628970,Miles Bridges,1,6:28,Smith Jr.,3-pointer,3,3,False,0
+0022400700,1628970,Miles Bridges,2,6:25,Micić,2-pointer,2,2,False,0
+0022400700,1628970,Miles Bridges,3,11:40,Williams,2-pointer,2,2,False,0
+0022400700,1628970,Miles Bridges,3,10:52,Green,3-pointer,3,3,False,0
+0022400700,1628970,Miles Bridges,3,2:36,Micić,3-pointer,3,3,False,0
+0022400700,1628970,Miles Bridges,4,6:40,Simpson,2-pointer,2,2,False,0
+0022400700,1628970,Miles Bridges,4,5:27,Smith Jr.,2-pointer,2,2,False,0
+0022400700,1628970,Miles Bridges,4,3:34,Williams,2-pointer,2,2,False,0
+0022400700,1628970,Miles Bridges,4,0:50,Williams,2-pointer,2,2,False,0
+0022400712,203954,Joel Embiid,1,6:33,Oubre Jr.,2-pointer,2,2,False,0
+0022400712,203954,Joel Embiid,1,5:43,Oubre Jr.,2-pointer,2,2,False,0
+0022400712,203954,Joel Embiid,2,4:02,Yabusele,2-pointer,2,2,False,0
+0022400712,203954,Joel Embiid,3,11:46,Yabusele,2-pointer,2,2,False,0
+0022400712,203954,Joel Embiid,3,10:23,Yabusele,2-pointer,2,2,False,0
+0022400712,203954,Joel Embiid,3,8:07,Yabusele,2-pointer,2,2,False,0
+0022400712,203954,Joel Embiid,3,6:55,Edwards,3-pointer,3,3,False,0
+0022400712,203954,Joel Embiid,4,8:20,Maxey,3-pointer,3,3,False,0
+0022400712,203954,Joel Embiid,4,7:20,Maxey,2-pointer,2,2,False,0
+0022400712,203954,Joel Embiid,4,6:04,Yabusele,2-pointer,2,2,False,0
+0022400720,1641731,Bilal Coulibaly,1,11:05,Holmes,2-pointer,2,2,True,0
+0022400720,1641731,Bilal Coulibaly,1,7:30,Carrington,2-pointer,2,2,False,0
+0022400720,1641731,Bilal Coulibaly,1,5:47,George,3-pointer,3,3,False,0
+0022400720,1641731,Bilal Coulibaly,1,3:35,Poole,3-pointer,3,3,False,0
+0022400720,1641731,Bilal Coulibaly,2,6:49,Kispert,3-pointer,3,3,False,0
+0022400720,1641731,Bilal Coulibaly,2,5:52,Poole,3-pointer,3,3,False,0
+0022400720,1641731,Bilal Coulibaly,2,4:56,Kispert,2-pointer,2,2,False,0
+0022400720,1641731,Bilal Coulibaly,2,2:28,George,2-pointer,2,2,False,0
+0022400720,1641731,Bilal Coulibaly,2,1:49,Carrington,3-pointer,3,3,False,0
+0022400720,1641731,Bilal Coulibaly,3,6:15,George,3-pointer,3,3,False,0
+0022400720,1641731,Bilal Coulibaly,4,4:22,Carrington,3-pointer,3,3,False,0
+0022400752,1630595,Cade Cunningham,1,9:46,Harris,3-pointer,3,3,False,0
+0022400752,1630595,Cade Cunningham,1,8:58,Harris,2-pointer,2,2,False,0
+0022400752,1630595,Cade Cunningham,1,7:29,Duren,2-pointer,2,2,False,0
+0022400752,1630595,Cade Cunningham,1,5:05,Harris,2-pointer,2,2,True,0
+0022400752,1630595,Cade Cunningham,2,7:11,Holland II,2-pointer,2,2,False,0
+0022400752,1630595,Cade Cunningham,3,10:58,Duren,2-pointer,2,2,False,0
+0022400752,1630595,Cade Cunningham,3,9:34,Hardaway Jr.,3-pointer,3,3,False,0
+0022400752,1630595,Cade Cunningham,3,5:47,Beasley,3-pointer,3,3,False,0
+0022400752,1630595,Cade Cunningham,3,5:08,Hardaway Jr.,3-pointer,3,3,False,0
+0022400752,1630595,Cade Cunningham,3,2:35,Harris,2-pointer,2,2,False,0
+0022400752,1630595,Cade Cunningham,4,6:33,Schröder,3-pointer,3,3,False,0
+0022400752,1630595,Cade Cunningham,4,0:39,Duren,2-pointer,2,2,False,0
+0022400779,1641708,Amen Thompson,1,10:04,Green,2-pointer,2,2,False,0
+0022400779,1641708,Amen Thompson,1,6:20,Green,2-pointer,2,2,False,0
+0022400779,1641708,Amen Thompson,1,0:29,Tate,3-pointer,3,3,False,0
+0022400779,1641708,Amen Thompson,2,11:08,Eason,3-pointer,3,3,False,0
+0022400779,1641708,Amen Thompson,2,10:40,Eason,2-pointer,2,2,False,0
+0022400779,1641708,Amen Thompson,3,9:35,Sengun,2-pointer,2,2,False,0
+0022400779,1641708,Amen Thompson,3,8:12,Brooks,3-pointer,3,3,False,0
+0022400779,1641708,Amen Thompson,3,0:46,Tate,2-pointer,2,2,False,0
+0022400779,1641708,Amen Thompson,4,11:49,Sheppard,3-pointer,3,3,False,0
+0022400779,1641708,Amen Thompson,4,10:45,Sengun,2-pointer,2,2,False,0
+0022400779,1641708,Amen Thompson,4,8:38,Sengun,2-pointer,2,2,False,0
+0022400789,1628369,Jayson Tatum,1,10:36,Porziņģis,2-pointer,2,2,False,0
+0022400789,1628369,Jayson Tatum,1,2:21,Pritchard,3-pointer,3,3,False,0
+0022400789,1628369,Jayson Tatum,2,10:41,Pritchard,3-pointer,3,3,False,0
+0022400789,1628369,Jayson Tatum,2,9:47,Kornet,2-pointer,2,2,False,0
+0022400789,1628369,Jayson Tatum,2,8:20,Kornet,2-pointer,2,2,False,0
+0022400789,1628369,Jayson Tatum,2,6:52,Kornet,2-pointer,2,2,False,0
+0022400789,1628369,Jayson Tatum,2,0:18,Porziņģis,3-pointer,3,3,False,0
+0022400789,1628369,Jayson Tatum,3,9:59,Brown,2-pointer,2,2,False,0
+0022400789,1628369,Jayson Tatum,3,8:57,Brown,3-pointer,3,3,False,0
+0022400789,1628369,Jayson Tatum,3,1:36,Horford,3-pointer,3,3,False,0
+0022400848,1629627,Zion Williamson,1,9:22,Murphy III,3-pointer,3,3,False,0
+0022400848,1629627,Zion Williamson,1,8:34,Murphy III,3-pointer,3,3,False,0
+0022400848,1629627,Zion Williamson,1,7:16,Missi,2-pointer,2,2,False,0
+0022400848,1629627,Zion Williamson,1,6:38,McCollum,3-pointer,3,3,False,0
+0022400848,1629627,Zion Williamson,1,1:43,Hawkins,3-pointer,3,3,False,0
+0022400848,1629627,Zion Williamson,2,9:35,Alvarado,3-pointer,3,3,False,0
+0022400848,1629627,Zion Williamson,2,9:04,Hawkins,3-pointer,3,3,False,0
+0022400848,1629627,Zion Williamson,3,11:02,Missi,2-pointer,2,2,False,0
+0022400848,1629627,Zion Williamson,3,0:36,Alvarado,2-pointer,2,2,False,0
+0022400848,1629627,Zion Williamson,4,10:37,Robinson-Earl,3-pointer,3,3,False,0
+0022400848,1629627,Zion Williamson,4,3:26,Matković,3-pointer,3,3,False,0
+0022400846,203999,Nikola Jokić,1,7:13,Braun,2-pointer,2,2,False,0
+0022400846,203999,Nikola Jokić,1,2:41,Westbrook,2-pointer,2,2,False,0
+0022400846,203999,Nikola Jokić,2,6:08,Strawther,3-pointer,3,3,False,0
+0022400846,203999,Nikola Jokić,2,5:17,Strawther,3-pointer,3,3,False,0
+0022400846,203999,Nikola Jokić,2,2:55,Braun,2-pointer,2,2,False,0
+0022400846,203999,Nikola Jokić,3,9:55,Porter Jr.,2-pointer,2,2,False,0
+0022400846,203999,Nikola Jokić,3,7:15,Gordon,2-pointer,2,2,False,0
+0022400846,203999,Nikola Jokić,3,3:42,Porter Jr.,3-pointer,3,3,False,0
+0022400846,203999,Nikola Jokić,3,0:35,Strawther,2-pointer,2,2,False,0
+0022400846,203999,Nikola Jokić,4,3:50,Braun,2-pointer,2,2,True,0
+0022400850,203999,Nikola Jokić,1,7:13,Porter Jr.,3-pointer,3,3,False,0
+0022400850,203999,Nikola Jokić,1,6:50,Braun,2-pointer,2,2,False,0
+0022400850,203999,Nikola Jokić,1,1:41,Westbrook,3-pointer,3,3,False,0
+0022400850,203999,Nikola Jokić,1,1:14,Braun,2-pointer,2,2,False,0
+0022400850,203999,Nikola Jokić,2,6:42,Porter Jr.,3-pointer,3,3,False,0
+0022400850,203999,Nikola Jokić,2,5:33,Braun,2-pointer,2,2,False,0
+0022400850,203999,Nikola Jokić,2,5:09,Braun,2-pointer,2,2,False,0
+0022400850,203999,Nikola Jokić,2,4:47,Porter Jr.,2-pointer,2,2,False,0
+0022400850,203999,Nikola Jokić,3,11:09,Braun,2-pointer,2,2,False,0
+0022400850,203999,Nikola Jokić,3,10:23,Murray,2-pointer,2,2,False,0
+0022400850,203999,Nikola Jokić,3,9:50,Porter Jr.,3-pointer,3,3,False,0
+0022400850,203999,Nikola Jokić,3,7:41,Braun,2-pointer,2,2,False,0
+0022400850,203999,Nikola Jokić,3,5:39,Murray,3-pointer,3,3,False,0
+0022400850,203999,Nikola Jokić,3,0:43,Porter Jr.,3-pointer,3,3,False,0
+0022400850,203999,Nikola Jokić,4,6:29,Strawther,2-pointer,2,2,True,0
+0022400867,1630166,Deni Avdija,1,7:53,Camara,2-pointer,2,2,False,0
+0022400867,1630166,Deni Avdija,1,5:05,Henderson,3-pointer,3,3,False,0
+0022400867,1630166,Deni Avdija,2,2:21,Camara,3-pointer,3,3,False,0
+0022400867,1630166,Deni Avdija,2,0:30,Simons,2-pointer,2,2,False,0
+0022400867,1630166,Deni Avdija,3,10:14,Simons,3-pointer,3,3,False,0
+0022400867,1630166,Deni Avdija,3,6:15,Sharpe,2-pointer,2,2,False,0
+0022400867,1630166,Deni Avdija,3,4:56,Reath,2-pointer,2,2,False,0
+0022400867,1630166,Deni Avdija,3,4:11,Henderson,3-pointer,3,3,False,0
+0022400867,1630166,Deni Avdija,4,9:38,Banton,2-pointer,2,2,False,0
+0022400867,1630166,Deni Avdija,4,4:15,Camara,3-pointer,3,3,False,0
+0022400878,1630217,Desmond Bane,1,7:37,Edey,2-pointer,2,2,False,0
+0022400878,1630217,Desmond Bane,1,5:37,Williams Jr.,2-pointer,2,2,False,0
+0022400878,1630217,Desmond Bane,2,5:40,Clarke,2-pointer,2,2,False,0
+0022400878,1630217,Desmond Bane,2,4:02,Clarke,2-pointer,2,2,False,0
+0022400878,1630217,Desmond Bane,2,0:50,Wells,3-pointer,3,3,False,0
+0022400878,1630217,Desmond Bane,3,8:43,Edey,2-pointer,2,2,False,0
+0022400878,1630217,Desmond Bane,3,8:12,Jackson,2-pointer,2,2,False,0
+0022400878,1630217,Desmond Bane,3,0:46,Clarke,2-pointer,2,2,False,0
+0022400878,1630217,Desmond Bane,4,6:41,Kennard,2-pointer,2,2,False,0
+0022400878,1630217,Desmond Bane,4,2:37,Edey,2-pointer,2,2,False,0
+0022400884,203507,Giannis Antetokounmpo,1,7:23,Kuzma,2-pointer,2,2,False,0
+0022400884,203507,Giannis Antetokounmpo,1,4:12,Trent Jr.,3-pointer,3,3,False,0
+0022400884,203507,Giannis Antetokounmpo,1,3:38,Lopez,2-pointer,2,2,False,0
+0022400884,203507,Giannis Antetokounmpo,1,3:03,Lopez,2-pointer,2,2,False,0
+0022400884,203507,Giannis Antetokounmpo,2,3:41,Trent Jr.,2-pointer,2,2,False,0
+0022400884,203507,Giannis Antetokounmpo,3,11:26,Lopez,3-pointer,3,3,False,0
+0022400884,203507,Giannis Antetokounmpo,3,10:35,Prince,2-pointer,2,2,False,0
+0022400884,203507,Giannis Antetokounmpo,3,10:15,Kuzma,2-pointer,2,2,False,0
+0022400884,203507,Giannis Antetokounmpo,4,3:35,Kuzma,3-pointer,3,3,False,0
+0022400884,203507,Giannis Antetokounmpo,4,0:50,Lopez,2-pointer,2,2,False,0
+0022400897,1629645,Kevin Porter Jr.,1,3:46,Kuzma,3-pointer,3,3,False,0
+0022400897,1629645,Kevin Porter Jr.,1,2:45,Lillard,3-pointer,3,3,False,0
+0022400897,1629645,Kevin Porter Jr.,1,2:18,Kuzma,3-pointer,3,3,False,0
+0022400897,1629645,Kevin Porter Jr.,1,0:56,Kuzma,2-pointer,2,2,False,0
+0022400897,1629645,Kevin Porter Jr.,1,0:43,Kuzma,2-pointer,2,2,False,0
+0022400897,1629645,Kevin Porter Jr.,1,0:00,Kuzma,2-pointer,2,2,False,0
+0022400897,1629645,Kevin Porter Jr.,2,11:26,Sims,2-pointer,2,2,False,0
+0022400897,1629645,Kevin Porter Jr.,2,6:45,Green,3-pointer,3,3,False,0
+0022400897,1629645,Kevin Porter Jr.,3,1:37,Green,3-pointer,3,3,False,0
+0022400897,1629645,Kevin Porter Jr.,3,0:20,Green,3-pointer,3,3,False,0
+0022400897,1629645,Kevin Porter Jr.,4,8:08,Sims,2-pointer,2,2,False,0
+0022400897,1629645,Kevin Porter Jr.,4,7:29,Green,3-pointer,3,3,False,0
+0022400897,1629645,Kevin Porter Jr.,4,5:45,Green,3-pointer,3,3,False,0
+0022400897,1629645,Kevin Porter Jr.,4,5:14,Sims,2-pointer,2,2,False,0
+0022400909,203999,Nikola Jokić,1,10:06,Porter Jr.,2-pointer,2,2,False,0
+0022400909,203999,Nikola Jokić,1,8:52,Gordon,3-pointer,3,3,False,0
+0022400909,203999,Nikola Jokić,1,6:44,Gordon,3-pointer,3,3,False,0
+0022400909,203999,Nikola Jokić,1,4:37,Braun,3-pointer,3,3,False,0
+0022400909,203999,Nikola Jokić,1,2:04,Westbrook,2-pointer,2,2,False,0
+0022400909,203999,Nikola Jokić,1,1:37,Westbrook,2-pointer,2,2,False,0
+0022400909,203999,Nikola Jokić,2,5:19,Watson,2-pointer,2,2,False,0
+0022400909,203999,Nikola Jokić,2,4:58,Gordon,3-pointer,3,3,False,0
+0022400909,203999,Nikola Jokić,2,3:27,Braun,2-pointer,2,2,False,0
+0022400909,203999,Nikola Jokić,3,10:40,Gordon,3-pointer,3,3,False,0
+0022400909,203999,Nikola Jokić,3,10:18,Porter Jr.,2-pointer,2,2,False,0
+0022400909,203999,Nikola Jokić,3,9:02,Porter Jr.,2-pointer,2,2,False,0
+0022400909,203999,Nikola Jokić,3,8:17,Murray,2-pointer,2,2,False,0
+0022400909,203999,Nikola Jokić,3,7:01,Porter Jr.,2-pointer,2,2,False,0
+0022400909,203999,Nikola Jokić,3,3:57,Murray,3-pointer,3,3,False,0
+0022400909,203999,Nikola Jokić,4,4:30,Porter Jr.,3-pointer,3,3,False,0
+0022400909,203999,Nikola Jokić,4,0:01,Braun,3-pointer,3,3,False,0
+0022400909,203999,Nikola Jokić,5,4:08,Murray,2-pointer,2,2,False,0
+0022400909,203999,Nikola Jokić,5,2:12,Murray,2-pointer,2,2,False,0
+0022400909,203999,Nikola Jokić,5,1:18,Porter Jr.,2-pointer,2,2,False,0
+0022400909,203999,Nikola Jokić,5,1:03,Braun,2-pointer,2,2,False,0
+0022400909,203999,Nikola Jokić,5,0:50,Braun,2-pointer,2,2,False,0
+0022400908,1631119,Jaylin Williams,1,10:28,Williams,3-pointer,3,3,False,0
+0022400908,1631119,Jaylin Williams,1,7:20,Williams,2-pointer,2,2,False,0
+0022400908,1631119,Jaylin Williams,1,6:43,Dieng,3-pointer,3,3,False,0
+0022400908,1631119,Jaylin Williams,1,4:16,Jones,2-pointer,2,2,False,0
+0022400908,1631119,Jaylin Williams,2,7:09,Joe,3-pointer,3,3,False,0
+0022400908,1631119,Jaylin Williams,2,6:14,Caruso,2-pointer,2,2,False,0
+0022400908,1631119,Jaylin Williams,2,4:42,Joe,3-pointer,3,3,False,0
+0022400908,1631119,Jaylin Williams,2,1:37,Wiggins,2-pointer,2,2,False,0
+0022400908,1631119,Jaylin Williams,3,9:25,Dieng,2-pointer,2,2,False,0
+0022400908,1631119,Jaylin Williams,3,8:21,Wiggins,2-pointer,2,2,False,0
+0022400908,1631119,Jaylin Williams,3,3:18,Caruso,2-pointer,2,2,False,0
+0022400908,1631119,Jaylin Williams,4,2:51,Caruso,3-pointer,3,3,True,0
+0022400916,1630581,Josh Giddey,1,11:00,Collins,3-pointer,3,3,False,0
+0022400916,1630581,Josh Giddey,1,5:41,Huerter,3-pointer,3,3,False,0
+0022400916,1630581,Josh Giddey,1,3:56,Collins,3-pointer,3,3,False,0
+0022400916,1630581,Josh Giddey,2,8:42,Smith,2-pointer,2,2,False,0
+0022400916,1630581,Josh Giddey,2,1:28,Collins,2-pointer,2,2,False,0
+0022400916,1630581,Josh Giddey,3,7:16,Collins,2-pointer,2,2,False,0
+0022400916,1630581,Josh Giddey,3,6:02,Buzelis,2-pointer,2,2,False,0
+0022400916,1630581,Josh Giddey,3,4:34,Huerter,2-pointer,2,2,False,0
+0022400916,1630581,Josh Giddey,4,8:35,Smith,3-pointer,3,3,False,0
+0022400916,1630581,Josh Giddey,4,3:11,White,2-pointer,2,2,True,0
+0022400916,1630581,Josh Giddey,4,2:17,Jones,3-pointer,3,3,False,0
+0022400916,1630581,Josh Giddey,4,1:25,White,2-pointer,2,2,True,0
+0022400930,1629029,Luka Dončić,1,4:51,Knecht,2-pointer,2,2,False,0
+0022400930,1629029,Luka Dončić,1,4:27,Vincent,2-pointer,2,2,False,0
+0022400930,1629029,Luka Dončić,1,3:32,Goodwin,3-pointer,3,3,False,0
+0022400930,1629029,Luka Dončić,2,8:23,Vanderbilt,3-pointer,3,3,False,0
+0022400930,1629029,Luka Dončić,2,6:19,Goodwin,3-pointer,3,3,False,0
+0022400930,1629029,Luka Dončić,2,2:16,Knecht,2-pointer,2,2,False,0
+0022400930,1629029,Luka Dončić,3,10:51,Vincent,3-pointer,3,3,False,0
+0022400930,1629029,Luka Dončić,3,8:08,Reaves,2-pointer,2,2,False,0
+0022400930,1629029,Luka Dončić,3,7:40,Jemison III,2-pointer,2,2,False,0
+0022400930,1629029,Luka Dončić,3,4:19,Vanderbilt,2-pointer,2,2,False,0
+0022400930,1629029,Luka Dončić,3,1:12,Vincent,3-pointer,3,3,False,0
+0022400930,1629029,Luka Dončić,4,0:38,Reaves,3-pointer,3,3,False,0
+0022400938,202710,Jimmy Butler III,1,9:57,Post,3-pointer,3,3,False,0
+0022400938,202710,Jimmy Butler III,1,8:34,Post,3-pointer,3,3,False,0
+0022400938,202710,Jimmy Butler III,1,7:51,Moody,2-pointer,2,2,False,0
+0022400938,202710,Jimmy Butler III,2,9:37,Hield,3-pointer,3,3,False,0
+0022400938,202710,Jimmy Butler III,2,1:37,Payton II,3-pointer,3,3,False,0
+0022400938,202710,Jimmy Butler III,2,0:29,Payton II,3-pointer,3,3,False,0
+0022400938,202710,Jimmy Butler III,3,10:18,Post,3-pointer,3,3,False,0
+0022400938,202710,Jimmy Butler III,3,7:13,Moody,2-pointer,2,2,False,0
+0022400938,202710,Jimmy Butler III,3,3:01,Curry,3-pointer,3,3,False,0
+0022400938,202710,Jimmy Butler III,3,1:13,Hield,3-pointer,3,3,False,0
+0022400943,1629627,Zion Williamson,1,9:20,McCollum,3-pointer,3,3,False,0
+0022400943,1629627,Zion Williamson,2,10:19,Hawkins,3-pointer,3,3,False,0
+0022400943,1629627,Zion Williamson,2,9:57,Matković,2-pointer,2,2,False,0
+0022400943,1629627,Zion Williamson,3,6:43,Murphy III,3-pointer,3,3,False,0
+0022400943,1629627,Zion Williamson,3,1:10,Murphy III,3-pointer,3,3,False,0
+0022400943,1629627,Zion Williamson,3,0:50,Murphy III,3-pointer,3,3,False,0
+0022400943,1629627,Zion Williamson,3,0:30,McCollum,3-pointer,3,3,False,0
+0022400943,1629627,Zion Williamson,4,11:11,Alvarado,3-pointer,3,3,False,0
+0022400943,1629627,Zion Williamson,4,10:38,Matković,2-pointer,2,2,False,0
+0022400943,1629627,Zion Williamson,4,9:17,Alvarado,3-pointer,3,3,False,0
+0022400943,1629627,Zion Williamson,4,3:43,McCollum,3-pointer,3,3,False,0
+0022400943,1629627,Zion Williamson,4,0:24,Alvarado,2-pointer,2,2,False,0
+0022400967,1627734,Domantas Sabonis,1,8:43,Murray,2-pointer,2,2,False,0
+0022400967,1627734,Domantas Sabonis,1,6:47,LaVine,2-pointer,2,2,False,0
+0022400967,1627734,Domantas Sabonis,2,6:26,Monk,2-pointer,2,2,False,0
+0022400967,1627734,Domantas Sabonis,2,3:49,Murray,2-pointer,2,2,False,0
+0022400967,1627734,Domantas Sabonis,2,3:28,Murray,2-pointer,2,2,False,0
+0022400967,1627734,Domantas Sabonis,3,10:22,Monk,2-pointer,2,2,False,0
+0022400967,1627734,Domantas Sabonis,3,9:51,LaVine,2-pointer,2,2,False,0
+0022400967,1627734,Domantas Sabonis,3,8:01,DeRozan,3-pointer,3,3,False,0
+0022400967,1627734,Domantas Sabonis,3,6:41,DeRozan,3-pointer,3,3,False,0
+0022400967,1627734,Domantas Sabonis,4,8:56,Monk,2-pointer,2,2,False,0
+0022400967,1627734,Domantas Sabonis,4,8:15,DeRozan,2-pointer,2,2,False,0
+0022400967,1627734,Domantas Sabonis,4,7:40,DeRozan,2-pointer,2,2,False,0
+0022400982,203507,Giannis Antetokounmpo,1,10:15,Kuzma,2-pointer,2,2,False,0
+0022400982,203507,Giannis Antetokounmpo,1,9:03,Lillard,2-pointer,2,2,False,0
+0022400982,203507,Giannis Antetokounmpo,1,7:03,Lopez,2-pointer,2,2,False,0
+0022400982,203507,Giannis Antetokounmpo,2,5:49,Green,2-pointer,2,2,False,0
+0022400982,203507,Giannis Antetokounmpo,2,5:15,Porter Jr.,3-pointer,3,3,False,0
+0022400982,203507,Giannis Antetokounmpo,3,6:45,Kuzma,3-pointer,3,3,False,0
+0022400982,203507,Giannis Antetokounmpo,4,9:05,Lopez,2-pointer,2,2,True,0
+0022400982,203507,Giannis Antetokounmpo,4,7:01,Lopez,2-pointer,2,2,False,0
+0022400982,203507,Giannis Antetokounmpo,4,6:26,Porter Jr.,3-pointer,3,3,False,0
+0022400982,203507,Giannis Antetokounmpo,4,5:12,Porter Jr.,3-pointer,3,3,False,0
+0022400990,201566,Russell Westbrook,1,9:58,Gordon,2-pointer,2,2,False,0
+0022400990,201566,Russell Westbrook,1,8:31,Porter Jr.,2-pointer,2,2,False,0
+0022400990,201566,Russell Westbrook,1,8:08,Porter Jr.,2-pointer,2,2,False,0
+0022400990,201566,Russell Westbrook,1,5:35,Tyson,2-pointer,2,2,False,0
+0022400990,201566,Russell Westbrook,2,8:35,Porter Jr.,3-pointer,3,3,False,0
+0022400990,201566,Russell Westbrook,2,8:07,Jones,2-pointer,2,2,False,0
+0022400990,201566,Russell Westbrook,2,7:43,Jones,2-pointer,2,2,False,0
+0022400990,201566,Russell Westbrook,2,6:31,Watson,2-pointer,2,2,False,0
+0022400990,201566,Russell Westbrook,2,4:37,Gordon,2-pointer,2,2,False,0
+0022400990,201566,Russell Westbrook,2,1:39,Jones,2-pointer,2,2,False,0
+0022400990,201566,Russell Westbrook,2,0:25,Gordon,3-pointer,3,3,False,0
+0022400990,201566,Russell Westbrook,3,9:43,Gordon,2-pointer,2,2,False,0
+0022400990,201566,Russell Westbrook,3,8:28,Gordon,2-pointer,2,2,False,0
+0022400990,201566,Russell Westbrook,3,7:24,Watson,3-pointer,3,3,False,0
+0022400990,201566,Russell Westbrook,4,11:00,Nnaji,2-pointer,2,2,False,0
+0022400990,201566,Russell Westbrook,4,7:53,Porter Jr.,3-pointer,3,3,False,0
+0022400984,1628404,Josh Hart,1,7:57,Bridges,3-pointer,3,3,False,0
+0022400984,1628404,Josh Hart,2,9:35,Towns,3-pointer,3,3,False,0
+0022400984,1628404,Josh Hart,2,8:38,Towns,2-pointer,2,2,False,0
+0022400984,1628404,Josh Hart,2,7:04,Towns,3-pointer,3,3,False,0
+0022400984,1628404,Josh Hart,2,5:02,Anunoby,2-pointer,2,2,False,0
+0022400984,1628404,Josh Hart,3,11:00,Anunoby,3-pointer,3,3,False,0
+0022400984,1628404,Josh Hart,3,5:47,McBride,3-pointer,3,3,False,0
+0022400984,1628404,Josh Hart,3,3:11,Bridges,2-pointer,2,2,False,0
+0022400984,1628404,Josh Hart,3,2:42,Robinson,2-pointer,2,2,False,0
+0022400984,1628404,Josh Hart,3,2:10,Bridges,2-pointer,2,2,False,0
+0022400984,1628404,Josh Hart,3,0:00,Shamet,3-pointer,3,3,False,0
+0022401000,1630595,Cade Cunningham,1,11:10,Harris,2-pointer,2,2,False,0
+0022401000,1630595,Cade Cunningham,1,6:14,Thompson,2-pointer,2,2,False,0
+0022401000,1630595,Cade Cunningham,2,5:24,Beasley,3-pointer,3,3,False,0
+0022401000,1630595,Cade Cunningham,2,2:28,Thompson,2-pointer,2,2,False,0
+0022401000,1630595,Cade Cunningham,3,8:55,Hardaway Jr.,3-pointer,3,3,False,0
+0022401000,1630595,Cade Cunningham,3,8:24,Harris,2-pointer,2,2,False,0
+0022401000,1630595,Cade Cunningham,3,7:40,Harris,2-pointer,2,2,False,0
+0022401000,1630595,Cade Cunningham,3,5:07,Thompson,2-pointer,2,2,False,0
+0022401000,1630595,Cade Cunningham,3,2:44,Beasley,3-pointer,3,3,False,0
+0022401000,1630595,Cade Cunningham,3,2:03,Stewart,2-pointer,2,2,False,0
+0022401000,1630595,Cade Cunningham,4,5:14,Harris,2-pointer,2,2,False,0
+0022401002,1631119,Jaylin Williams,1,10:53,Joe,2-pointer,2,2,False,0
+0022401002,1631119,Jaylin Williams,1,6:45,Holmgren,2-pointer,2,2,False,0
+0022401002,1631119,Jaylin Williams,1,3:07,Carlson,3-pointer,3,3,False,0
+0022401002,1631119,Jaylin Williams,1,2:41,Jones,3-pointer,3,3,False,0
+0022401002,1631119,Jaylin Williams,3,8:20,Wiggins,2-pointer,2,2,True,0
+0022401002,1631119,Jaylin Williams,3,5:22,Joe,3-pointer,3,3,False,0
+0022401002,1631119,Jaylin Williams,3,4:46,Williams,2-pointer,2,2,False,0
+0022401002,1631119,Jaylin Williams,3,2:51,Jones,2-pointer,2,2,False,0
+0022401002,1631119,Jaylin Williams,4,11:51,Wiggins,3-pointer,3,3,False,0
+0022401002,1631119,Jaylin Williams,4,9:42,Wiggins,2-pointer,2,2,False,0
+0022401002,1631119,Jaylin Williams,4,8:14,Flagler,3-pointer,3,3,False,0
+0022401002,1631119,Jaylin Williams,4,1:00,Carlson,3-pointer,3,3,False,0
+0022401005,202710,Jimmy Butler III,1,11:40,Green,3-pointer,3,3,False,0
+0022401005,202710,Jimmy Butler III,1,8:10,Green,3-pointer,3,3,False,0
+0022401005,202710,Jimmy Butler III,1,0:09,Podziemski,2-pointer,2,2,False,0
+0022401005,202710,Jimmy Butler III,2,11:22,Podziemski,2-pointer,2,2,False,0
+0022401005,202710,Jimmy Butler III,2,8:06,Green,3-pointer,3,3,False,0
+0022401005,202710,Jimmy Butler III,2,7:10,Post,3-pointer,3,3,False,0
+0022401005,202710,Jimmy Butler III,2,1:25,Kuminga,3-pointer,3,3,False,0
+0022401005,202710,Jimmy Butler III,3,10:01,Curry,3-pointer,3,3,False,0
+0022401005,202710,Jimmy Butler III,3,1:16,Post,3-pointer,3,3,False,0
+0022401005,202710,Jimmy Butler III,3,0:22,Hield,3-pointer,3,3,False,0
+0022401005,202710,Jimmy Butler III,4,10:11,Green,3-pointer,3,3,False,0
+0022401005,202710,Jimmy Butler III,4,5:26,Podziemski,2-pointer,2,2,False,0
+0022401028,1630581,Josh Giddey,1,11:06,Vučević,3-pointer,3,3,False,0
+0022401028,1630581,Josh Giddey,1,7:08,Buzelis,2-pointer,2,2,False,0
+0022401028,1630581,Josh Giddey,1,6:15,White,3-pointer,3,3,False,0
+0022401028,1630581,Josh Giddey,1,5:02,Vučević,2-pointer,2,2,False,0
+0022401028,1630581,Josh Giddey,2,9:18,Collins,2-pointer,2,2,False,0
+0022401028,1630581,Josh Giddey,2,4:42,Vučević,2-pointer,2,2,False,0
+0022401028,1630581,Josh Giddey,3,10:15,Buzelis,3-pointer,3,3,False,0
+0022401028,1630581,Josh Giddey,3,8:23,White,3-pointer,3,3,False,0
+0022401028,1630581,Josh Giddey,3,7:34,Huerter,2-pointer,2,2,False,0
+0022401028,1630581,Josh Giddey,3,6:32,Vučević,3-pointer,3,3,False,0
+0022401028,1630581,Josh Giddey,3,4:09,Buzelis,3-pointer,3,3,False,0
+0022401028,1630581,Josh Giddey,4,9:06,Terry,2-pointer,2,2,False,0
+0022401028,1630581,Josh Giddey,4,6:53,Williams,3-pointer,3,3,False,0
+0022401028,1630581,Josh Giddey,4,6:42,White,3-pointer,3,3,False,0
+0022401028,1630581,Josh Giddey,4,6:05,Huerter,2-pointer,2,2,False,0
+0022401028,1630581,Josh Giddey,4,5:47,Buzelis,2-pointer,2,2,False,0
+0022401028,1630581,Josh Giddey,4,5:20,Buzelis,3-pointer,3,3,False,0
+0022401035,1630578,Alperen Sengun,1,11:13,Brooks,3-pointer,3,3,False,0
+0022401035,1630578,Alperen Sengun,2,11:27,Adams,2-pointer,2,2,False,0
+0022401035,1630578,Alperen Sengun,2,9:37,Smith Jr.,3-pointer,3,3,False,0
+0022401035,1630578,Alperen Sengun,2,8:07,Eason,2-pointer,2,2,False,0
+0022401035,1630578,Alperen Sengun,2,5:02,Brooks,2-pointer,2,2,False,0
+0022401035,1630578,Alperen Sengun,3,9:37,Thompson,2-pointer,2,2,False,0
+0022401035,1630578,Alperen Sengun,3,7:17,Thompson,2-pointer,2,2,False,0
+0022401035,1630578,Alperen Sengun,3,5:12,Thompson,2-pointer,2,2,False,0
+0022401035,1630578,Alperen Sengun,4,1:23,Thompson,2-pointer,2,2,False,0
+0022401035,1630578,Alperen Sengun,4,1:16,Brooks,3-pointer,3,3,False,0
+0022401048,1626157,Karl-Anthony Towns,1,11:42,Hart,2-pointer,2,2,False,0
+0022401048,1626157,Karl-Anthony Towns,1,10:19,Bridges,2-pointer,2,2,False,0
+0022401048,1626157,Karl-Anthony Towns,1,8:54,Anunoby,2-pointer,2,2,False,0
+0022401048,1626157,Karl-Anthony Towns,1,8:17,Anunoby,2-pointer,2,2,False,0
+0022401048,1626157,Karl-Anthony Towns,1,7:12,Bridges,2-pointer,2,2,False,0
+0022401048,1626157,Karl-Anthony Towns,1,0:31,Shamet,2-pointer,2,2,False,0
+0022401048,1626157,Karl-Anthony Towns,2,3:29,Anunoby,2-pointer,2,2,False,0
+0022401048,1626157,Karl-Anthony Towns,3,4:19,Hart,2-pointer,2,2,False,0
+0022401048,1626157,Karl-Anthony Towns,3,3:59,Anunoby,2-pointer,2,2,False,0
+0022401048,1626157,Karl-Anthony Towns,4,6:28,Bridges,2-pointer,2,2,False,0
+0022401048,1626157,Karl-Anthony Towns,4,4:44,Anunoby,2-pointer,2,2,False,0
+0022401048,1628404,Josh Hart,1,10:45,Towns,3-pointer,3,3,False,0
+0022401048,1628404,Josh Hart,1,9:41,Payne,2-pointer,2,2,False,0
+0022401048,1628404,Josh Hart,1,6:50,Towns,2-pointer,2,2,False,0
+0022401048,1628404,Josh Hart,1,4:03,Achiuwa,2-pointer,2,2,False,0
+0022401048,1628404,Josh Hart,1,2:04,Anunoby,2-pointer,2,2,False,0
+0022401048,1628404,Josh Hart,2,9:48,Achiuwa,2-pointer,2,2,False,0
+0022401048,1628404,Josh Hart,3,11:39,Bridges,2-pointer,2,2,False,0
+0022401048,1628404,Josh Hart,3,7:45,Anunoby,2-pointer,2,2,False,0
+0022401048,1628404,Josh Hart,3,7:26,Bridges,3-pointer,3,3,False,0
+0022401048,1628404,Josh Hart,3,3:07,Anunoby,2-pointer,2,2,False,0
+0022401048,1628404,Josh Hart,3,0:19,Achiuwa,2-pointer,2,2,False,0
+0022401057,203999,Nikola Jokić,1,7:46,Braun,2-pointer,2,2,False,0
+0022401057,203999,Nikola Jokić,1,3:38,Murray,2-pointer,2,2,False,0
+0022401057,203999,Nikola Jokić,2,6:22,Braun,2-pointer,2,2,False,0
+0022401057,203999,Nikola Jokić,2,1:47,Braun,3-pointer,3,3,False,0
+0022401057,203999,Nikola Jokić,3,10:40,Murray,2-pointer,2,2,False,0
+0022401057,203999,Nikola Jokić,3,9:36,Gordon,2-pointer,2,2,False,0
+0022401057,203999,Nikola Jokić,3,1:13,Braun,3-pointer,3,3,False,0
+0022401057,203999,Nikola Jokić,4,5:36,Murray,2-pointer,2,2,False,0
+0022401057,203999,Nikola Jokić,4,1:44,Watson,2-pointer,2,2,False,0
+0022401057,203999,Nikola Jokić,4,0:52,Murray,2-pointer,2,2,False,0
+0022401063,1630581,Josh Giddey,1,9:18,Vučević,2-pointer,2,2,False,0
+0022401063,1630581,Josh Giddey,1,8:02,Huerter,2-pointer,2,2,False,0
+0022401063,1630581,Josh Giddey,1,5:12,Huerter,3-pointer,3,3,False,0
+0022401063,1630581,Josh Giddey,2,11:48,Collins,2-pointer,2,2,False,0
+0022401063,1630581,Josh Giddey,2,9:12,Collins,2-pointer,2,2,False,0
+0022401063,1630581,Josh Giddey,2,7:23,Vučević,2-pointer,2,2,False,0
+0022401063,1630581,Josh Giddey,3,5:10,Huerter,2-pointer,2,2,False,0
+0022401063,1630581,Josh Giddey,4,9:55,White,3-pointer,3,3,False,0
+0022401063,1630581,Josh Giddey,4,7:28,White,3-pointer,3,3,False,0
+0022401063,1630581,Josh Giddey,4,0:46,Huerter,3-pointer,3,3,False,0
+0022401063,1630581,Josh Giddey,4,0:06,White,3-pointer,3,3,False,0
+0022401100,203110,Draymond Green,1,10:08,Butler III,3-pointer,3,3,False,0
+0022401100,203110,Draymond Green,1,9:37,Podziemski,2-pointer,2,2,False,0
+0022401100,203110,Draymond Green,1,8:36,Curry,2-pointer,2,2,False,0
+0022401100,203110,Draymond Green,1,7:10,Curry,3-pointer,3,3,False,0
+0022401100,203110,Draymond Green,1,0:11,Curry,3-pointer,3,3,False,0
+0022401100,203110,Draymond Green,2,11:02,Butler III,2-pointer,2,2,False,0
+0022401100,203110,Draymond Green,3,10:21,Curry,3-pointer,3,3,False,0
+0022401100,203110,Draymond Green,3,9:10,Curry,3-pointer,3,3,False,0
+0022401100,203110,Draymond Green,4,10:59,Butler III,2-pointer,2,2,False,0
+0022401100,203110,Draymond Green,4,3:23,Podziemski,2-pointer,2,2,False,0
+0022401100,203110,Draymond Green,4,2:55,Curry,3-pointer,3,3,False,0
+0022401100,203110,Draymond Green,4,0:40,Moody,3-pointer,3,3,False,0
+0022401097,1630166,Deni Avdija,1,9:16,Sharpe,2-pointer,2,2,False,0
+0022401097,1630166,Deni Avdija,1,7:35,Thybulle,2-pointer,2,2,False,0
+0022401097,1630166,Deni Avdija,2,8:26,Camara,2-pointer,2,2,False,0
+0022401097,1630166,Deni Avdija,2,5:41,Walker,3-pointer,3,3,False,0
+0022401097,1630166,Deni Avdija,2,1:55,Sharpe,3-pointer,3,3,False,0
+0022401097,1630166,Deni Avdija,3,9:12,Camara,3-pointer,3,3,False,0
+0022401097,1630166,Deni Avdija,3,7:17,Camara,2-pointer,2,2,False,0
+0022401097,1630166,Deni Avdija,3,6:31,Camara,2-pointer,2,2,False,0
+0022401097,1630166,Deni Avdija,4,10:40,Camara,2-pointer,2,2,False,0
+0022401097,1630166,Deni Avdija,4,4:56,Sharpe,2-pointer,2,2,False,0
+0022401110,1629618,Jalen Pickett,1,8:43,Tyson,2-pointer,2,2,False,0
+0022401110,1629618,Jalen Pickett,1,6:54,Westbrook,3-pointer,3,3,False,0
+0022401110,1629618,Jalen Pickett,1,6:01,Westbrook,2-pointer,2,2,False,0
+0022401110,1629618,Jalen Pickett,3,8:46,Tyson,3-pointer,3,3,False,0
+0022401110,1629618,Jalen Pickett,3,7:51,Westbrook,3-pointer,3,3,False,0
+0022401110,1629618,Jalen Pickett,3,1:03,Westbrook,3-pointer,3,3,False,0
+0022401110,1629618,Jalen Pickett,3,0:00,Čančar,3-pointer,3,3,False,0
+0022401110,1629618,Jalen Pickett,4,10:00,Čančar,3-pointer,3,3,False,0
+0022401110,1629618,Jalen Pickett,4,5:47,Jones,2-pointer,2,2,False,0
+0022401110,1629618,Jalen Pickett,4,0:23,Jordan,2-pointer,2,2,False,0
+0022401115,203507,Giannis Antetokounmpo,1,8:59,Rollins,3-pointer,3,3,False,0
+0022401115,203507,Giannis Antetokounmpo,1,0:18,Green,3-pointer,3,3,False,0
+0022401115,203507,Giannis Antetokounmpo,2,11:28,Green,3-pointer,3,3,False,0
+0022401115,203507,Giannis Antetokounmpo,2,11:04,Connaughton,2-pointer,2,2,False,0
+0022401115,203507,Giannis Antetokounmpo,2,10:03,Porter Jr.,2-pointer,2,2,False,0
+0022401115,203507,Giannis Antetokounmpo,2,8:56,Trent Jr.,3-pointer,3,3,False,0
+0022401115,203507,Giannis Antetokounmpo,2,4:48,Kuzma,3-pointer,3,3,False,0
+0022401115,203507,Giannis Antetokounmpo,2,2:44,Prince,3-pointer,3,3,False,0
+0022401115,203507,Giannis Antetokounmpo,3,11:30,Lopez,3-pointer,3,3,False,0
+0022401115,203507,Giannis Antetokounmpo,3,10:49,Lopez,2-pointer,2,2,True,0
+0022401115,203507,Giannis Antetokounmpo,3,9:01,Kuzma,2-pointer,2,2,False,0
+0022401115,203507,Giannis Antetokounmpo,3,8:09,Kuzma,2-pointer,2,2,False,0
+0022401115,203507,Giannis Antetokounmpo,3,7:40,Prince,3-pointer,3,3,False,0
+0022401115,203507,Giannis Antetokounmpo,3,0:32,Trent Jr.,3-pointer,3,3,False,0
+0022401115,203507,Giannis Antetokounmpo,4,9:33,Porter Jr.,2-pointer,2,2,False,0
+0022401115,203507,Giannis Antetokounmpo,4,6:29,Prince,2-pointer,2,2,False,0
+0022401115,203507,Giannis Antetokounmpo,4,5:38,Prince,2-pointer,2,2,False,0
+0022401115,203507,Giannis Antetokounmpo,4,5:00,Kuzma,3-pointer,3,3,False,0
+0022401115,203507,Giannis Antetokounmpo,4,3:08,Lopez,2-pointer,2,2,False,0
+0022401115,203507,Giannis Antetokounmpo,4,1:05,Lopez,2-pointer,2,2,False,0
+0022401122,1630581,Josh Giddey,1,6:58,Vučević,2-pointer,2,2,False,0
+0022401122,1630581,Josh Giddey,1,6:33,Vučević,3-pointer,3,3,False,0
+0022401122,1630581,Josh Giddey,2,3:33,Huerter,3-pointer,3,3,False,0
+0022401122,1630581,Josh Giddey,2,3:04,Vučević,3-pointer,3,3,False,0
+0022401122,1630581,Josh Giddey,3,10:38,Vučević,2-pointer,2,2,False,0
+0022401122,1630581,Josh Giddey,3,3:37,Horton-Tucker,2-pointer,2,2,False,0
+0022401122,1630581,Josh Giddey,3,3:02,Horton-Tucker,2-pointer,2,2,False,0
+0022401122,1630581,Josh Giddey,3,1:18,Collins,3-pointer,3,3,False,0
+0022401122,1630581,Josh Giddey,4,9:39,White,3-pointer,3,3,False,0
+0022401122,1630581,Josh Giddey,4,3:43,White,2-pointer,2,2,False,0
+0022401122,1630581,Josh Giddey,4,1:56,Buzelis,3-pointer,3,3,False,0
+0022401122,1630581,Josh Giddey,4,1:27,Vučević,2-pointer,2,2,False,0
+0022401131,203507,Giannis Antetokounmpo,1,7:36,Rollins,3-pointer,3,3,False,0
+0022401131,203507,Giannis Antetokounmpo,1,6:05,Rollins,2-pointer,2,2,False,0
+0022401131,203507,Giannis Antetokounmpo,2,6:35,Connaughton,3-pointer,3,3,False,0
+0022401131,203507,Giannis Antetokounmpo,3,8:41,Prince,2-pointer,2,2,False,0
+0022401131,203507,Giannis Antetokounmpo,3,5:39,Porter Jr.,2-pointer,2,2,False,0
+0022401131,203507,Giannis Antetokounmpo,4,10:40,Porter Jr.,3-pointer,3,3,False,0
+0022401131,203507,Giannis Antetokounmpo,4,2:34,Lopez,2-pointer,2,2,False,0
+0022401131,203507,Giannis Antetokounmpo,4,2:08,Porter Jr.,3-pointer,3,3,False,0
+0022401131,203507,Giannis Antetokounmpo,4,1:04,Lopez,2-pointer,2,2,False,0
+0022401131,203507,Giannis Antetokounmpo,5,0:04,Lopez,2-pointer,2,2,False,0
+0022401144,1627734,Domantas Sabonis,1,9:54,LaVine,2-pointer,2,2,False,0
+0022401144,1627734,Domantas Sabonis,1,8:17,DeRozan,2-pointer,2,2,False,0
+0022401144,1627734,Domantas Sabonis,1,5:23,LaVine,3-pointer,3,3,False,0
+0022401144,1627734,Domantas Sabonis,1,4:18,Monk,2-pointer,2,2,False,0
+0022401144,1627734,Domantas Sabonis,2,3:44,DeRozan,2-pointer,2,2,False,0
+0022401144,1627734,Domantas Sabonis,2,2:31,DeRozan,2-pointer,2,2,False,0
+0022401144,1627734,Domantas Sabonis,2,2:01,Ellis,2-pointer,2,2,False,0
+0022401144,1627734,Domantas Sabonis,3,11:41,LaVine,2-pointer,2,2,False,0
+0022401144,1627734,Domantas Sabonis,4,4:09,DeRozan,2-pointer,2,2,False,0
+0022401144,1627734,Domantas Sabonis,4,3:32,Lyles,2-pointer,2,2,False,0
+0022401152,203507,Giannis Antetokounmpo,1,7:52,Lopez,3-pointer,3,3,False,0
+0022401152,203507,Giannis Antetokounmpo,1,6:03,Prince,2-pointer,2,2,False,0
+0022401152,203507,Giannis Antetokounmpo,1,0:32,Porter Jr.,2-pointer,2,2,False,0
+0022401152,203507,Giannis Antetokounmpo,2,10:12,Trent Jr.,3-pointer,3,3,False,0
+0022401152,203507,Giannis Antetokounmpo,2,1:05,Rollins,3-pointer,3,3,False,0
+0022401152,203507,Giannis Antetokounmpo,2,0:15,Kuzma,2-pointer,2,2,False,0
+0022401152,203507,Giannis Antetokounmpo,3,10:51,Kuzma,2-pointer,2,2,False,0
+0022401152,203507,Giannis Antetokounmpo,3,10:14,Prince,2-pointer,2,2,False,0
+0022401152,203507,Giannis Antetokounmpo,4,5:40,Portis,3-pointer,3,3,False,0
+0022401152,203507,Giannis Antetokounmpo,4,3:35,Green,3-pointer,3,3,False,0
+0022401158,1642367,Jonathan Mogbo,1,5:13,Battle,3-pointer,3,3,False,0
+0022401158,1642367,Jonathan Mogbo,1,2:08,Swider,2-pointer,2,2,False,0
+0022401158,1642367,Jonathan Mogbo,1,0:51,Battle,2-pointer,2,2,False,0
+0022401158,1642367,Jonathan Mogbo,2,1:22,Rhoden,2-pointer,2,2,False,0
+0022401158,1642367,Jonathan Mogbo,3,2:49,Lawson,2-pointer,2,2,False,0
+0022401158,1642367,Jonathan Mogbo,3,1:34,Rhoden,3-pointer,3,3,False,0
+0022401158,1642367,Jonathan Mogbo,4,7:20,Rhoden,2-pointer,2,2,False,0
+0022401158,1642367,Jonathan Mogbo,4,6:45,Rhoden,3-pointer,3,3,False,0
+0022401158,1642367,Jonathan Mogbo,4,6:03,Temple,2-pointer,2,2,False,0
+0022401158,1642367,Jonathan Mogbo,4,4:31,Battle,2-pointer,2,2,False,0
+0022401158,1642367,Jonathan Mogbo,4,4:06,Temple,3-pointer,3,3,False,0
+0022401160,1630581,Josh Giddey,1,5:31,Vučević,2-pointer,2,2,False,0
+0022401160,1630581,Josh Giddey,1,4:25,Huerter,3-pointer,3,3,False,0
+0022401160,1630581,Josh Giddey,2,8:21,Phillips,2-pointer,2,2,False,0
+0022401160,1630581,Josh Giddey,2,3:38,Vučević,3-pointer,3,3,False,0
+0022401160,1630581,Josh Giddey,2,0:00,Terry,3-pointer,3,3,False,0
+0022401160,1630581,Josh Giddey,3,10:29,Buzelis,2-pointer,2,2,False,0
+0022401160,1630581,Josh Giddey,3,6:32,Huerter,2-pointer,2,2,False,0
+0022401160,1630581,Josh Giddey,3,5:29,Vučević,2-pointer,2,2,False,0
+0022401160,1630581,Josh Giddey,3,3:11,Vučević,2-pointer,2,2,False,0
+0022401160,1630581,Josh Giddey,4,10:42,Williams,2-pointer,2,2,False,0
+0022401160,1630581,Josh Giddey,4,0:23,White,2-pointer,2,2,False,0
+0022401166,1627826,Ivica Zubac,1,7:38,Harden,3-pointer,3,3,False,0
+0022401166,1627826,Ivica Zubac,2,3:01,Jones Jr.,2-pointer,2,2,False,0
+0022401166,1627826,Ivica Zubac,2,0:40,Harden,3-pointer,3,3,False,0
+0022401166,1627826,Ivica Zubac,3,11:43,Harden,2-pointer,2,2,False,0
+0022401166,1627826,Ivica Zubac,3,9:02,Dunn,2-pointer,2,2,False,0
+0022401166,1627826,Ivica Zubac,3,6:17,Harden,2-pointer,2,2,False,0
+0022401166,1627826,Ivica Zubac,3,2:28,Brown,2-pointer,2,2,False,0
+0022401166,1627826,Ivica Zubac,4,4:21,Bogdanović,3-pointer,3,3,False,0
+0022401166,1627826,Ivica Zubac,4,2:38,Harden,2-pointer,2,2,False,0
+0022401166,1627826,Ivica Zubac,4,1:02,Bogdanović,3-pointer,3,3,False,0
+0022401184,201935,James Harden,1,6:43,Powell,2-pointer,2,2,False,0
+0022401184,201935,James Harden,1,6:16,Leonard,2-pointer,2,2,False,0
+0022401184,201935,James Harden,1,4:16,Zubac,2-pointer,2,2,True,0
+0022401184,201935,James Harden,1,3:22,Leonard,2-pointer,2,2,False,0
+0022401184,201935,James Harden,2,5:35,Zubac,2-pointer,2,2,False,0
+0022401184,201935,James Harden,2,3:43,Zubac,2-pointer,2,2,False,0
+0022401184,201935,James Harden,3,10:05,Powell,2-pointer,2,2,False,0
+0022401184,201935,James Harden,3,5:29,Dunn,2-pointer,2,2,False,0
+0022401184,201935,James Harden,4,6:12,Jones Jr.,2-pointer,2,2,False,0
+0022401184,201935,James Harden,4,2:58,Jones Jr.,2-pointer,2,2,False,0
+0022401178,203076,Anthony Davis,1,7:48,Thompson,3-pointer,3,3,False,0
+0022401178,203076,Anthony Davis,1,6:20,Washington,2-pointer,2,2,False,0
+0022401178,203076,Anthony Davis,2,8:19,Christie,2-pointer,2,2,False,0
+0022401178,203076,Anthony Davis,2,7:15,Washington,3-pointer,3,3,False,0
+0022401178,203076,Anthony Davis,2,6:42,Washington,2-pointer,2,2,False,0
+0022401178,203076,Anthony Davis,2,6:02,Washington,3-pointer,3,3,False,0
+0022401178,203076,Anthony Davis,2,5:19,Christie,2-pointer,2,2,False,0
+0022401178,203076,Anthony Davis,3,10:55,Lively II,2-pointer,2,2,False,0
+0022401178,203076,Anthony Davis,3,4:29,Gafford,2-pointer,2,2,False,0
+0022401178,203076,Anthony Davis,4,10:45,Lively II,2-pointer,2,2,False,0
+0022401171,203507,Giannis Antetokounmpo,1,7:18,Lopez,2-pointer,2,2,False,0
+0022401171,203507,Giannis Antetokounmpo,1,6:28,Rollins,3-pointer,3,3,False,0
+0022401171,203507,Giannis Antetokounmpo,1,1:20,Green,3-pointer,3,3,False,0
+0022401171,203507,Giannis Antetokounmpo,2,11:31,Trent Jr.,3-pointer,3,3,False,0
+0022401171,203507,Giannis Antetokounmpo,2,10:30,Portis,2-pointer,2,2,False,0
+0022401171,203507,Giannis Antetokounmpo,2,10:02,Portis,3-pointer,3,3,False,0
+0022401171,203507,Giannis Antetokounmpo,2,6:33,Rollins,2-pointer,2,2,False,0
+0022401171,203507,Giannis Antetokounmpo,2,2:10,Kuzma,3-pointer,3,3,False,0
+0022401171,203507,Giannis Antetokounmpo,3,11:36,Prince,3-pointer,3,3,False,0
+0022401171,203507,Giannis Antetokounmpo,3,10:16,Lopez,2-pointer,2,2,False,0
+0022401171,203507,Giannis Antetokounmpo,3,6:21,Lopez,3-pointer,3,3,False,0
+0022401171,203507,Giannis Antetokounmpo,3,5:43,Kuzma,3-pointer,3,3,False,0
+0022401171,203507,Giannis Antetokounmpo,4,9:09,Trent Jr.,3-pointer,3,3,False,0
+0022401171,203507,Giannis Antetokounmpo,4,2:32,Portis,2-pointer,2,2,False,0
+0022401171,203507,Giannis Antetokounmpo,4,1:30,Porter Jr.,2-pointer,2,2,False,0
+0022401181,1631119,Jaylin Williams,1,10:49,Joe,3-pointer,3,3,False,0
+0022401181,1631119,Jaylin Williams,1,10:13,Williams,2-pointer,2,2,False,0
+0022401181,1631119,Jaylin Williams,1,8:57,Joe,3-pointer,3,3,False,0
+0022401181,1631119,Jaylin Williams,1,5:10,Wiggins,2-pointer,2,2,False,0
+0022401181,1631119,Jaylin Williams,1,4:55,Wiggins,2-pointer,2,2,False,0
+0022401181,1631119,Jaylin Williams,2,10:04,Mitchell,2-pointer,2,2,False,0
+0022401181,1631119,Jaylin Williams,2,8:09,Wiggins,3-pointer,3,3,False,0
+0022401181,1631119,Jaylin Williams,2,6:58,Wiggins,2-pointer,2,2,False,0
+0022401181,1631119,Jaylin Williams,2,5:03,Carlson,2-pointer,2,2,False,0
+0022401181,1631119,Jaylin Williams,2,3:14,Flagler,3-pointer,3,3,False,0
+0022401181,1631119,Jaylin Williams,3,9:08,Wiggins,2-pointer,2,2,False,0
+0022401181,1631119,Jaylin Williams,3,7:45,Jones,3-pointer,3,3,False,0
+0022401181,1631119,Jaylin Williams,3,7:03,Joe,3-pointer,3,3,False,0
+0022401181,1631119,Jaylin Williams,3,0:55,Carlson,2-pointer,2,2,False,0
+0022401181,1631119,Jaylin Williams,4,10:42,Wiggins,2-pointer,2,2,True,0
+0022401186,1630811,Keaton Wallace,1,11:15,Mann,2-pointer,2,2,False,0
+0022401186,1630811,Keaton Wallace,1,8:12,Risacher,3-pointer,3,3,False,0
+0022401186,1630811,Keaton Wallace,1,7:35,Mann,2-pointer,2,2,False,0
+0022401186,1630811,Keaton Wallace,1,4:28,Risacher,3-pointer,3,3,False,0
+0022401186,1630811,Keaton Wallace,1,3:24,Krejčí,3-pointer,3,3,False,0
+0022401186,1630811,Keaton Wallace,2,5:25,Toppin,3-pointer,3,3,False,0
+0022401186,1630811,Keaton Wallace,2,2:17,Barlow,2-pointer,2,2,False,0
+0022401186,1630811,Keaton Wallace,2,1:57,Barlow,2-pointer,2,2,False,0
+0022401186,1630811,Keaton Wallace,2,0:52,Mathews,3-pointer,3,3,True,0
+0022401186,1630811,Keaton Wallace,3,8:38,Toppin,3-pointer,3,3,False,0
+0022401186,1630811,Keaton Wallace,3,5:51,Mann,2-pointer,2,2,False,0
+0022401186,1630811,Keaton Wallace,3,3:50,Mann,2-pointer,2,2,False,0
+0022401186,1630811,Keaton Wallace,3,1:00,Mathews,3-pointer,3,3,False,0
+0022401186,1630811,Keaton Wallace,4,5:43,Plowden,2-pointer,2,2,False,0
+0022401186,1630811,Keaton Wallace,4,3:40,Plowden,3-pointer,3,3,False,0

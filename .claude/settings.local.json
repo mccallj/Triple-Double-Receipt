@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python data_pull.py)",
+      "Bash(python -c \":*)",
+      "Bash(head -30 python -c \":*)",
+      "Bash(1 python3 -c \":*)",
+      "Bash(/usr/local/bin/python3 --version)",
+      "Bash(/opt/anaconda3/bin/python3 --version 2)",
+      "Bash(/dev/null echo:*)",
+      "Bash(/usr/local/bin/python3 --version /opt/anaconda3/bin/python3 -c \"import nba_api; print\\(''''nba_api found in anaconda''''\\)\" 2)",
+      "Bash(1 /usr/local/bin/pip3 show nba_api)",
+      "Bash(/usr/local/bin/pip3 install:*)",
+      "Bash(/usr/local/bin/python3 -c \"import nba_api, pbpstats, pandas, plotly, streamlit; print\\(''All packages OK''\\)\")",
+      "Bash(/usr/local/bin/python3 data_pull.py)"
+    ]
+  }
+}

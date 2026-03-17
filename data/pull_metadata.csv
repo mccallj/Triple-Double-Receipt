@@ -1,0 +1,2 @@
+pull_timestamp,season,games_fetched,players_fetched,pbp_games_success,pbp_games_failed,source_versions
+2026-03-17T00:37:04.626191+00:00,2024-25,149,43,149,0,"{""nba_api"": ""1.11.4"", ""pbpstats"": ""1.3.11"", ""pandas"": ""2.2.3"", ""requests"": ""2.32.3""}"
