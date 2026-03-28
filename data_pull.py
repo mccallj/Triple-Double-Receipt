@@ -2,6 +2,8 @@
 data_pull.py — Triple Double Receipt data pipeline.
 Run locally to pre-populate /data before deploying to Streamlit Community Cloud.
 
+Pulls the current NBA regular season through today's date (local calendar).
+
 Usage:
   python data_pull.py                          # full pull
   python data_pull.py --game-id 0022401234     # refresh single game
@@ -16,7 +18,7 @@ import logging
 import os
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 import pandas as pd
@@ -25,8 +27,6 @@ import pandas as pd
 ROOT = Path(__file__).parent
 DATA_DIR = ROOT / "data"
 LOG_FILE = DATA_DIR / "pull_errors.log"
-SEASON = "2024-25"
-SEASON_ID = "22024"  # nba_api season string format
 
 # ── Logging ───────────────────────────────────────────────────────────────────
 DATA_DIR.mkdir(exist_ok=True)
@@ -68,11 +68,24 @@ def log_error(context: str, error: Exception):
     log.error(f"[{context}] {error}")
 
 
+def nba_season_string(as_of: date) -> str:
+    """NBA season label for nba_api (e.g. 2025-26)."""
+    start_year = as_of.year if as_of.month >= 10 else as_of.year - 1
+    end_suffix = (start_year + 1) % 100
+    return f"{start_year}-{end_suffix:02d}"
+
+
+def basketball_reference_season_year(nba_season: str) -> int:
+    """Calendar year the NBA season ends (basketball-reference `season` param)."""
+    start_year = int(nba_season.split("-")[0])
+    return start_year + 1
+
+
 # ── Step 1: Triple-double game logs ──────────────────────────────────────────
 
-def fetch_triple_double_games() -> pd.DataFrame:
+def fetch_triple_double_games(season: str, as_of: date) -> pd.DataFrame:
     """
-    Pull every player's 2024-25 game log from nba_api.
+    Pull league player game logs from nba_api for `season`, through `as_of` (inclusive).
     Filter rows where PTS >= 10 AND AST >= 10 AND REB >= 10.
     Write data/triple_double_games.csv.
     Returns the DataFrame.
@@ -81,23 +94,30 @@ def fetch_triple_double_games() -> pd.DataFrame:
     log.info("STEP 1: Fetching triple-double game logs …")
 
     from nba_api.stats.endpoints import LeagueGameLog
-    from nba_api.stats.static import players as nba_players
-
-    records: list[dict] = []
-    games_fetched = 0
 
     try:
-        log.info(f"  Pulling full league game log for {SEASON} …")
+        log.info(f"  Pulling league game log for {season} (data through {as_of.isoformat()}) …")
         game_log = nba_api_call(
             LeagueGameLog,
-            season=SEASON,
+            season=season,
             season_type_all_star="Regular Season",
             player_or_team_abbreviation="P",
+            date_to_nullable=as_of.strftime("%m/%d/%Y"),
             timeout=60,
         )
         df_all = game_log.get_data_frames()[0]
-        games_fetched = len(df_all)
-        log.info(f"  Retrieved {games_fetched:,} player-game rows.")
+        raw_rows = len(df_all)
+        log.info(f"  Retrieved {raw_rows:,} player-game rows (API).")
+
+        gd = pd.to_datetime(df_all["GAME_DATE"], errors="coerce")
+        n_bad = int(gd.isna().sum())
+        if n_bad:
+            log.warning(f"  Dropping {n_bad} rows with unparseable GAME_DATE.")
+        df_all = df_all.assign(_gd=gd)
+        df_all = df_all[df_all["_gd"].notna()]
+        df_all = df_all[df_all["_gd"].dt.date <= as_of]
+        df_all = df_all.drop(columns=["_gd"])
+        log.info(f"  After date filter (≤ {as_of.isoformat()}): {len(df_all):,} rows (from {raw_rows:,} raw).")
 
         # Normalise column names (nba_api returns uppercase)
         col_map = {
@@ -132,7 +152,7 @@ def fetch_triple_double_games() -> pd.DataFrame:
                 return parts[1].strip(), "Away"
             return matchup, "Unknown"
 
-        df_td["season"] = SEASON
+        df_td["season"] = season
         df_td[["opponent_team", "home_away"]] = pd.DataFrame(
             [parse_matchup(str(m)) for m in df_td.get("matchup", [""] * len(df_td))],
             index=df_td.index,
@@ -255,10 +275,10 @@ def _write_empty_assist_sequences():
 
 # ── Step 3: Player season stats ───────────────────────────────────────────────
 
-def fetch_player_season_stats(df_td: pd.DataFrame) -> pd.DataFrame:
+def fetch_player_season_stats(df_td: pd.DataFrame, season: str) -> pd.DataFrame:
     """
     Pull season-level stats for every player in df_td.
-    Tries basketball_reference_scraper first, falls back to nba_api.
+    Uses nba_api LeagueDashPlayerStats; advanced stats from basketball-reference when available.
     Write data/player_season_stats.csv.
     """
     log.info("=" * 60)
@@ -280,7 +300,7 @@ def fetch_player_season_stats(df_td: pd.DataFrame) -> pd.DataFrame:
         log.info("  Pulling league player stats from nba_api …")
         resp = nba_api_call(
             LeagueDashPlayerStats,
-            season=SEASON,
+            season=season,
             season_type_all_star="Regular Season",
             per_mode_detailed="PerGame",
             timeout=60,
@@ -337,7 +357,9 @@ def fetch_player_season_stats(df_td: pd.DataFrame) -> pd.DataFrame:
         from basketball_reference_scraper.seasons import get_roster_stats
         log.info("  Pulling advanced stats from basketball-reference …")
         df_adv = get_roster_stats(
-            team=None, season=2025, data_format="ADVANCED"
+            team=None,
+            season=basketball_reference_season_year(season),
+            data_format="ADVANCED",
         )
         if df_adv is not None and not df_adv.empty:
             adv_map = {r.get("player_id"): r for r in stats_rows}
@@ -493,6 +515,8 @@ def write_metadata(
     players_fetched: int,
     pbp_success: int,
     pbp_failed: int,
+    season: str,
+    data_through: date,
 ):
     """Write pull_metadata.csv."""
     log.info("=" * 60)
@@ -509,7 +533,8 @@ def write_metadata(
 
     row = {
         "pull_timestamp": datetime.now(timezone.utc).isoformat(),
-        "season": SEASON,
+        "season": season,
+        "data_through": data_through.isoformat(),
         "games_fetched": games_fetched,
         "players_fetched": players_fetched,
         "pbp_games_success": pbp_success,
@@ -592,13 +617,15 @@ def main():
         return
 
     start = time.time()
+    as_of = date.today()
+    season = nba_season_string(as_of)
     log.info("╔══════════════════════════════════════════════════════════╗")
     log.info("║  Triple Double Receipt — Full Data Pull                 ║")
-    log.info(f"║  Season: {SEASON}                                         ║")
     log.info("╚══════════════════════════════════════════════════════════╝")
+    log.info(f"  Season {season} · data through {as_of.isoformat()}")
 
     # Step 1
-    df_td = fetch_triple_double_games()
+    df_td = fetch_triple_double_games(season, as_of)
     games_fetched = len(df_td)
     players_fetched = df_td["player_id"].nunique() if not df_td.empty else 0
 
@@ -616,7 +643,7 @@ def main():
 
     # Step 3
     try:
-        fetch_player_season_stats(df_td)
+        fetch_player_season_stats(df_td, season)
     except Exception as e:
         log_error("fetch_player_season_stats outer", e)
 
@@ -627,7 +654,7 @@ def main():
         log_error("build_leaderboard outer", e)
 
     # Step 5
-    write_metadata(games_fetched, players_fetched, pbp_success, pbp_failed)
+    write_metadata(games_fetched, players_fetched, pbp_success, pbp_failed, season, as_of)
 
     elapsed = time.time() - start
     log.info("")

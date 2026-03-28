@@ -1,44 +1,28 @@
 player_id,player_name,team,games_played,pts_per_game,ast_per_game,reb_per_game,ts_pct,usage_rate,triple_double_count
-1630578,Alperen Sengun,HOU,76,19.1,4.9,10.3,,,4
-1641708,Amen Thompson,HOU,69,14.1,3.8,8.2,,,3
-203076,Anthony Davis,DAL,51,24.7,3.5,11.6,,,1
-1630559,Austin Reaves,LAL,73,20.2,5.8,4.5,,,1
-1630245,Ayo Dosunmu,CHI,46,12.3,4.5,3.5,,,1
-1628389,Bam Adebayo,MIA,78,18.1,4.3,9.6,,,1
-1641731,Bilal Coulibaly,WAS,59,12.3,3.4,5.0,,,1
-1630595,Cade Cunningham,DET,70,26.1,9.1,6.1,,,9
-203081,Damian Lillard,MIL,58,24.9,7.1,4.7,,,2
-1627749,Dejounte Murray,NOP,31,17.5,7.4,6.5,,,1
-1630166,Deni Avdija,POR,72,16.9,3.9,7.3,,,2
-1630217,Desmond Bane,ORL,69,19.2,5.3,6.1,,,1
-1627734,Domantas Sabonis,SAC,70,19.1,6.0,13.9,,,10
-203110,Draymond Green,GSW,68,9.0,5.6,6.1,,,1
-203507,Giannis Antetokounmpo,MIL,67,30.4,6.5,11.9,,,11
-1627826,Ivica Zubac,LAC,80,16.8,2.7,12.6,,,1
-1629630,Ja Morant,MEM,50,23.2,7.3,4.1,,,1
-1631170,Jaime Jaquez Jr.,MIA,66,8.6,2.5,4.4,,,1
-1630552,Jalen Johnson,ATL,36,18.9,5.0,10.0,,,1
-1629618,Jalen Pickett,DEN,49,4.1,2.2,1.4,,,1
-201935,James Harden,LAC,79,22.8,8.7,5.8,,,3
-1631119,Jaylin Williams,OKC,47,5.9,2.6,5.6,,,3
-1628369,Jayson Tatum,BOS,72,26.8,6.0,8.7,,,2
-202710,Jimmy Butler III,GSW,55,17.5,5.4,5.4,,,3
-203954,Joel Embiid,PHI,19,23.8,4.5,8.2,,,1
-1642367,Jonathan Mogbo,TOR,63,6.2,2.3,4.9,,,1
-1630581,Josh Giddey,CHI,70,14.6,7.2,8.1,,,7
-1628404,Josh Hart,NYK,77,13.6,5.9,9.6,,,9
-1626157,Karl-Anthony Towns,NYK,72,24.4,3.1,12.8,,,1
-1630811,Keaton Wallace,ATL,31,5.4,2.6,1.6,,,1
-1629645,Kevin Porter Jr.,MIL,75,10.3,3.4,3.7,,,1
-2544,LeBron James,LAL,70,24.4,8.2,7.8,,,10
-1629029,Luka Dončić,LAL,50,28.2,7.7,8.2,,,5
-1628970,Miles Bridges,CHA,64,20.3,3.9,7.5,,,1
-203999,Nikola Jokić,DEN,70,29.6,10.2,12.7,,,34
-202696,Nikola Vučević,CHI,73,18.5,3.5,10.1,,,1
-1629628,RJ Barrett,TOR,58,21.1,5.4,6.3,,,2
-201566,Russell Westbrook,DEN,75,13.3,6.1,4.9,,,4
-1630567,Scottie Barnes,TOR,65,19.3,5.8,7.7,,,1
-1630590,Scotty Pippen Jr.,MEM,79,9.9,4.4,3.3,,,1
-1630178,Tyrese Maxey,PHI,52,26.3,6.1,3.3,,,1
-1641705,Victor Wembanyama,SAS,46,24.3,3.7,11.0,,,1
-1629627,Zion Williamson,NOP,30,24.6,5.3,7.2,,,2
+1630578,Alperen Sengun,HOU,64,20.4,6.2,8.9,,,4
+1630595,Cade Cunningham,DET,61,24.5,9.9,5.6,,,3
+1630166,Deni Avdija,POR,59,23.9,6.7,6.9,,,3
+1642852,Derik Queen,NOP,74,11.4,3.7,6.9,,,2
+1630700,Dyson Daniels,ATL,70,11.7,5.9,6.7,,,1
+1628392,Isaiah Hartenstein,OKC,42,9.5,3.7,9.6,,,1
+1630552,Jalen Johnson,ATL,65,22.9,8.1,10.3,,,13
+1630591,Jalen Suggs,ORL,48,13.7,5.2,3.8,,,1
+201935,James Harden,CLE,64,24.0,8.1,5.0,,,2
+1627759,Jaylen Brown,BOS,65,28.6,5.2,7.0,,,3
+203954,Joel Embiid,PHI,34,26.9,4.0,7.5,,,1
+1630581,Josh Giddey,CHI,51,17.4,9.2,8.3,,,12
+1628404,Josh Hart,NYK,59,12.2,5.0,7.6,,,2
+203944,Julius Randle,MIN,73,21.1,5.1,6.8,,,3
+203994,Jusuf Nurkić,UTA,41,10.9,4.8,10.4,,,3
+1629645,Kevin Porter Jr.,MIL,38,17.4,7.4,5.2,,,2
+1630163,LaMelo Ball,CHA,63,19.7,7.1,4.8,,,1
+2544,LeBron James,LAL,53,20.9,6.9,6.0,,,2
+1629029,Luka Dončić,LAL,62,33.7,8.2,7.8,,,8
+1629651,Nic Claxton,BKN,66,11.8,3.7,7.0,,,2
+203999,Nikola Jokić,DEN,59,27.9,10.8,12.8,,,31
+1631094,Paolo Banchero,ORL,63,22.8,5.1,8.4,,,2
+201566,Russell Westbrook,SAC,64,15.2,6.7,5.4,,,6
+1630567,Scottie Barnes,TOR,71,18.5,5.6,7.8,,,2
+1642264,Stephon Castle,SAS,61,16.5,7.1,5.0,,,3
+1630570,Trendon Watford,PHI,50,6.8,2.6,3.4,,,1
+1641705,Victor Wembanyama,SAS,58,24.2,3.0,11.2,,,1

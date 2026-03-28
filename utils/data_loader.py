@@ -31,7 +31,7 @@ def _hours_since(ts_str: str) -> float:
 def load_metadata() -> dict:
     """
     Load pull_metadata.csv. Returns a dict with keys:
-      pull_timestamp, season, games_fetched, players_fetched,
+      pull_timestamp, season, data_through, games_fetched, players_fetched,
       pbp_games_success, pbp_games_failed, source_versions
     Returns None if file is missing.
     """
