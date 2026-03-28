@@ -15,11 +15,14 @@ st.set_page_config(
 import sys, os
 sys.path.insert(0, os.path.dirname(__file__))
 
-from utils.styles import inject_styles, GOOGLE_FONTS, GLOBAL_CSS
+from utils.styles import inject_styles, render_brand_header, GOOGLE_FONTS, GLOBAL_CSS
 from utils.data_loader import load_metadata, check_freshness, freshness_label
 
 # ── Inject global styles ──────────────────────────────────────────────────────
 inject_styles()
+
+# ── Main: brand header (also on each page script) ─────────────────────────────
+render_brand_header()
 
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 with st.sidebar:

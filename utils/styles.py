@@ -3,6 +3,11 @@ Shared CSS and card HTML templates for Triple Double Receipt.
 NYT Games aesthetic — IBM Plex Mono for numbers, Inter for body.
 """
 
+from pathlib import Path
+
+_LOGO_PATH = Path(__file__).resolve().parent.parent / "Logo.PNG"
+_LOGO_WIDTH_PX = 72
+
 GOOGLE_FONTS = """
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -260,6 +265,11 @@ GLOBAL_CSS = """
     font-weight: 500;
   }
 
+  /* ── Brand header (JAMN logo) ── */
+  .brand-header-spacer {
+    padding-bottom: 12px;
+  }
+
   /* ── Mobile ── */
   @media (max-width: 480px) {
     .receipt-wrap { padding: 18px 16px; }
@@ -275,6 +285,18 @@ def inject_styles():
     """Call this at the top of every page to inject fonts + CSS."""
     import streamlit as st
     st.markdown(GOOGLE_FONTS + GLOBAL_CSS, unsafe_allow_html=True)
+
+
+def render_brand_header() -> None:
+    """Small top-left logo; no-op if Logo.PNG is missing from project root."""
+    import streamlit as st
+
+    if not _LOGO_PATH.is_file():
+        return
+    c_logo, _ = st.columns([1, 8])
+    with c_logo:
+        st.image(str(_LOGO_PATH), width=_LOGO_WIDTH_PX)
+    st.markdown('<div class="brand-header-spacer"></div>', unsafe_allow_html=True)
 
 
 def stat_banner_html(stats: list[dict]) -> str:

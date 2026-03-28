@@ -7,7 +7,7 @@ import streamlit as st
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 
-from utils.styles import inject_styles, stat_banner_html
+from utils.styles import inject_styles, render_brand_header, stat_banner_html
 from utils.data_loader import (
     load_triple_double_games,
     load_leaderboard,
@@ -21,6 +21,7 @@ st.set_page_config(
 )
 
 inject_styles()
+render_brand_header()
 
 st.markdown(
     '<h2 style="font-family:\'IBM Plex Mono\',monospace;font-weight:700;'
