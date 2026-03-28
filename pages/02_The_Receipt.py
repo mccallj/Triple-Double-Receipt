@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 
-from utils.styles import inject_styles, render_brand_header, receipt_line_html
+from utils.styles import inject_styles, render_app_banner, receipt_line_html
 from utils.data_loader import (
     load_assist_sequences,
     load_triple_double_games,
@@ -27,7 +27,7 @@ st.set_page_config(
 )
 
 inject_styles()
-render_brand_header()
+render_app_banner("receipt")
 
 st.markdown(
     '<h2 style="font-family:\'IBM Plex Mono\',monospace;font-weight:700;'

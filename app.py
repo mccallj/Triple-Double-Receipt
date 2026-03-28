@@ -15,14 +15,14 @@ st.set_page_config(
 import sys, os
 sys.path.insert(0, os.path.dirname(__file__))
 
-from utils.styles import inject_styles, render_brand_header, GOOGLE_FONTS, GLOBAL_CSS
+from utils.styles import inject_styles, render_app_banner, GOOGLE_FONTS, GLOBAL_CSS
 from utils.data_loader import load_metadata, check_freshness, freshness_label
 
 # ── Inject global styles ──────────────────────────────────────────────────────
 inject_styles()
 
-# ── Main: brand header (also on each page script) ─────────────────────────────
-render_brand_header()
+# ── Main: masthead + primary nav (also on each page script) ───────────────────
+render_app_banner("home")
 
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 with st.sidebar:
@@ -74,7 +74,7 @@ is parsed to trace each assist to the exact shot type it produced.*
         )
 
     st.divider()
-    st.caption("Navigate using the pages above ↑")
+    st.caption("Use the banner links to move between sections.")
 
 # ── Landing page content (redirects user to Player Log) ──────────────────────
 st.markdown(
@@ -89,7 +89,7 @@ st.markdown(
     This app shows the invoice underneath it.
   </div>
   <div style="font-size:13px; color:#9CA3AF;">
-    Use the sidebar to navigate → <strong>Player Log</strong> · <strong>The Receipt</strong> · <strong>Leaderboard</strong>
+    Use the banner above → <strong>Player Log</strong> · <strong>The Receipt</strong> · <strong>Leaderboard</strong>
   </div>
 </div>
 """,

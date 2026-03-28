@@ -5,5 +5,8 @@ primaryColor = "#1B4332"
 textColor = "#1A1A2E"
 font = "sans serif"
 
+[client]
+showSidebarNavigation = false
+
 [server]
 headless = true

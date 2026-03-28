@@ -1,4 +1,4 @@
-streamlit
+streamlit>=1.33.0
 nba_api
 pbpstats
 basketball-reference-scraper

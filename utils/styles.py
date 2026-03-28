@@ -3,10 +3,12 @@ Shared CSS and card HTML templates for Triple Double Receipt.
 NYT Games aesthetic — IBM Plex Mono for numbers, Inter for body.
 """
 
+from __future__ import annotations
+
+import base64
 from pathlib import Path
 
 _LOGO_PATH = Path(__file__).resolve().parent.parent / "Logo.PNG"
-_LOGO_WIDTH_PX = 72
 
 GOOGLE_FONTS = """
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -265,9 +267,35 @@ GLOBAL_CSS = """
     font-weight: 500;
   }
 
-  /* ── Brand header (JAMN logo) ── */
-  .brand-header-spacer {
-    padding-bottom: 12px;
+  /* ── Masthead (centered logo + primary nav) ── */
+  .tdr-masthead-logo {
+    text-align: center;
+    margin: 4px 0 8px 0;
+  }
+  .tdr-masthead-logo img {
+    max-height: clamp(40px, 14vw, 88px);
+    width: auto;
+    max-width: min(100%, 360px);
+    height: auto;
+    object-fit: contain;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  hr.tdr-masthead-nav-sep {
+    border: none;
+    border-top: 3px double #1A1A2E;
+    margin: 8px 0 12px 0;
+    opacity: 0.88;
+  }
+  .tdr-masthead-spacer {
+    margin-bottom: 16px;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #E8E8E4;
+  }
+
+  /* Hide default multipage sidebar nav when using masthead (config + fallback) */
+  [data-testid="stSidebarNav"] {
+    display: none !important;
   }
 
   /* ── Mobile ── */
@@ -276,6 +304,9 @@ GLOBAL_CSS = """
     .stat-box .stat-value { font-size: 22px; }
     .receipt-total .total-val { font-size: 24px; }
     .callout-card .callout-number { font-size: 36px; }
+    .tdr-masthead-logo img {
+      max-height: clamp(36px, 18vw, 72px);
+    }
   }
 </style>
 """
@@ -287,16 +318,40 @@ def inject_styles():
     st.markdown(GOOGLE_FONTS + GLOBAL_CSS, unsafe_allow_html=True)
 
 
-def render_brand_header() -> None:
-    """Small top-left logo; no-op if Logo.PNG is missing from project root."""
+def render_app_banner(active: str | None = None) -> None:
+    """
+    NYT-style masthead: centered JAMN logo + one-tap primary nav.
+    active: 'home' | 'player_log' | 'receipt' | 'leaderboard' | None
+    """
     import streamlit as st
 
-    if not _LOGO_PATH.is_file():
-        return
-    c_logo, _ = st.columns([1, 8])
-    with c_logo:
-        st.image(str(_LOGO_PATH), width=_LOGO_WIDTH_PX)
-    st.markdown('<div class="brand-header-spacer"></div>', unsafe_allow_html=True)
+    if _LOGO_PATH.is_file():
+        b64 = base64.b64encode(_LOGO_PATH.read_bytes()).decode("ascii")
+        st.markdown(
+            f'<div class="tdr-masthead-logo">'
+            f'<img src="data:image/png;base64,{b64}" alt="JAMN Sports Analytics" />'
+            f"</div>",
+            unsafe_allow_html=True,
+        )
+
+    st.markdown('<hr class="tdr-masthead-nav-sep" />', unsafe_allow_html=True)
+
+    c1, c2, c3 = st.columns(3)
+    nav = [
+        (c1, "pages/01_Player_Log.py", "Player Log", "player_log"),
+        (c2, "pages/02_The_Receipt.py", "The Receipt", "receipt"),
+        (c3, "pages/03_Leaderboard.py", "Leaderboard", "leaderboard"),
+    ]
+    for col, page, label, key in nav:
+        with col:
+            st.page_link(
+                page,
+                label=label,
+                use_container_width=True,
+                disabled=(active == key),
+            )
+
+    st.markdown('<div class="tdr-masthead-spacer"></div>', unsafe_allow_html=True)
 
 
 def stat_banner_html(stats: list[dict]) -> str:
