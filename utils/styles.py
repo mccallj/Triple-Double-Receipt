@@ -24,6 +24,66 @@ GLOBAL_CSS = """
     color: #1A1A2E;
   }
 
+  /* ── Typography helpers (work with dark theme overrides) ── */
+  .tdr-page-title {
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 700;
+    color: #1A1A2E;
+    margin-bottom: 4px;
+  }
+  .tdr-subtitle {
+    font-size: 13px;
+    margin-top: 0;
+    color: #6B7280;
+  }
+  .tdr-muted { color: #6B7280; }
+  .tdr-caption { font-size: 12px; color: #6B7280; }
+  .tdr-landing-tagline { font-size: 16px; color: #6B7280; max-width: 520px; margin: 0 auto 24px; }
+  .tdr-landing-hint { font-size: 13px; color: #9CA3AF; }
+  .tdr-hero-title {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 36px;
+    font-weight: 700;
+    color: #1B4332;
+    margin-bottom: 12px;
+  }
+  .tdr-section-heading {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 16px;
+    font-weight: 600;
+    color: #1A1A2E;
+    margin: 8px 0 12px 0;
+  }
+  .tdr-filter-heading {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #6B7280;
+    margin-bottom: 8px;
+  }
+  .tdr-running-total {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 12px;
+    color: #6B7280;
+    padding-top: 8px;
+    font-family: 'IBM Plex Mono', monospace;
+  }
+  .tdr-receipt-alert {
+    padding: 16px;
+    text-align: center;
+    color: #C0392B;
+    font-size: 13px;
+  }
+  .tdr-receipt-muted-box {
+    padding: 16px;
+    text-align: center;
+    color: #6B7280;
+    font-size: 13px;
+  }
+  .tdr-stat-inline { font-size: 15px; font-weight: 600; color: #1B4332; }
+
   /* ── Stat numbers ── */
   .mono { font-family: 'IBM Plex Mono', monospace; }
 
@@ -96,6 +156,9 @@ GLOBAL_CSS = """
     color: #6B7280;
     margin-top: 4px;
   }
+  .receipt-meta .mono { color: #1B4332; }
+  .tdr-receipt-emphasis { margin-top: 8px; font-weight: 600; color: #374151; }
+  .tdr-pts-accent { color: #1B4332; }
   .receipt-line {
     display: flex;
     justify-content: space-between;
@@ -311,11 +374,129 @@ GLOBAL_CSS = """
 </style>
 """
 
+# Appended when user selects Dark mode in Streamlit Settings (st.context.theme.base == "dark")
+DARK_THEME_CSS = """
+<style>
+  /* ── Dark theme (Streamlit Settings → Theme → Dark) ── */
+  .tdr-page-title { color: #F9FAFB !important; }
+  .tdr-subtitle, .tdr-muted, .tdr-caption { color: #9CA3AF !important; }
+  .tdr-landing-tagline { color: #9CA3AF !important; }
+  .tdr-landing-hint { color: #6B7280 !important; }
+  .tdr-hero-title { color: #6EE7B7 !important; }
+  .tdr-section-heading { color: #F9FAFB !important; }
+  .tdr-filter-heading { color: #9CA3AF !important; }
+  .tdr-running-total { color: #9CA3AF !important; }
+  .tdr-receipt-alert { color: #F87171 !important; }
+  .tdr-receipt-muted-box { color: #9CA3AF !important; }
+  .tdr-stat-inline { color: #6EE7B7 !important; }
+
+  .tdr-card, .stat-box, .receipt-wrap {
+    background: #262730 !important;
+    border-color: #3D3D4D !important;
+    box-shadow: 0 1px 8px rgba(0,0,0,0.35) !important;
+  }
+
+  .stat-box .stat-label { color: #9CA3AF !important; }
+  .stat-box .stat-value { color: #6EE7B7 !important; }
+
+  .receipt-header { border-bottom-color: #3D3D4D !important; }
+  .receipt-player { color: #F9FAFB !important; }
+  .receipt-meta { color: #9CA3AF !important; }
+  .receipt-meta .mono { color: #6EE7B7 !important; }
+  .tdr-receipt-emphasis { color: #E8EAED !important; }
+  .tdr-pts-accent { color: #6EE7B7 !important; }
+  .receipt-line { border-bottom-color: #3D3D4D !important; }
+  .receipt-line .line-desc { color: #D1D5DB !important; }
+  .receipt-line .line-pts { color: #6EE7B7 !important; }
+  .receipt-subtotal { border-top-color: #4B5563 !important; }
+  .receipt-subtotal-row { color: #9CA3AF !important; }
+  .receipt-subtotal-row .sub-val { color: #D1D5DB !important; }
+  .receipt-divider { border-top-color: #9CA3AF !important; }
+  .receipt-own-score { color: #E8EAED !important; }
+  .receipt-total {
+    background: rgba(16, 185, 129, 0.12) !important;
+    border-color: #34D399 !important;
+  }
+  .receipt-total .total-label,
+  .receipt-total .total-val { color: #6EE7B7 !important; }
+  .receipt-footer { color: #6B7280 !important; border-top-color: #3D3D4D !important; }
+
+  .callout-card {
+    background: linear-gradient(135deg, #14532D 0%, #166534 100%) !important;
+    color: #F9FAFB !important;
+  }
+
+  .warn-banner {
+    background: #422006 !important;
+    border-color: #D97706 !important;
+    color: #FCD34D !important;
+  }
+  .err-banner {
+    background: #450A0A !important;
+    border-color: #DC2626 !important;
+    color: #FECACA !important;
+  }
+
+  .sidebar-title { color: #6EE7B7 !important; }
+  .sidebar-season { color: #9CA3AF !important; }
+  .freshness-badge {
+    background: rgba(16, 185, 129, 0.15) !important;
+    border-color: #34D399 !important;
+    color: #A7F3D0 !important;
+  }
+  .freshness-badge-warn {
+    background: #422006 !important;
+    border-color: #D97706 !important;
+    color: #FCD34D !important;
+  }
+
+  hr.tdr-masthead-nav-sep {
+    border-top-color: #6B7280 !important;
+    opacity: 1 !important;
+  }
+  .tdr-masthead-spacer {
+    border-bottom-color: #3D3D4D !important;
+  }
+</style>
+"""
+
+
+def _theme_is_dark() -> bool:
+    """True when the user selects Dark in Streamlit Settings → Theme."""
+    import streamlit as st
+
+    try:
+        theme = st.context.theme
+        return theme is not None and getattr(theme, "base", None) == "dark"
+    except Exception:
+        return False
+
+
+def plotly_layout_colors() -> dict[str, str]:
+    """Paper/plot background and font color for Plotly to match Streamlit theme."""
+    if _theme_is_dark():
+        return {
+            "paper_bgcolor": "#0E1117",
+            "plot_bgcolor": "#262730",
+            "font_color": "#E8EAED",
+            "gridcolor": "#3D3D4D",
+        }
+    return {
+        "paper_bgcolor": "white",
+        "plot_bgcolor": "white",
+        "font_color": "#1A1A2E",
+        "gridcolor": "#F3F4F6",
+    }
+
 
 def inject_styles():
     """Call this at the top of every page to inject fonts + CSS."""
     import streamlit as st
-    st.markdown(GOOGLE_FONTS + GLOBAL_CSS, unsafe_allow_html=True)
+
+    css = GOOGLE_FONTS + GLOBAL_CSS
+    if _theme_is_dark():
+        css += DARK_THEME_CSS
+    st.markdown(css, unsafe_allow_html=True)
 
 
 def render_app_banner(active: str | None = None) -> None:

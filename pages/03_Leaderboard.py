@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 
-from utils.styles import inject_styles, render_app_banner, callout_card_html
+from utils.styles import inject_styles, render_app_banner, callout_card_html, plotly_layout_colors
 from utils.data_loader import load_leaderboard, check_freshness
 
 st.set_page_config(
@@ -22,9 +22,8 @@ inject_styles()
 render_app_banner("leaderboard")
 
 st.markdown(
-    '<h2 style="font-family:\'IBM Plex Mono\',monospace;font-weight:700;'
-    'color:#1A1A2E;margin-bottom:4px;">Season Leaderboard</h2>'
-    '<p style="color:#6B7280;font-size:13px;margin-top:0;">2024–25 Regular Season · Ranked by Total Points Touched</p>',
+    '<h2 class="tdr-page-title">Season Leaderboard</h2>'
+    '<p class="tdr-subtitle">2024–25 Regular Season · Ranked by Total Points Touched</p>',
     unsafe_allow_html=True,
 )
 
@@ -60,8 +59,7 @@ st.markdown(
 
 # ── Filters ───────────────────────────────────────────────────────────────────
 st.markdown(
-    '<p style="font-size:12px;font-weight:600;letter-spacing:.06em;'
-    'text-transform:uppercase;color:#6B7280;margin-bottom:8px;">Filters</p>',
+    '<p class="tdr-filter-heading">Filters</p>',
     unsafe_allow_html=True,
 )
 
@@ -119,7 +117,7 @@ df_filtered = df_filtered.sort_values("total_points_touched", ascending=False).r
 df_filtered["rank"] = df_filtered.index + 1
 
 st.markdown(
-    f'<p style="font-size:12px;color:#6B7280;margin:8px 0;">'
+    f'<p class="tdr-caption" style="margin:8px 0;">'
     f'Showing {len(df_filtered)} performances</p>',
     unsafe_allow_html=True,
 )
@@ -160,7 +158,7 @@ st.dataframe(
 # ── Drill-through to Receipt ──────────────────────────────────────────────────
 st.divider()
 st.markdown(
-    '<p style="font-size:13px;color:#6B7280;">Open a Receipt for any performance:</p>',
+    '<p class="tdr-muted" style="font-size:13px;">Open a Receipt for any performance:</p>',
     unsafe_allow_html=True,
 )
 
@@ -192,7 +190,7 @@ with col_d1:
             st.markdown(
                 f'<div class="tdr-card" style="padding:14px;">'
                 f'<strong>Selected:</strong> {r["player_name"]} · {r["game_date"]}<br>'
-                f'<span style="font-size:12px;color:#6B7280;">'
+                f'<span class="tdr-caption">'
                 f'Navigate to <strong>The Receipt</strong> to view breakdown.</span>'
                 f'</div>',
                 unsafe_allow_html=True,
@@ -207,8 +205,7 @@ with col_d2:
 # ── Bar chart: top 10 performances ───────────────────────────────────────────
 st.divider()
 st.markdown(
-    '<h3 style="font-family:\'IBM Plex Mono\',monospace;font-size:16px;color:#1A1A2E;">'
-    'Top Performances — Total Points Touched</h3>',
+    '<h3 class="tdr-section-heading">Top Performances — Total Points Touched</h3>',
     unsafe_allow_html=True,
 )
 
@@ -217,6 +214,7 @@ if not top10.empty:
     top10["label"] = top10["player_name"] + "\n" + top10["game_date"].astype(str)
 
     fig = go.Figure()
+    _pc = plotly_layout_colors()
 
     own_pts_vals = top10["pts"].tolist()
     assist_pts_vals = top10["points_via_assists"].tolist() if "points_via_assists" in top10 else [0]*len(top10)
@@ -250,24 +248,24 @@ if not top10.empty:
 
     fig.update_layout(
         barmode="stack",
-        plot_bgcolor="white",
-        paper_bgcolor="white",
+        plot_bgcolor=_pc["plot_bgcolor"],
+        paper_bgcolor=_pc["paper_bgcolor"],
         height=max(300, len(top10) * 50),
         margin=dict(l=140, r=20, t=10, b=30),
         xaxis=dict(
             showgrid=True,
-            gridcolor="#F3F4F6",
+            gridcolor=_pc["gridcolor"],
             gridwidth=1,
             zeroline=False,
-            tickfont=dict(family="IBM Plex Mono", size=11),
-            title=dict(text="Points", font=dict(family="Inter", size=12)),
+            tickfont=dict(family="IBM Plex Mono", size=11, color=_pc["font_color"]),
+            title=dict(text="Points", font=dict(family="Inter", size=12, color=_pc["font_color"])),
         ),
         yaxis=dict(
             showgrid=False,
-            tickfont=dict(family="IBM Plex Mono", size=11),
+            tickfont=dict(family="IBM Plex Mono", size=11, color=_pc["font_color"]),
             autorange="reversed",
         ),
-        font=dict(family="Inter", size=12, color="#1A1A2E"),
+        font=dict(family="Inter", size=12, color=_pc["font_color"]),
     )
 
     st.plotly_chart(fig, use_container_width=True)

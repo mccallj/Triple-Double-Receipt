@@ -80,15 +80,12 @@ is parsed to trace each assist to the exact shot type it produced.*
 st.markdown(
     """
 <div class="tdr-card" style="text-align:center; padding: 40px 24px;">
-  <div style="font-family:'IBM Plex Mono',monospace; font-size:36px;
-              font-weight:700; color:#1B4332; margin-bottom:12px;">
-    Triple Double Receipt
-  </div>
-  <div style="font-size:16px; color:#6B7280; max-width:520px; margin:0 auto 24px;">
+  <div class="tdr-hero-title">Triple Double Receipt</div>
+  <div class="tdr-landing-tagline">
     A triple double is a headline.<br>
     This app shows the invoice underneath it.
   </div>
-  <div style="font-size:13px; color:#9CA3AF;">
+  <div class="tdr-landing-hint">
     Use the banner above → <strong>Player Log</strong> · <strong>The Receipt</strong> · <strong>Leaderboard</strong>
   </div>
 </div>

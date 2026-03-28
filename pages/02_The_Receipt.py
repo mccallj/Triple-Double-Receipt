@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 
-from utils.styles import inject_styles, render_app_banner, receipt_line_html
+from utils.styles import inject_styles, render_app_banner, receipt_line_html, plotly_layout_colors
 from utils.data_loader import (
     load_assist_sequences,
     load_triple_double_games,
@@ -30,9 +30,8 @@ inject_styles()
 render_app_banner("receipt")
 
 st.markdown(
-    '<h2 style="font-family:\'IBM Plex Mono\',monospace;font-weight:700;'
-    'color:#1A1A2E;margin-bottom:4px;">The Receipt</h2>'
-    '<p style="color:#6B7280;font-size:13px;margin-top:0;">Full point contribution breakdown · Single game</p>',
+    '<h2 class="tdr-page-title">The Receipt</h2>'
+    '<p class="tdr-subtitle">Full point contribution breakdown · Single game</p>',
     unsafe_allow_html=True,
 )
 
@@ -97,7 +96,7 @@ with col_sel1:
 
 if selected_label == "— Select a game —":
     st.markdown(
-        '<div class="tdr-card" style="text-align:center;color:#6B7280;padding:40px;">'
+        '<div class="tdr-card tdr-muted" style="text-align:center;padding:40px;">'
         'Select a game above to view the receipt breakdown.'
         '</div>',
         unsafe_allow_html=True,
@@ -188,11 +187,11 @@ with center_col:
     <div class="receipt-player">{player_name}</div>
     <div class="receipt-meta">{game_date} · vs {opponent} · {result_display}</div>
     <div class="receipt-meta" style="margin-top:6px;">
-      <span class="mono" style="font-size:15px;font-weight:600;">{own_pts} PTS</span>
+      <span class="mono tdr-stat-inline">{own_pts} PTS</span>
       &nbsp;·&nbsp;
-      <span class="mono" style="font-size:15px;font-weight:600;">{ast} AST</span>
+      <span class="mono tdr-stat-inline">{ast} AST</span>
       &nbsp;·&nbsp;
-      <span class="mono" style="font-size:15px;font-weight:600;">{reb} REB</span>
+      <span class="mono tdr-stat-inline">{reb} REB</span>
     </div>
   </div>
 """
@@ -200,7 +199,7 @@ with center_col:
 
     if pbp_unavailable:
         st.markdown(
-            '<div style="padding:16px;text-align:center;color:#C0392B;font-size:13px;">'
+            '<div class="tdr-receipt-alert">'
             '⚠️ Play-by-play unavailable for this game. '
             'Re-run <code>python data_pull.py --game-id '
             + game_id +
@@ -209,7 +208,7 @@ with center_col:
         )
     elif game_assists.empty:
         st.markdown(
-            '<div style="padding:16px;text-align:center;color:#6B7280;font-size:13px;">'
+            '<div class="tdr-receipt-muted-box">'
             'No assist sequences recorded for this game.</div>',
             unsafe_allow_html=True,
         )
@@ -236,8 +235,7 @@ with center_col:
             running_total += pts
 
         lines_html += f"""
-<div style="display:flex;justify-content:flex-end;font-size:12px;
-            color:#6B7280;padding-top:8px;font-family:'IBM Plex Mono',monospace;">
+<div class="tdr-running-total">
   Running total: {running_total} pts
 </div>
 """
@@ -258,9 +256,9 @@ with center_col:
     <span>Assisted free throws ({n_ft} makes × 1 pt)</span>
     <span class="sub-val">{pts_via_ft} pts</span>
   </div>
-  <div class="receipt-subtotal-row" style="margin-top:8px;font-weight:600;color:#374151;">
+  <div class="receipt-subtotal-row tdr-receipt-emphasis">
     <span>Points Generated via Assists</span>
-    <span class="sub-val" style="color:#1B4332;">{pts_via_assists} pts</span>
+    <span class="sub-val tdr-pts-accent">{pts_via_assists} pts</span>
   </div>
 </div>
 
@@ -284,8 +282,7 @@ with center_col:
 # ── Stacked bar chart ─────────────────────────────────────────────────────────
 st.markdown("<br>", unsafe_allow_html=True)
 st.markdown(
-    '<h3 style="font-family:\'IBM Plex Mono\',monospace;font-size:16px;'
-    'color:#1A1A2E;">Point Breakdown</h3>',
+    '<h3 class="tdr-section-heading">Point Breakdown</h3>',
     unsafe_allow_html=True,
 )
 
@@ -297,6 +294,8 @@ segments = [
     ("2PT Assisted", pts_via_2pt, "#52B788"),
     ("FT Assisted",  pts_via_ft,  "#95D5B2"),
 ]
+
+_pc = plotly_layout_colors()
 
 for name, val, color in segments:
     if val > 0:
@@ -315,20 +314,20 @@ for name, val, color in segments:
 
 fig.update_layout(
     barmode="stack",
-    plot_bgcolor="white",
-    paper_bgcolor="white",
+    plot_bgcolor=_pc["plot_bgcolor"],
+    paper_bgcolor=_pc["paper_bgcolor"],
     height=120,
     margin=dict(l=0, r=0, t=10, b=10),
     xaxis=dict(
         showgrid=True,
-        gridcolor="#F3F4F6",
+        gridcolor=_pc["gridcolor"],
         gridwidth=1,
         zeroline=False,
         showticklabels=True,
-        tickfont=dict(family="IBM Plex Mono", size=11),
+        tickfont=dict(family="IBM Plex Mono", size=11, color=_pc["font_color"]),
     ),
     yaxis=dict(showticklabels=False, showgrid=False),
-    font=dict(family="Inter", size=12, color="#1A1A2E"),
+    font=dict(family="Inter", size=12, color=_pc["font_color"]),
 )
 
 st.plotly_chart(fig, use_container_width=True)

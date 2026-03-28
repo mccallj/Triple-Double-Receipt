@@ -24,9 +24,8 @@ inject_styles()
 render_app_banner("player_log")
 
 st.markdown(
-    '<h2 style="font-family:\'IBM Plex Mono\',monospace;font-weight:700;'
-    'color:#1A1A2E;margin-bottom:4px;">Player Season Log</h2>'
-    '<p style="color:#6B7280;font-size:13px;margin-top:0;">2024–25 Regular Season · Triple Double Performances</p>',
+    '<h2 class="tdr-page-title">Player Season Log</h2>'
+    '<p class="tdr-subtitle">2024–25 Regular Season · Triple Double Performances</p>',
     unsafe_allow_html=True,
 )
 
@@ -53,7 +52,7 @@ with col_sel:
 
 if selected_player == "— Choose a player —":
     st.markdown(
-        '<div class="tdr-card" style="text-align:center;color:#6B7280;padding:40px;">'
+        '<div class="tdr-card tdr-muted" style="text-align:center;padding:40px;">'
         'Select a player above to view their triple-double season log.'
         '</div>',
         unsafe_allow_html=True,
@@ -127,7 +126,7 @@ if "Date" in display_df.columns:
 
 # ── Game selection for drill-through ─────────────────────────────────────────
 st.markdown(
-    '<p style="font-size:13px;color:#6B7280;margin-bottom:6px;">'
+    '<p class="tdr-muted" style="font-size:13px;margin-bottom:6px;">'
     'Select a game to view the full receipt breakdown ↓</p>',
     unsafe_allow_html=True,
 )
@@ -174,7 +173,7 @@ with col_drill1:
                 st.markdown(
                     f'<div class="tdr-card" style="padding:16px;">'
                     f'<strong>Game selected:</strong> <code>{gid}</code><br>'
-                    f'<span style="font-size:12px;color:#6B7280;">Navigate to <strong>The Receipt</strong> page to view the full breakdown.</span>'
+                    f'<span class="tdr-caption">Navigate to <strong>The Receipt</strong> page to view the full breakdown.</span>'
                     f'</div>',
                     unsafe_allow_html=True,
                 )
@@ -187,7 +186,7 @@ with col_drill2:
     if "game_id" in display_df.columns and len(game_options_df) > 0:
         st.markdown(
             '<div style="padding:16px;">'
-            '<p style="font-size:13px;color:#6B7280;margin-bottom:8px;">'
+            '<p class="tdr-muted" style="font-size:13px;margin-bottom:8px;">'
             'After selecting a game above, go to:</p>',
             unsafe_allow_html=True,
         )
