@@ -5,9 +5,10 @@ Used exclusively by data_pull.py (not imported by the Streamlit app).
 """
 
 from __future__ import annotations
-import re
 import logging
+import re
 import time
+import unicodedata
 
 logger = logging.getLogger(__name__)
 
@@ -36,24 +37,33 @@ def _assister_name_from_desc(description: str) -> str | None:
     return None
 
 
+def _fold_name(s: str) -> str:
+    """
+    Normalize for comparison: strip combining marks so e.g. Jokić (game log)
+    matches Jokic (ASCII in play-by-play text).
+    """
+    s = unicodedata.normalize("NFKD", s.strip())
+    return "".join(c for c in s if not unicodedata.combining(c)).lower()
+
+
 def _name_matches(player_name: str, desc_name: str) -> bool:
     """
     Fuzzy match: check if desc_name (partial/last name from description)
     matches player_name (full name from game log).
     """
-    player_name = player_name.strip().lower()
-    desc_name = desc_name.strip().lower()
-
-    if not desc_name:
+    if not desc_name or not str(desc_name).strip():
         return False
 
-    # Direct contains
-    if desc_name in player_name or player_name in desc_name:
+    fp = _fold_name(player_name)
+    fd = _fold_name(desc_name)
+
+    # Direct contains (on folded strings)
+    if fd in fp or fp in fd:
         return True
 
     # Last name match
-    player_last = player_name.split()[-1]
-    desc_last = desc_name.split()[-1]
+    player_last = fp.split()[-1]
+    desc_last = fd.split()[-1]
     if player_last == desc_last:
         return True
 
@@ -125,9 +135,9 @@ def parse_assist_sequences_v3(df_pbp, player_name: str) -> list[dict]:
                     if 'technical' in next_desc:
                         continue
                     next_shooter = str(next_row.get('playerName', ''))
-                    if next_shooter.lower() == shooter_name.lower() or (
+                    if _fold_name(next_shooter) == _fold_name(shooter_name) or (
                         next_shooter and shooter_name and
-                        next_shooter.split()[-1].lower() == shooter_name.split()[-1].lower()
+                        _fold_name(next_shooter.split()[-1]) == _fold_name(shooter_name.split()[-1])
                     ):
                         is_and1 = True
                         if next_row.get('shotResult', '') == 'Made':

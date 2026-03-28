@@ -1,4 +1,29 @@
 game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,shot_value,points_scored,is_and1,free_throw_points
+0022500006,203999,Nikola Jokić,1,9:26,Murray,2-pointer,2,2,False,0
+0022500006,203999,Nikola Jokić,1,5:24,Braun,2-pointer,2,2,False,0
+0022500006,203999,Nikola Jokić,2,4:52,Gordon,3-pointer,3,3,False,0
+0022500006,203999,Nikola Jokić,2,3:22,Gordon,3-pointer,3,3,False,0
+0022500006,203999,Nikola Jokić,2,2:22,Gordon,3-pointer,3,3,False,0
+0022500006,203999,Nikola Jokić,3,11:12,Gordon,2-pointer,2,2,False,0
+0022500006,203999,Nikola Jokić,3,4:43,Hardaway Jr.,2-pointer,2,2,False,0
+0022500006,203999,Nikola Jokić,3,2:00,Hardaway Jr.,2-pointer,2,2,False,0
+0022500006,203999,Nikola Jokić,4,5:51,Murray,2-pointer,2,2,False,0
+0022500006,203999,Nikola Jokić,4,0:26,Gordon,3-pointer,3,3,False,0
+0022500104,203999,Nikola Jokić,1,11:42,Johnson,3-pointer,3,3,False,0
+0022500104,203999,Nikola Jokić,1,11:00,Gordon,2-pointer,2,2,False,0
+0022500104,203999,Nikola Jokić,1,9:19,Murray,2-pointer,2,2,False,0
+0022500104,203999,Nikola Jokić,1,9:02,Braun,2-pointer,2,2,False,0
+0022500104,203999,Nikola Jokić,1,5:24,Braun,2-pointer,2,2,False,0
+0022500104,203999,Nikola Jokić,1,3:43,Braun,2-pointer,2,2,False,0
+0022500104,203999,Nikola Jokić,1,3:13,Johnson,2-pointer,2,2,False,0
+0022500104,203999,Nikola Jokić,2,6:37,Watson,2-pointer,2,2,True,0
+0022500104,203999,Nikola Jokić,2,1:57,Gordon,2-pointer,2,2,False,0
+0022500104,203999,Nikola Jokić,2,1:24,Gordon,3-pointer,3,3,False,0
+0022500104,203999,Nikola Jokić,2,0:38,Murray,3-pointer,3,3,False,0
+0022500104,203999,Nikola Jokić,3,5:11,Johnson,2-pointer,2,2,False,0
+0022500104,203999,Nikola Jokić,3,4:34,Johnson,2-pointer,2,2,False,0
+0022500104,203999,Nikola Jokić,3,3:44,Brown,3-pointer,3,3,False,0
+0022500104,203999,Nikola Jokić,4,6:07,Brown,2-pointer,2,2,False,0
 0022500109,1630163,LaMelo Ball,1,10:08,Knueppel,2-pointer,2,2,False,0
 0022500109,1630163,LaMelo Ball,1,6:48,Knueppel,3-pointer,3,3,False,0
 0022500109,1630163,LaMelo Ball,2,2:19,Sexton,2-pointer,2,2,False,0
@@ -12,6 +37,36 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500109,1630163,LaMelo Ball,4,7:25,Bridges,2-pointer,2,2,False,0
 0022500109,1630163,LaMelo Ball,4,6:38,Bridges,2-pointer,2,2,False,0
 0022500109,1630163,LaMelo Ball,4,6:08,Knueppel,3-pointer,3,3,False,0
+0022500008,203999,Nikola Jokić,1,10:08,Murray,2-pointer,2,2,False,0
+0022500008,203999,Nikola Jokić,1,9:00,Braun,3-pointer,3,3,False,0
+0022500008,203999,Nikola Jokić,1,1:41,Murray,2-pointer,2,2,False,0
+0022500008,203999,Nikola Jokić,2,4:40,Johnson,2-pointer,2,2,False,0
+0022500008,203999,Nikola Jokić,2,3:04,Gordon,2-pointer,2,2,False,0
+0022500008,203999,Nikola Jokić,3,8:29,Hardaway Jr.,2-pointer,2,2,False,0
+0022500008,203999,Nikola Jokić,3,7:47,Hardaway Jr.,2-pointer,2,2,False,0
+0022500008,203999,Nikola Jokić,3,1:48,Murray,2-pointer,2,2,False,0
+0022500008,203999,Nikola Jokić,4,3:51,Murray,2-pointer,2,2,False,0
+0022500008,203999,Nikola Jokić,4,1:38,Watson,2-pointer,2,2,False,0
+0022500134,203999,Nikola Jokić,1,6:11,Murray,2-pointer,2,2,False,0
+0022500134,203999,Nikola Jokić,1,5:13,Braun,2-pointer,2,2,False,0
+0022500134,203999,Nikola Jokić,1,4:11,Braun,2-pointer,2,2,False,0
+0022500134,203999,Nikola Jokić,1,3:45,Braun,2-pointer,2,2,False,0
+0022500134,203999,Nikola Jokić,1,0:49,Watson,2-pointer,2,2,True,0
+0022500134,203999,Nikola Jokić,2,3:05,Murray,2-pointer,2,2,False,0
+0022500134,203999,Nikola Jokić,3,6:38,Johnson,3-pointer,3,3,False,0
+0022500134,203999,Nikola Jokić,3,4:26,Murray,3-pointer,3,3,False,0
+0022500134,203999,Nikola Jokić,3,3:49,Murray,3-pointer,3,3,False,0
+0022500134,203999,Nikola Jokić,3,1:34,Braun,3-pointer,3,3,False,0
+0022500155,1629029,Luka Dončić,1,11:44,Hachimura,3-pointer,3,3,False,0
+0022500155,1629029,Luka Dončić,1,8:38,Hachimura,3-pointer,3,3,False,0
+0022500155,1629029,Luka Dončić,1,6:36,Hayes,2-pointer,2,2,False,0
+0022500155,1629029,Luka Dončić,1,3:02,LaRavia,2-pointer,2,2,False,0
+0022500155,1629029,Luka Dončić,2,6:35,LaRavia,2-pointer,2,2,False,0
+0022500155,1629029,Luka Dončić,2,5:43,Smart,3-pointer,3,3,False,0
+0022500155,1629029,Luka Dončić,3,11:28,Hayes,2-pointer,2,2,False,0
+0022500155,1629029,Luka Dončić,3,10:07,Reaves,3-pointer,3,3,False,0
+0022500155,1629029,Luka Dončić,3,9:43,Smart,3-pointer,3,3,False,0
+0022500155,1629029,Luka Dončić,3,2:22,Knecht,3-pointer,3,3,False,0
 0022500153,1630581,Josh Giddey,1,8:31,Okoro,3-pointer,3,3,False,0
 0022500153,1630581,Josh Giddey,1,6:16,Huerter,3-pointer,3,3,False,0
 0022500153,1630581,Josh Giddey,1,5:34,Huerter,2-pointer,2,2,False,0
@@ -46,6 +101,22 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500167,1630581,Josh Giddey,4,9:49,Smith,3-pointer,3,3,False,0
 0022500167,1630581,Josh Giddey,4,8:08,Okoro,3-pointer,3,3,False,0
 0022500167,1630581,Josh Giddey,4,0:03,Vučević,3-pointer,3,3,False,0
+0022500178,203999,Nikola Jokić,1,9:32,Murray,2-pointer,2,2,False,0
+0022500178,203999,Nikola Jokić,1,7:43,Murray,2-pointer,2,2,False,0
+0022500178,203999,Nikola Jokić,1,4:23,Hardaway Jr.,2-pointer,2,2,False,0
+0022500178,203999,Nikola Jokić,1,3:36,Brown,2-pointer,2,2,False,0
+0022500178,203999,Nikola Jokić,2,7:32,Gordon,2-pointer,2,2,True,0
+0022500178,203999,Nikola Jokić,2,3:16,Gordon,2-pointer,2,2,False,0
+0022500178,203999,Nikola Jokić,2,2:50,Gordon,2-pointer,2,2,False,0
+0022500178,203999,Nikola Jokić,2,2:33,Johnson,3-pointer,3,3,False,0
+0022500178,203999,Nikola Jokić,3,11:47,Gordon,2-pointer,2,2,True,0
+0022500178,203999,Nikola Jokić,3,10:14,Braun,2-pointer,2,2,False,0
+0022500178,203999,Nikola Jokić,3,9:52,Johnson,2-pointer,2,2,False,0
+0022500178,203999,Nikola Jokić,3,7:58,Murray,3-pointer,3,3,False,0
+0022500178,203999,Nikola Jokić,3,2:21,Hardaway Jr.,2-pointer,2,2,False,0
+0022500178,203999,Nikola Jokić,4,6:14,Gordon,2-pointer,2,2,False,0
+0022500178,203999,Nikola Jokić,4,4:05,Hardaway Jr.,3-pointer,3,3,False,0
+0022500178,203999,Nikola Jokić,4,0:53,Braun,2-pointer,2,2,False,0
 0022500181,201566,Russell Westbrook,1,9:04,DeRozan,2-pointer,2,2,False,0
 0022500181,201566,Russell Westbrook,2,8:58,Monk,3-pointer,3,3,False,0
 0022500181,201566,Russell Westbrook,2,8:12,Eubanks,2-pointer,2,2,False,0
@@ -78,6 +149,20 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500184,1630570,Trendon Watford,3,4:18,Maxey,3-pointer,3,3,False,0
 0022500184,1630570,Trendon Watford,4,9:51,Embiid,3-pointer,3,3,False,0
 0022500184,1630570,Trendon Watford,4,4:40,Edgecombe,2-pointer,2,2,False,0
+0022500189,203999,Nikola Jokić,1,11:05,Pickett,2-pointer,2,2,False,0
+0022500189,203999,Nikola Jokić,1,10:31,Johnson,2-pointer,2,2,False,0
+0022500189,203999,Nikola Jokić,1,4:13,Braun,2-pointer,2,2,True,0
+0022500189,203999,Nikola Jokić,1,2:15,Watson,3-pointer,3,3,False,0
+0022500189,203999,Nikola Jokić,1,0:01,Hardaway Jr.,2-pointer,2,2,False,0
+0022500189,203999,Nikola Jokić,2,5:40,Johnson,2-pointer,2,2,True,0
+0022500189,203999,Nikola Jokić,2,2:34,Watson,2-pointer,2,2,False,0
+0022500189,203999,Nikola Jokić,3,10:25,Johnson,2-pointer,2,2,False,0
+0022500189,203999,Nikola Jokić,3,9:35,Braun,2-pointer,2,2,False,0
+0022500189,203999,Nikola Jokić,3,7:49,Johnson,2-pointer,2,2,False,0
+0022500189,203999,Nikola Jokić,3,3:19,Brown,2-pointer,2,2,False,0
+0022500189,203999,Nikola Jokić,3,2:54,Hardaway Jr.,3-pointer,3,3,False,0
+0022500189,203999,Nikola Jokić,4,7:03,Watson,2-pointer,2,2,False,0
+0022500189,203999,Nikola Jokić,4,4:25,Strawther,2-pointer,2,2,False,0
 0022500199,1630595,Cade Cunningham,1,6:05,Lanier,3-pointer,3,3,False,0
 0022500199,1630595,Cade Cunningham,1,3:03,Klintman,3-pointer,3,3,False,0
 0022500199,1630595,Cade Cunningham,2,7:26,Reed,2-pointer,2,2,False,0
@@ -169,6 +254,17 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500039,1628404,Josh Hart,4,10:57,Clarkson,3-pointer,3,3,False,0
 0022500039,1628404,Josh Hart,4,6:55,Shamet,3-pointer,3,3,False,0
 0022500039,1628404,Josh Hart,4,5:08,Shamet,2-pointer,2,2,False,0
+0022500232,203999,Nikola Jokić,1,10:32,Watson,2-pointer,2,2,False,0
+0022500232,203999,Nikola Jokić,1,10:05,Hardaway Jr.,3-pointer,3,3,False,0
+0022500232,203999,Nikola Jokić,1,9:41,Gordon,3-pointer,3,3,False,0
+0022500232,203999,Nikola Jokić,1,8:12,Hardaway Jr.,2-pointer,2,2,True,0
+0022500232,203999,Nikola Jokić,1,3:23,Gordon,2-pointer,2,2,False,0
+0022500232,203999,Nikola Jokić,2,1:05,Watson,2-pointer,2,2,False,0
+0022500232,203999,Nikola Jokić,3,11:39,Hardaway Jr.,3-pointer,3,3,False,0
+0022500232,203999,Nikola Jokić,3,6:43,Hardaway Jr.,3-pointer,3,3,False,0
+0022500232,203999,Nikola Jokić,3,2:10,Watson,2-pointer,2,2,False,0
+0022500232,203999,Nikola Jokić,4,4:42,Watson,2-pointer,2,2,False,0
+0022500232,203999,Nikola Jokić,4,2:56,Murray,2-pointer,2,2,True,0
 0022500240,1630581,Josh Giddey,1,11:02,Buzelis,2-pointer,2,2,True,0
 0022500240,1630581,Josh Giddey,1,7:51,Buzelis,3-pointer,3,3,False,0
 0022500240,1630581,Josh Giddey,1,6:41,Vučević,2-pointer,2,2,False,0
@@ -182,6 +278,31 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500240,1630581,Josh Giddey,5,1:47,Vučević,2-pointer,2,2,False,0
 0022500240,1630581,Josh Giddey,5,0:27,Buzelis,2-pointer,2,2,False,0
 0022500240,1630581,Josh Giddey,6,0:45,Vučević,3-pointer,3,3,False,0
+0022500248,203999,Nikola Jokić,1,9:08,Gordon,2-pointer,2,2,False,0
+0022500248,203999,Nikola Jokić,1,7:04,Gordon,2-pointer,2,2,True,0
+0022500248,203999,Nikola Jokić,1,4:18,Johnson,3-pointer,3,3,False,0
+0022500248,203999,Nikola Jokić,1,2:27,Hardaway Jr.,2-pointer,2,2,False,0
+0022500248,203999,Nikola Jokić,2,5:24,Pickett,3-pointer,3,3,False,0
+0022500248,203999,Nikola Jokić,2,3:57,Gordon,2-pointer,2,2,False,0
+0022500248,203999,Nikola Jokić,2,2:54,Murray,2-pointer,2,2,False,0
+0022500248,203999,Nikola Jokić,2,1:39,Johnson,3-pointer,3,3,False,0
+0022500248,203999,Nikola Jokić,2,0:38,Johnson,3-pointer,3,3,False,0
+0022500248,203999,Nikola Jokić,3,9:15,Murray,2-pointer,2,2,False,0
+0022500248,203999,Nikola Jokić,3,7:23,Gordon,2-pointer,2,2,False,0
+0022500248,203999,Nikola Jokić,4,6:01,Watson,2-pointer,2,2,False,0
+0022500248,203999,Nikola Jokić,4,5:02,Johnson,3-pointer,3,3,False,0
+0022500260,203999,Nikola Jokić,1,10:22,Watson,3-pointer,3,3,False,0
+0022500260,203999,Nikola Jokić,1,9:20,Murray,3-pointer,3,3,False,0
+0022500260,203999,Nikola Jokić,1,3:31,Johnson,2-pointer,2,2,False,0
+0022500260,203999,Nikola Jokić,1,1:19,Brown,2-pointer,2,2,False,0
+0022500260,203999,Nikola Jokić,2,5:19,Watson,3-pointer,3,3,False,0
+0022500260,203999,Nikola Jokić,2,3:02,Watson,3-pointer,3,3,False,0
+0022500260,203999,Nikola Jokić,2,0:43,Johnson,2-pointer,2,2,False,0
+0022500260,203999,Nikola Jokić,2,0:00,Watson,2-pointer,2,2,False,0
+0022500260,203999,Nikola Jokić,3,7:53,Johnson,2-pointer,2,2,False,0
+0022500260,203999,Nikola Jokić,3,0:39,Brown,2-pointer,2,2,False,0
+0022500260,203999,Nikola Jokić,4,7:04,Brown,2-pointer,2,2,False,0
+0022500260,203999,Nikola Jokić,4,4:42,Watson,2-pointer,2,2,False,0
 0022500263,1630166,Deni Avdija,1,11:20,Clingan,2-pointer,2,2,False,0
 0022500263,1630166,Deni Avdija,1,9:59,Camara,3-pointer,3,3,False,0
 0022500263,1630166,Deni Avdija,1,9:21,Grant,3-pointer,3,3,False,0
@@ -216,6 +337,22 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500271,1630581,Josh Giddey,4,10:01,Huerter,3-pointer,3,3,False,0
 0022500271,1630581,Josh Giddey,4,9:32,Smith,2-pointer,2,2,False,0
 0022500271,1630581,Josh Giddey,4,3:41,Vučević,2-pointer,2,2,False,0
+0022500287,203999,Nikola Jokić,1,6:40,Watson,2-pointer,2,2,False,0
+0022500287,203999,Nikola Jokić,1,4:40,Watson,2-pointer,2,2,False,0
+0022500287,203999,Nikola Jokić,1,2:26,Murray,3-pointer,3,3,False,0
+0022500287,203999,Nikola Jokić,2,4:29,Watson,2-pointer,2,2,False,0
+0022500287,203999,Nikola Jokić,2,2:27,Murray,2-pointer,2,2,False,0
+0022500287,203999,Nikola Jokić,2,1:00,Murray,3-pointer,3,3,False,0
+0022500287,203999,Nikola Jokić,2,0:44,Johnson,2-pointer,2,2,False,0
+0022500287,203999,Nikola Jokić,3,11:26,Watson,3-pointer,3,3,False,0
+0022500287,203999,Nikola Jokić,3,8:02,Murray,2-pointer,2,2,False,0
+0022500287,203999,Nikola Jokić,3,5:14,Brown,2-pointer,2,2,False,0
+0022500287,203999,Nikola Jokić,3,3:37,Hardaway Jr.,2-pointer,2,2,False,0
+0022500287,203999,Nikola Jokić,3,3:02,Watson,3-pointer,3,3,False,0
+0022500287,203999,Nikola Jokić,4,3:18,Murray,3-pointer,3,3,False,0
+0022500287,203999,Nikola Jokić,4,1:04,Watson,2-pointer,2,2,False,0
+0022500287,203999,Nikola Jokić,4,0:44,Murray,2-pointer,2,2,False,0
+0022500287,203999,Nikola Jokić,4,0:29,Watson,2-pointer,2,2,False,0
 0022500072,1630595,Cade Cunningham,1,11:20,Thompson,2-pointer,2,2,False,0
 0022500072,1630595,Cade Cunningham,1,4:36,Stewart,3-pointer,3,3,False,0
 0022500072,1630595,Cade Cunningham,2,6:14,Harris,2-pointer,2,2,False,0
@@ -274,6 +411,19 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500305,1630166,Deni Avdija,4,9:11,Murray,3-pointer,3,3,False,0
 0022500305,1630166,Deni Avdija,4,5:01,Grant,3-pointer,3,3,False,0
 0022500305,1630166,Deni Avdija,4,2:58,Murray,3-pointer,3,3,False,0
+0022500315,203999,Nikola Jokić,1,10:30,Watson,2-pointer,2,2,False,0
+0022500315,203999,Nikola Jokić,1,9:32,Jones,3-pointer,3,3,False,0
+0022500315,203999,Nikola Jokić,1,8:18,Jones,2-pointer,2,2,False,0
+0022500315,203999,Nikola Jokić,1,7:14,Jones,2-pointer,2,2,False,0
+0022500315,203999,Nikola Jokić,1,6:35,Jones,2-pointer,2,2,False,0
+0022500315,203999,Nikola Jokić,3,11:04,Johnson,2-pointer,2,2,True,0
+0022500315,203999,Nikola Jokić,3,10:08,Watson,2-pointer,2,2,False,0
+0022500315,203999,Nikola Jokić,3,8:04,Johnson,2-pointer,2,2,False,0
+0022500315,203999,Nikola Jokić,3,7:38,Hardaway Jr.,2-pointer,2,2,False,0
+0022500315,203999,Nikola Jokić,3,7:12,Jones,2-pointer,2,2,False,0
+0022500315,203999,Nikola Jokić,3,3:32,Watson,2-pointer,2,2,False,0
+0022500315,203999,Nikola Jokić,3,0:56,Hardaway Jr.,2-pointer,2,2,False,0
+0022500315,203999,Nikola Jokić,4,1:23,Watson,2-pointer,2,2,False,0
 0022500329,1630581,Josh Giddey,1,8:03,Dosunmu,3-pointer,3,3,False,0
 0022500329,1630581,Josh Giddey,1,4:12,Williams,3-pointer,3,3,False,0
 0022500329,1630581,Josh Giddey,2,1:13,Vučević,2-pointer,2,2,False,0
@@ -325,6 +475,17 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500351,1630552,Jalen Johnson,3,4:18,Daniels,2-pointer,2,2,False,0
 0022500351,1630552,Jalen Johnson,3,0:25,Kennard,3-pointer,3,3,False,0
 0022500351,1630552,Jalen Johnson,4,6:27,Kennard,3-pointer,3,3,False,0
+0022500362,1629029,Luka Dončić,1,5:03,Ayton,2-pointer,2,2,False,0
+0022500362,1629029,Luka Dončić,1,3:55,Hachimura,3-pointer,3,3,False,0
+0022500362,1629029,Luka Dončić,1,0:55,James,2-pointer,2,2,False,0
+0022500362,1629029,Luka Dončić,1,0:08,Hachimura,3-pointer,3,3,False,0
+0022500362,1629029,Luka Dončić,2,3:25,Reaves,3-pointer,3,3,False,0
+0022500362,1629029,Luka Dončić,3,9:57,Ayton,2-pointer,2,2,False,0
+0022500362,1629029,Luka Dončić,3,7:07,Ayton,2-pointer,2,2,False,0
+0022500362,1629029,Luka Dončić,3,2:46,LaRavia,3-pointer,3,3,False,0
+0022500362,1629029,Luka Dončić,4,7:12,Ayton,2-pointer,2,2,False,0
+0022500362,1629029,Luka Dončić,4,4:25,James,2-pointer,2,2,False,0
+0022500362,1629029,Luka Dončić,4,1:12,James,3-pointer,3,3,False,0
 0022500364,201566,Russell Westbrook,1,10:19,Raynaud,2-pointer,2,2,False,0
 0022500364,201566,Russell Westbrook,1,5:31,Murray,2-pointer,2,2,False,0
 0022500364,201566,Russell Westbrook,2,6:42,Raynaud,2-pointer,2,2,False,0
@@ -397,6 +558,16 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022501225,1630578,Alperen Sengun,4,10:31,Sheppard,2-pointer,2,2,False,0
 0022501225,1630578,Alperen Sengun,4,2:21,Smith Jr.,3-pointer,3,3,False,0
 0022501225,1630578,Alperen Sengun,4,0:36,Durant,3-pointer,3,3,False,0
+0022501225,203999,Nikola Jokić,1,11:07,Watson,3-pointer,3,3,False,0
+0022501225,203999,Nikola Jokić,1,9:17,Johnson,2-pointer,2,2,False,0
+0022501225,203999,Nikola Jokić,1,8:18,Watson,2-pointer,2,2,False,0
+0022501225,203999,Nikola Jokić,1,0:30,Hardaway Jr.,3-pointer,3,3,False,0
+0022501225,203999,Nikola Jokić,2,0:32,Jones,2-pointer,2,2,False,0
+0022501225,203999,Nikola Jokić,2,0:24,Johnson,2-pointer,2,2,False,0
+0022501225,203999,Nikola Jokić,3,6:20,Hardaway Jr.,3-pointer,3,3,False,0
+0022501225,203999,Nikola Jokić,3,1:27,Johnson,3-pointer,3,3,False,0
+0022501225,203999,Nikola Jokić,4,0:55,Jones,3-pointer,3,3,False,0
+0022501225,203999,Nikola Jokić,5,2:59,Jones,3-pointer,3,3,False,0
 0022500367,1630581,Josh Giddey,1,7:30,White,3-pointer,3,3,False,0
 0022500367,1630581,Josh Giddey,2,5:51,Vučević,2-pointer,2,2,False,0
 0022500367,1630581,Josh Giddey,3,11:09,Vučević,3-pointer,3,3,False,0
@@ -418,6 +589,33 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500377,1631094,Paolo Banchero,3,4:03,Carter Jr.,3-pointer,3,3,False,0
 0022500377,1631094,Paolo Banchero,3,3:00,Carter Jr.,2-pointer,2,2,False,0
 0022500377,1631094,Paolo Banchero,4,6:56,Carter Jr.,3-pointer,3,3,False,0
+0022500377,203999,Nikola Jokić,1,11:14,Brown,2-pointer,2,2,False,0
+0022500377,203999,Nikola Jokić,1,7:59,Johnson,2-pointer,2,2,False,0
+0022500377,203999,Nikola Jokić,1,5:27,Strawther,2-pointer,2,2,False,0
+0022500377,203999,Nikola Jokić,1,3:37,Brown,2-pointer,2,2,False,0
+0022500377,203999,Nikola Jokić,1,1:27,Valančiūnas,2-pointer,2,2,True,0
+0022500377,203999,Nikola Jokić,1,1:01,Johnson,2-pointer,2,2,False,0
+0022500377,203999,Nikola Jokić,2,6:26,Pickett,3-pointer,3,3,False,0
+0022500377,203999,Nikola Jokić,2,3:22,Johnson,3-pointer,3,3,False,0
+0022500377,203999,Nikola Jokić,2,1:56,Murray,2-pointer,2,2,False,0
+0022500377,203999,Nikola Jokić,3,10:54,Jones,2-pointer,2,2,False,0
+0022500377,203999,Nikola Jokić,3,9:58,Johnson,2-pointer,2,2,False,0
+0022500377,203999,Nikola Jokić,3,5:44,Brown,2-pointer,2,2,False,0
+0022500377,203999,Nikola Jokić,4,1:15,Johnson,3-pointer,3,3,False,0
+0022500379,1629029,Luka Dončić,1,9:26,James,2-pointer,2,2,False,0
+0022500379,1629029,Luka Dončić,1,8:42,Smart,3-pointer,3,3,False,0
+0022500379,1629029,Luka Dončić,1,7:21,James,2-pointer,2,2,False,0
+0022500379,1629029,Luka Dončić,1,3:43,LaRavia,2-pointer,2,2,False,0
+0022500379,1629029,Luka Dončić,1,2:04,Vanderbilt,2-pointer,2,2,False,0
+0022500379,1629029,Luka Dončić,2,6:33,James,2-pointer,2,2,False,0
+0022500379,1629029,Luka Dončić,2,6:11,Hayes,2-pointer,2,2,False,0
+0022500379,1629029,Luka Dončić,2,1:59,Hachimura,2-pointer,2,2,False,0
+0022500379,1629029,Luka Dončić,3,10:58,Hayes,2-pointer,2,2,False,0
+0022500379,1629029,Luka Dončić,3,2:36,Hachimura,2-pointer,2,2,False,0
+0022500379,1629029,Luka Dončić,3,2:06,LaRavia,3-pointer,3,3,False,0
+0022500379,1629029,Luka Dončić,4,7:56,Smart,3-pointer,3,3,False,0
+0022500379,1629029,Luka Dončić,4,5:48,Smart,3-pointer,3,3,False,0
+0022500379,1629029,Luka Dončić,4,0:51,Hayes,2-pointer,2,2,False,0
 0022500390,1630595,Cade Cunningham,1,7:56,Duren,2-pointer,2,2,False,0
 0022500390,1630595,Cade Cunningham,1,4:49,Ivey,2-pointer,2,2,True,0
 0022500390,1630595,Cade Cunningham,2,3:01,Stewart,3-pointer,3,3,False,0
@@ -428,6 +626,19 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500390,1630595,Cade Cunningham,3,7:25,Thompson,2-pointer,2,2,False,0
 0022500390,1630595,Cade Cunningham,4,11:19,Holland II,2-pointer,2,2,False,0
 0022500390,1630595,Cade Cunningham,4,5:04,Holland II,2-pointer,2,2,False,0
+0022500405,203999,Nikola Jokić,1,9:26,Murray,3-pointer,3,3,False,0
+0022500405,203999,Nikola Jokić,1,8:04,Murray,3-pointer,3,3,False,0
+0022500405,203999,Nikola Jokić,1,5:29,Hardaway Jr.,3-pointer,3,3,False,0
+0022500405,203999,Nikola Jokić,1,2:43,Johnson,3-pointer,3,3,False,0
+0022500405,203999,Nikola Jokić,1,1:33,Brown,2-pointer,2,2,False,0
+0022500405,203999,Nikola Jokić,2,3:04,Murray,3-pointer,3,3,False,0
+0022500405,203999,Nikola Jokić,2,2:18,Johnson,3-pointer,3,3,False,0
+0022500405,203999,Nikola Jokić,2,1:47,Johnson,3-pointer,3,3,False,0
+0022500405,203999,Nikola Jokić,3,8:32,Watson,2-pointer,2,2,False,0
+0022500405,203999,Nikola Jokić,3,7:10,Watson,2-pointer,2,2,False,0
+0022500405,203999,Nikola Jokić,3,6:53,Watson,3-pointer,3,3,False,0
+0022500405,203999,Nikola Jokić,3,1:30,Brown,2-pointer,2,2,False,0
+0022500405,203999,Nikola Jokić,3,0:32,Brown,2-pointer,2,2,False,0
 0022500411,1630581,Josh Giddey,1,9:25,Okoro,3-pointer,3,3,False,0
 0022500411,1630581,Josh Giddey,1,8:59,Buzelis,3-pointer,3,3,False,0
 0022500411,1630581,Josh Giddey,1,8:15,Vučević,3-pointer,3,3,False,0
@@ -443,6 +654,33 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500411,1630581,Josh Giddey,3,7:21,Collins,2-pointer,2,2,False,0
 0022500411,1630581,Josh Giddey,4,10:27,Collins,2-pointer,2,2,False,0
 0022500411,1630581,Josh Giddey,4,5:29,White,2-pointer,2,2,False,0
+0022500013,203999,Nikola Jokić,1,5:48,Murray,3-pointer,3,3,False,0
+0022500013,203999,Nikola Jokić,1,3:00,Watson,3-pointer,3,3,False,0
+0022500013,203999,Nikola Jokić,1,1:23,Hardaway Jr.,2-pointer,2,2,False,0
+0022500013,203999,Nikola Jokić,1,0:05,Hardaway Jr.,2-pointer,2,2,False,0
+0022500013,203999,Nikola Jokić,2,2:17,Hardaway Jr.,2-pointer,2,2,False,0
+0022500013,203999,Nikola Jokić,2,1:40,Jones,3-pointer,3,3,False,0
+0022500013,203999,Nikola Jokić,2,0:29,Murray,2-pointer,2,2,False,0
+0022500013,203999,Nikola Jokić,3,10:41,Jones,3-pointer,3,3,False,0
+0022500013,203999,Nikola Jokić,3,9:50,Murray,3-pointer,3,3,False,0
+0022500013,203999,Nikola Jokić,3,7:24,Murray,2-pointer,2,2,False,0
+0022500013,203999,Nikola Jokić,3,6:08,Hardaway Jr.,3-pointer,3,3,False,0
+0022500013,203999,Nikola Jokić,3,5:45,Murray,3-pointer,3,3,False,0
+0022500013,203999,Nikola Jokić,3,4:25,Murray,3-pointer,3,3,False,0
+0022500013,203999,Nikola Jokić,4,6:39,Murray,3-pointer,3,3,False,0
+0022500013,203999,Nikola Jokić,4,1:49,Murray,3-pointer,3,3,False,0
+0022500433,203999,Nikola Jokić,1,11:38,Murray,3-pointer,3,3,False,0
+0022500433,203999,Nikola Jokić,1,8:12,Hardaway Jr.,2-pointer,2,2,False,0
+0022500433,203999,Nikola Jokić,1,6:54,Watson,3-pointer,3,3,False,0
+0022500433,203999,Nikola Jokić,1,3:54,Murray,3-pointer,3,3,False,0
+0022500433,203999,Nikola Jokić,1,2:15,Strawther,2-pointer,2,2,False,0
+0022500433,203999,Nikola Jokić,2,4:52,Murray,2-pointer,2,2,False,0
+0022500433,203999,Nikola Jokić,2,1:03,Watson,2-pointer,2,2,False,0
+0022500433,203999,Nikola Jokić,3,10:07,Jones,3-pointer,3,3,False,0
+0022500433,203999,Nikola Jokić,3,8:49,Watson,2-pointer,2,2,False,0
+0022500433,203999,Nikola Jokić,3,4:28,Brown,2-pointer,2,2,False,0
+0022500433,203999,Nikola Jokić,4,2:28,Hardaway Jr.,3-pointer,3,3,False,0
+0022500433,203999,Nikola Jokić,4,0:37,Murray,2-pointer,2,2,False,0
 0022500441,1630567,Scottie Barnes,1,11:20,Agbaji,2-pointer,2,2,False,0
 0022500441,1630567,Scottie Barnes,1,11:04,Ingram,2-pointer,2,2,False,0
 0022500441,1630567,Scottie Barnes,1,9:56,Agbaji,2-pointer,2,2,False,0
@@ -494,6 +732,16 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500490,1630166,Deni Avdija,2,2:23,Camara,3-pointer,3,3,False,0
 0022500490,1630166,Deni Avdija,4,4:57,Camara,2-pointer,2,2,False,0
 0022500490,1630166,Deni Avdija,4,2:16,Camara,3-pointer,3,3,False,0
+0022500523,1629029,Luka Dončić,1,9:02,Ayton,2-pointer,2,2,False,0
+0022500523,1629029,Luka Dončić,1,6:48,Knecht,2-pointer,2,2,False,0
+0022500523,1629029,Luka Dončić,1,3:53,Hayes,2-pointer,2,2,False,0
+0022500523,1629029,Luka Dončić,1,2:33,Vincent,3-pointer,3,3,False,0
+0022500523,1629029,Luka Dončić,2,8:22,LaRavia,3-pointer,3,3,False,0
+0022500523,1629029,Luka Dončić,2,7:44,LaRavia,3-pointer,3,3,False,0
+0022500523,1629029,Luka Dončić,2,3:40,Hayes,2-pointer,2,2,False,0
+0022500523,1629029,Luka Dončić,3,8:22,Vanderbilt,2-pointer,2,2,False,0
+0022500523,1629029,Luka Dončić,4,7:10,LaRavia,2-pointer,2,2,False,0
+0022500523,1629029,Luka Dončić,4,6:03,Vincent,3-pointer,3,3,False,0
 0022500534,1642852,Derik Queen,1,11:36,Fears,3-pointer,3,3,False,0
 0022500534,1642852,Derik Queen,1,8:23,Murphy III,3-pointer,3,3,False,0
 0022500534,1642852,Derik Queen,2,8:43,Williamson,2-pointer,2,2,False,0
@@ -516,6 +764,26 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500537,1630700,Dyson Daniels,3,9:41,Alexander-Walker,3-pointer,3,3,False,0
 0022500537,1630700,Dyson Daniels,3,5:13,Kennard,2-pointer,2,2,False,0
 0022500537,1630700,Dyson Daniels,4,9:35,Kennard,3-pointer,3,3,False,0
+0022500616,203994,Jusuf Nurkić,1,11:08,George,2-pointer,2,2,False,0
+0022500616,203994,Jusuf Nurkić,1,7:43,Bailey,3-pointer,3,3,False,0
+0022500616,203994,Jusuf Nurkić,1,6:48,Bailey,3-pointer,3,3,False,0
+0022500616,203994,Jusuf Nurkić,2,6:44,George,2-pointer,2,2,False,0
+0022500616,203994,Jusuf Nurkić,2,4:46,George,2-pointer,2,2,False,0
+0022500616,203994,Jusuf Nurkić,2,1:23,George,2-pointer,2,2,False,0
+0022500616,203994,Jusuf Nurkić,3,7:46,Bailey,2-pointer,2,2,True,0
+0022500616,203994,Jusuf Nurkić,3,6:02,Mykhailiuk,2-pointer,2,2,False,0
+0022500616,203994,Jusuf Nurkić,4,8:21,Bailey,2-pointer,2,2,False,0
+0022500616,203994,Jusuf Nurkić,4,7:17,Collier,2-pointer,2,2,False,0
+0022500617,1629029,Luka Dončić,1,10:17,Ayton,2-pointer,2,2,False,0
+0022500617,1629029,Luka Dončić,2,4:53,Vincent,3-pointer,3,3,False,0
+0022500617,1629029,Luka Dončić,2,2:49,Hachimura,3-pointer,3,3,False,0
+0022500617,1629029,Luka Dončić,3,11:31,James,2-pointer,2,2,False,0
+0022500617,1629029,Luka Dončić,3,7:40,Hayes,2-pointer,2,2,False,0
+0022500617,1629029,Luka Dončić,3,6:15,Hayes,2-pointer,2,2,False,0
+0022500617,1629029,Luka Dončić,3,5:44,LaRavia,2-pointer,2,2,False,0
+0022500617,1629029,Luka Dončić,4,7:22,Hayes,2-pointer,2,2,False,0
+0022500617,1629029,Luka Dončić,4,5:10,Smart,3-pointer,3,3,False,0
+0022500617,1629029,Luka Dončić,4,2:43,Smart,3-pointer,3,3,False,0
 0022500628,203954,Joel Embiid,1,9:53,Oubre Jr.,3-pointer,3,3,False,0
 0022500628,203954,Joel Embiid,2,6:51,Edgecombe,2-pointer,2,2,False,0
 0022500628,203954,Joel Embiid,2,2:05,Maxey,2-pointer,2,2,False,0
@@ -526,6 +794,20 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500628,203954,Joel Embiid,4,1:31,Maxey,2-pointer,2,2,False,0
 0022500628,203954,Joel Embiid,5,4:18,George,3-pointer,3,3,False,0
 0022500628,203954,Joel Embiid,5,0:06,Maxey,2-pointer,2,2,False,0
+0022500632,203994,Jusuf Nurkić,1,10:20,Bailey,2-pointer,2,2,False,0
+0022500632,203994,Jusuf Nurkić,1,7:50,Bailey,3-pointer,3,3,False,0
+0022500632,203994,Jusuf Nurkić,1,6:51,Bailey,2-pointer,2,2,True,0
+0022500632,203994,Jusuf Nurkić,1,6:03,Bailey,2-pointer,2,2,False,0
+0022500632,203994,Jusuf Nurkić,2,8:24,Collier,2-pointer,2,2,False,0
+0022500632,203994,Jusuf Nurkić,3,11:46,Mykhailiuk,2-pointer,2,2,False,0
+0022500632,203994,Jusuf Nurkić,3,9:41,George,3-pointer,3,3,False,0
+0022500632,203994,Jusuf Nurkić,3,8:09,George,3-pointer,3,3,False,0
+0022500632,203994,Jusuf Nurkić,3,6:43,Williams,2-pointer,2,2,False,0
+0022500632,203994,Jusuf Nurkić,3,4:36,George,2-pointer,2,2,False,0
+0022500632,203994,Jusuf Nurkić,3,3:48,Williams,3-pointer,3,3,False,0
+0022500632,203994,Jusuf Nurkić,4,11:28,Bailey,3-pointer,3,3,False,0
+0022500632,203994,Jusuf Nurkić,4,11:02,Collier,2-pointer,2,2,False,0
+0022500632,203994,Jusuf Nurkić,4,10:29,Bailey,2-pointer,2,2,False,0
 0022500637,1627759,Jaylen Brown,1,5:36,Simons,3-pointer,3,3,False,0
 0022500637,1627759,Jaylen Brown,1,1:56,Garza,3-pointer,3,3,False,0
 0022500637,1627759,Jaylen Brown,3,7:32,Pritchard,2-pointer,2,2,False,0
@@ -538,6 +820,31 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500637,1627759,Jaylen Brown,4,2:26,Pritchard,2-pointer,2,2,False,0
 0022500637,1627759,Jaylen Brown,5,2:34,Pritchard,3-pointer,3,3,False,0
 0022500637,1627759,Jaylen Brown,6,0:44,Pritchard,2-pointer,2,2,False,0
+0022500649,203994,Jusuf Nurkić,1,11:20,Bailey,2-pointer,2,2,False,0
+0022500649,203994,Jusuf Nurkić,1,10:06,George,2-pointer,2,2,True,0
+0022500649,203994,Jusuf Nurkić,1,8:46,Williams,2-pointer,2,2,False,0
+0022500649,203994,Jusuf Nurkić,1,7:25,Bailey,2-pointer,2,2,False,0
+0022500649,203994,Jusuf Nurkić,1,5:00,Filipowski,2-pointer,2,2,False,0
+0022500649,203994,Jusuf Nurkić,2,2:10,Bailey,2-pointer,2,2,False,0
+0022500649,203994,Jusuf Nurkić,2,1:23,Williams,2-pointer,2,2,False,0
+0022500649,203994,Jusuf Nurkić,2,0:57,George,2-pointer,2,2,False,0
+0022500649,203994,Jusuf Nurkić,3,11:30,George,2-pointer,2,2,False,0
+0022500649,203994,Jusuf Nurkić,3,10:56,Bailey,2-pointer,2,2,False,0
+0022500649,203994,Jusuf Nurkić,3,10:22,Bailey,2-pointer,2,2,False,0
+0022500649,203994,Jusuf Nurkić,4,5:06,Sensabaugh,2-pointer,2,2,False,0
+0022500688,1629029,Luka Dončić,1,11:43,Ayton,2-pointer,2,2,False,0
+0022500688,1629029,Luka Dončić,1,9:10,Ayton,2-pointer,2,2,False,0
+0022500688,1629029,Luka Dončić,1,5:50,James,2-pointer,2,2,False,0
+0022500688,1629029,Luka Dončić,1,5:04,Hayes,2-pointer,2,2,False,0
+0022500688,1629029,Luka Dončić,1,4:41,Hayes,2-pointer,2,2,False,0
+0022500688,1629029,Luka Dončić,1,4:09,Hayes,2-pointer,2,2,False,0
+0022500688,1629029,Luka Dončić,1,1:47,Vanderbilt,2-pointer,2,2,False,0
+0022500688,1629029,Luka Dončić,2,5:10,Ayton,2-pointer,2,2,False,0
+0022500688,1629029,Luka Dončić,2,4:43,Ayton,2-pointer,2,2,False,0
+0022500688,1629029,Luka Dončić,2,4:17,Ayton,2-pointer,2,2,False,0
+0022500688,1629029,Luka Dončić,2,3:46,Vincent,3-pointer,3,3,False,0
+0022500688,1629029,Luka Dončić,3,6:45,Ayton,2-pointer,2,2,False,0
+0022500688,1629029,Luka Dončić,3,2:28,Hachimura,3-pointer,3,3,False,0
 0022500698,1630552,Jalen Johnson,1,9:29,Gueye,2-pointer,2,2,False,0
 0022500698,1630552,Jalen Johnson,1,6:08,Kispert,3-pointer,3,3,False,0
 0022500698,1630552,Jalen Johnson,1,5:07,Alexander-Walker,2-pointer,2,2,False,0
@@ -569,6 +876,16 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500723,1628392,Isaiah Hartenstein,4,8:42,Holmgren,2-pointer,2,2,False,0
 0022500723,1628392,Isaiah Hartenstein,4,8:09,Joe,2-pointer,2,2,False,0
 0022500723,1628392,Isaiah Hartenstein,4,7:09,Joe,3-pointer,3,3,False,0
+0022500726,203999,Nikola Jokić,1,7:10,Murray,3-pointer,3,3,False,0
+0022500726,203999,Nikola Jokić,1,6:19,Murray,3-pointer,3,3,False,0
+0022500726,203999,Nikola Jokić,1,0:00,Brown,3-pointer,3,3,False,0
+0022500726,203999,Nikola Jokić,2,8:03,Brown,2-pointer,2,2,False,0
+0022500726,203999,Nikola Jokić,2,6:07,Braun,2-pointer,2,2,False,0
+0022500726,203999,Nikola Jokić,3,10:40,Watson,3-pointer,3,3,False,0
+0022500726,203999,Nikola Jokić,3,9:27,Watson,2-pointer,2,2,False,0
+0022500726,203999,Nikola Jokić,4,11:45,Strawther,2-pointer,2,2,False,0
+0022500726,203999,Nikola Jokić,4,11:13,Strawther,2-pointer,2,2,True,0
+0022500726,203999,Nikola Jokić,6,0:46,Hardaway Jr.,3-pointer,3,3,False,0
 0022500734,1630591,Jalen Suggs,1,7:22,Black,2-pointer,2,2,False,0
 0022500734,1630591,Jalen Suggs,2,10:19,Bane,2-pointer,2,2,True,0
 0022500734,1630591,Jalen Suggs,2,9:48,da Silva,2-pointer,2,2,False,0
@@ -618,6 +935,23 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500749,1642264,Stephon Castle,3,5:22,Harper,3-pointer,3,3,False,0
 0022500749,1642264,Stephon Castle,4,10:26,Barnes,3-pointer,3,3,False,0
 0022500749,1642264,Stephon Castle,4,9:10,Johnson,2-pointer,2,2,False,0
+0022500752,203999,Nikola Jokić,1,10:55,Strawther,3-pointer,3,3,False,0
+0022500752,203999,Nikola Jokić,1,9:09,Murray,3-pointer,3,3,False,0
+0022500752,203999,Nikola Jokić,1,8:27,Strawther,2-pointer,2,2,False,0
+0022500752,203999,Nikola Jokić,1,4:29,Murray,2-pointer,2,2,False,0
+0022500752,203999,Nikola Jokić,1,3:51,Hardaway Jr.,3-pointer,3,3,False,0
+0022500752,203999,Nikola Jokić,2,8:27,Hardaway Jr.,2-pointer,2,2,False,0
+0022500752,203999,Nikola Jokić,2,7:21,Hardaway Jr.,3-pointer,3,3,False,0
+0022500752,203999,Nikola Jokić,3,11:15,Murray,3-pointer,3,3,False,0
+0022500752,203999,Nikola Jokić,3,8:06,Murray,3-pointer,3,3,False,0
+0022500752,203999,Nikola Jokić,3,6:59,Johnson,2-pointer,2,2,False,0
+0022500752,203999,Nikola Jokić,3,6:13,Braun,2-pointer,2,2,False,0
+0022500752,203999,Nikola Jokić,3,4:30,Murray,2-pointer,2,2,False,0
+0022500752,203999,Nikola Jokić,4,11:27,Brown,2-pointer,2,2,False,0
+0022500752,203999,Nikola Jokić,4,10:53,Brown,3-pointer,3,3,False,0
+0022500752,203999,Nikola Jokić,4,10:21,Johnson,2-pointer,2,2,False,0
+0022500752,203999,Nikola Jokić,4,9:15,Hardaway Jr.,2-pointer,2,2,False,0
+0022500752,203999,Nikola Jokić,4,2:55,Braun,2-pointer,2,2,False,0
 0022500765,203944,Julius Randle,1,10:02,Edwards,3-pointer,3,3,False,0
 0022500765,203944,Julius Randle,1,7:14,McDaniels,3-pointer,3,3,False,0
 0022500765,203944,Julius Randle,2,4:51,Edwards,3-pointer,3,3,False,0
@@ -628,6 +962,17 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500765,203944,Julius Randle,4,8:25,Gobert,2-pointer,2,2,False,0
 0022500765,203944,Julius Randle,4,5:29,Gobert,2-pointer,2,2,False,0
 0022500765,203944,Julius Randle,4,3:53,Dosunmu,3-pointer,3,3,False,0
+0022500767,203999,Nikola Jokić,1,10:39,Strawther,3-pointer,3,3,False,0
+0022500767,203999,Nikola Jokić,1,7:55,Murray,2-pointer,2,2,False,0
+0022500767,203999,Nikola Jokić,1,5:08,Braun,3-pointer,3,3,False,0
+0022500767,203999,Nikola Jokić,1,4:45,Braun,2-pointer,2,2,False,0
+0022500767,203999,Nikola Jokić,2,11:27,Hardaway Jr.,3-pointer,3,3,False,0
+0022500767,203999,Nikola Jokić,2,10:29,Johnson,2-pointer,2,2,False,0
+0022500767,203999,Nikola Jokić,2,7:35,Hardaway Jr.,3-pointer,3,3,False,0
+0022500767,203999,Nikola Jokić,3,8:22,Braun,3-pointer,3,3,False,0
+0022500767,203999,Nikola Jokić,3,4:03,Murray,3-pointer,3,3,False,0
+0022500767,203999,Nikola Jokić,4,10:02,Pickett,3-pointer,3,3,False,0
+0022500767,203999,Nikola Jokić,4,2:37,Hardaway Jr.,2-pointer,2,2,False,0
 0022500771,1628404,Josh Hart,1,10:08,Bridges,2-pointer,2,2,False,0
 0022500771,1628404,Josh Hart,1,9:44,Bridges,3-pointer,3,3,False,0
 0022500771,1628404,Josh Hart,1,9:15,Bridges,2-pointer,2,2,False,0
@@ -653,6 +998,17 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500777,1629645,Kevin Porter Jr.,3,0:42,Thomas,2-pointer,2,2,False,0
 0022500777,1629645,Kevin Porter Jr.,4,7:54,Portis,2-pointer,2,2,False,0
 0022500777,1629645,Kevin Porter Jr.,4,0:55,Turner,3-pointer,3,3,False,0
+0022500787,203999,Nikola Jokić,1,10:18,Strawther,2-pointer,2,2,False,0
+0022500787,203999,Nikola Jokić,1,8:48,Braun,2-pointer,2,2,False,0
+0022500787,203999,Nikola Jokić,1,4:50,Murray,2-pointer,2,2,False,0
+0022500787,203999,Nikola Jokić,1,2:57,Brown,2-pointer,2,2,False,0
+0022500787,203999,Nikola Jokić,1,0:24,Brown,2-pointer,2,2,False,0
+0022500787,203999,Nikola Jokić,3,10:22,Murray,2-pointer,2,2,False,0
+0022500787,203999,Nikola Jokić,3,7:21,Braun,2-pointer,2,2,False,0
+0022500787,203999,Nikola Jokić,3,5:46,Braun,2-pointer,2,2,False,0
+0022500787,203999,Nikola Jokić,3,4:31,Hardaway Jr.,2-pointer,2,2,False,0
+0022500787,203999,Nikola Jokić,3,0:05,Hardaway Jr.,3-pointer,3,3,False,0
+0022500787,203999,Nikola Jokić,4,3:36,Hardaway Jr.,3-pointer,3,3,False,0
 0022500791,2544,LeBron James,1,11:27,Smart,2-pointer,2,2,False,0
 0022500791,2544,LeBron James,1,10:07,Hayes,2-pointer,2,2,False,0
 0022500791,2544,LeBron James,1,9:55,Hachimura,2-pointer,2,2,False,0
@@ -689,6 +1045,18 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500805,1630552,Jalen Johnson,3,2:06,Alexander-Walker,3-pointer,3,3,False,0
 0022500805,1630552,Jalen Johnson,4,7:55,Okongwu,2-pointer,2,2,False,0
 0022500805,1630552,Jalen Johnson,4,6:47,Okongwu,2-pointer,2,2,False,0
+0022500820,203999,Nikola Jokić,1,11:18,Strawther,2-pointer,2,2,False,0
+0022500820,203999,Nikola Jokić,1,9:55,Murray,2-pointer,2,2,True,0
+0022500820,203999,Nikola Jokić,1,9:31,Braun,2-pointer,2,2,False,0
+0022500820,203999,Nikola Jokić,1,8:43,Braun,3-pointer,3,3,False,0
+0022500820,203999,Nikola Jokić,1,8:03,Braun,2-pointer,2,2,True,0
+0022500820,203999,Nikola Jokić,1,6:48,Braun,2-pointer,2,2,False,0
+0022500820,203999,Nikola Jokić,1,5:41,Braun,2-pointer,2,2,False,0
+0022500820,203999,Nikola Jokić,1,1:37,Jones,2-pointer,2,2,False,0
+0022500820,203999,Nikola Jokić,2,4:43,Strawther,2-pointer,2,2,False,0
+0022500820,203999,Nikola Jokić,3,5:00,Braun,2-pointer,2,2,False,0
+0022500820,203999,Nikola Jokić,3,4:03,Brown,3-pointer,3,3,False,0
+0022500820,203999,Nikola Jokić,4,3:40,Murray,2-pointer,2,2,False,0
 0022500845,1630578,Alperen Sengun,1,6:37,Sheppard,3-pointer,3,3,False,0
 0022500845,1630578,Alperen Sengun,1,6:03,Durant,3-pointer,3,3,False,0
 0022500845,1630578,Alperen Sengun,1,5:30,Smith Jr.,2-pointer,2,2,False,0
@@ -700,6 +1068,20 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500845,1630578,Alperen Sengun,3,5:59,Sheppard,2-pointer,2,2,False,0
 0022500845,1630578,Alperen Sengun,3,1:35,Holiday,3-pointer,3,3,False,0
 0022500845,1630578,Alperen Sengun,4,8:49,Sheppard,3-pointer,3,3,False,0
+0022500862,203999,Nikola Jokić,1,7:35,Johnson,3-pointer,3,3,False,0
+0022500862,203999,Nikola Jokić,1,7:18,Braun,2-pointer,2,2,True,0
+0022500862,203999,Nikola Jokić,1,0:43,Hardaway Jr.,3-pointer,3,3,False,0
+0022500862,203999,Nikola Jokić,2,3:39,Braun,2-pointer,2,2,False,0
+0022500862,203999,Nikola Jokić,3,10:16,Murray,3-pointer,3,3,False,0
+0022500862,203999,Nikola Jokić,3,8:10,Braun,2-pointer,2,2,False,0
+0022500862,203999,Nikola Jokić,3,3:19,Braun,2-pointer,2,2,False,0
+0022500862,203999,Nikola Jokić,3,2:10,Murray,3-pointer,3,3,False,0
+0022500862,203999,Nikola Jokić,3,0:27,Johnson,2-pointer,2,2,False,0
+0022500862,203999,Nikola Jokić,4,8:20,Braun,2-pointer,2,2,False,0
+0022500862,203999,Nikola Jokić,4,7:53,Murray,2-pointer,2,2,False,0
+0022500862,203999,Nikola Jokić,4,3:51,Hardaway Jr.,2-pointer,2,2,False,0
+0022500862,203999,Nikola Jokić,4,3:15,Braun,3-pointer,3,3,False,0
+0022500862,203999,Nikola Jokić,5,2:21,Hardaway Jr.,2-pointer,2,2,False,0
 0022500870,1630581,Josh Giddey,1,11:27,Buzelis,3-pointer,3,3,False,0
 0022500870,1630581,Josh Giddey,1,7:01,Okoro,3-pointer,3,3,False,0
 0022500870,1630581,Josh Giddey,1,4:38,Sexton,3-pointer,3,3,False,0
@@ -710,6 +1092,19 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500870,1630581,Josh Giddey,4,11:43,Buzelis,2-pointer,2,2,False,0
 0022500870,1630581,Josh Giddey,4,9:36,Buzelis,2-pointer,2,2,False,0
 0022500870,1630581,Josh Giddey,4,7:19,Richards,2-pointer,2,2,False,0
+0022500906,203999,Nikola Jokić,1,10:35,Murray,3-pointer,3,3,False,0
+0022500906,203999,Nikola Jokić,1,7:30,Strawther,2-pointer,2,2,True,0
+0022500906,203999,Nikola Jokić,1,4:27,Braun,3-pointer,3,3,False,0
+0022500906,203999,Nikola Jokić,1,2:52,Hardaway Jr.,3-pointer,3,3,False,0
+0022500906,203999,Nikola Jokić,2,6:45,Brown,3-pointer,3,3,False,0
+0022500906,203999,Nikola Jokić,2,6:09,Braun,3-pointer,3,3,False,0
+0022500906,203999,Nikola Jokić,3,11:27,Murray,3-pointer,3,3,False,0
+0022500906,203999,Nikola Jokić,3,10:49,Strawther,2-pointer,2,2,False,0
+0022500906,203999,Nikola Jokić,3,9:09,Braun,2-pointer,2,2,False,0
+0022500906,203999,Nikola Jokić,3,7:37,Braun,2-pointer,2,2,False,0
+0022500906,203999,Nikola Jokić,3,3:12,Braun,2-pointer,2,2,False,0
+0022500906,203999,Nikola Jokić,3,2:17,Brown,3-pointer,3,3,False,0
+0022500906,203999,Nikola Jokić,4,5:36,Strawther,3-pointer,3,3,False,0
 0022500930,201566,Russell Westbrook,2,10:06,Eubanks,2-pointer,2,2,False,0
 0022500930,201566,Russell Westbrook,2,8:50,Raynaud,2-pointer,2,2,False,0
 0022500930,201566,Russell Westbrook,2,7:19,Monk,2-pointer,2,2,False,0
@@ -732,6 +1127,19 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500930,1630581,Josh Giddey,4,9:48,Yabusele,3-pointer,3,3,False,0
 0022500930,1630581,Josh Giddey,4,7:24,Buzelis,3-pointer,3,3,False,0
 0022500930,1630581,Josh Giddey,4,1:49,Buzelis,2-pointer,2,2,False,0
+0022500933,203999,Nikola Jokić,1,10:05,Gordon,2-pointer,2,2,True,0
+0022500933,203999,Nikola Jokić,1,8:13,Gordon,3-pointer,3,3,False,0
+0022500933,203999,Nikola Jokić,1,5:06,Gordon,2-pointer,2,2,False,0
+0022500933,203999,Nikola Jokić,1,0:30,Hardaway Jr.,3-pointer,3,3,False,0
+0022500933,203999,Nikola Jokić,2,2:00,Hardaway Jr.,3-pointer,3,3,False,0
+0022500933,203999,Nikola Jokić,3,10:01,Hardaway Jr.,3-pointer,3,3,False,0
+0022500933,203999,Nikola Jokić,3,6:48,Hardaway Jr.,3-pointer,3,3,False,0
+0022500933,203999,Nikola Jokić,3,5:22,Murray,2-pointer,2,2,False,0
+0022500933,203999,Nikola Jokić,3,4:24,Jones,2-pointer,2,2,False,0
+0022500933,203999,Nikola Jokić,3,2:40,Hardaway Jr.,3-pointer,3,3,False,0
+0022500933,203999,Nikola Jokić,3,0:50,Braun,2-pointer,2,2,False,0
+0022500933,203999,Nikola Jokić,4,11:43,Brown,3-pointer,3,3,False,0
+0022500933,203999,Nikola Jokić,4,2:44,Murray,2-pointer,2,2,False,0
 0022500943,1630581,Josh Giddey,1,10:20,Smith,3-pointer,3,3,False,0
 0022500943,1630581,Josh Giddey,1,5:22,Jones,2-pointer,2,2,False,0
 0022500943,1630581,Josh Giddey,1,2:23,Richards,2-pointer,2,2,False,0
@@ -749,6 +1157,30 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500943,1630581,Josh Giddey,4,8:26,Miller,2-pointer,2,2,False,0
 0022500943,1630581,Josh Giddey,4,0:21,Miller,2-pointer,2,2,False,0
 0022500943,1630581,Josh Giddey,5,2:20,Buzelis,3-pointer,3,3,False,0
+0022500946,1629029,Luka Dončić,1,7:25,Smart,2-pointer,2,2,False,0
+0022500946,1629029,Luka Dončić,1,6:25,Smart,2-pointer,2,2,True,0
+0022500946,1629029,Luka Dončić,1,2:00,Kennard,2-pointer,2,2,False,0
+0022500946,1629029,Luka Dončić,1,0:35,Vanderbilt,2-pointer,2,2,False,0
+0022500946,1629029,Luka Dončić,2,5:33,Ayton,2-pointer,2,2,False,0
+0022500946,1629029,Luka Dončić,2,3:14,Ayton,2-pointer,2,2,False,0
+0022500946,1629029,Luka Dončić,3,10:11,Hachimura,2-pointer,2,2,False,0
+0022500946,1629029,Luka Dončić,3,5:29,Reaves,2-pointer,2,2,True,0
+0022500946,1629029,Luka Dončić,3,1:54,Kennard,2-pointer,2,2,False,0
+0022500946,1629029,Luka Dončić,4,11:45,Kennard,2-pointer,2,2,False,0
+0022500946,1629029,Luka Dončić,4,6:51,Smart,3-pointer,3,3,False,0
+0022500950,203999,Nikola Jokić,1,8:09,Johnson,3-pointer,3,3,False,0
+0022500950,203999,Nikola Jokić,1,7:24,Murray,2-pointer,2,2,False,0
+0022500950,203999,Nikola Jokić,1,5:55,Murray,3-pointer,3,3,False,0
+0022500950,203999,Nikola Jokić,1,3:12,Murray,2-pointer,2,2,False,0
+0022500950,203999,Nikola Jokić,1,1:46,Braun,2-pointer,2,2,False,0
+0022500950,203999,Nikola Jokić,2,5:41,Murray,2-pointer,2,2,False,0
+0022500950,203999,Nikola Jokić,2,2:48,Braun,2-pointer,2,2,False,0
+0022500950,203999,Nikola Jokić,2,2:07,Braun,2-pointer,2,2,False,0
+0022500950,203999,Nikola Jokić,2,1:28,Braun,2-pointer,2,2,False,0
+0022500950,203999,Nikola Jokić,3,9:20,Johnson,3-pointer,3,3,False,0
+0022500950,203999,Nikola Jokić,3,7:20,Johnson,3-pointer,3,3,False,0
+0022500950,203999,Nikola Jokić,3,2:21,Johnson,2-pointer,2,2,False,0
+0022500950,203999,Nikola Jokić,3,0:04,Hardaway Jr.,3-pointer,3,3,False,0
 0022500958,1642264,Stephon Castle,1,11:42,Vassell,3-pointer,3,3,False,0
 0022500958,1642264,Stephon Castle,1,9:46,Fox,3-pointer,3,3,False,0
 0022500958,1642264,Stephon Castle,2,6:45,Vassell,3-pointer,3,3,False,0
@@ -759,6 +1191,18 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500958,1642264,Stephon Castle,3,0:18,Bryant,2-pointer,2,2,False,0
 0022500958,1642264,Stephon Castle,4,2:47,Fox,3-pointer,3,3,False,0
 0022500958,1642264,Stephon Castle,4,0:56,Fox,2-pointer,2,2,False,0
+0022500958,203999,Nikola Jokić,2,4:51,Strawther,3-pointer,3,3,False,0
+0022500958,203999,Nikola Jokić,2,3:53,Jones,3-pointer,3,3,False,0
+0022500958,203999,Nikola Jokić,2,1:05,Murray,2-pointer,2,2,False,0
+0022500958,203999,Nikola Jokić,3,11:40,Murray,2-pointer,2,2,True,0
+0022500958,203999,Nikola Jokić,3,7:58,Johnson,2-pointer,2,2,False,0
+0022500958,203999,Nikola Jokić,3,6:50,Braun,2-pointer,2,2,False,0
+0022500958,203999,Nikola Jokić,3,2:22,Murray,2-pointer,2,2,False,0
+0022500958,203999,Nikola Jokić,4,7:35,Jones,2-pointer,2,2,False,0
+0022500958,203999,Nikola Jokić,4,6:33,Johnson,2-pointer,2,2,False,0
+0022500958,203999,Nikola Jokić,4,5:04,Jones,2-pointer,2,2,False,0
+0022500958,203999,Nikola Jokić,4,3:43,Murray,2-pointer,2,2,False,0
+0022500958,203999,Nikola Jokić,4,3:02,Johnson,3-pointer,3,3,False,0
 0022500968,1630581,Josh Giddey,1,10:49,Jones,2-pointer,2,2,False,0
 0022500968,1630581,Josh Giddey,1,6:52,Richards,3-pointer,3,3,False,0
 0022500968,1630581,Josh Giddey,2,11:21,Yabusele,3-pointer,3,3,False,0
@@ -781,6 +1225,33 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022500970,1630552,Jalen Johnson,3,4:19,Landale,2-pointer,2,2,False,0
 0022500970,1630552,Jalen Johnson,4,6:43,Kispert,2-pointer,2,2,False,0
 0022500970,1630552,Jalen Johnson,4,4:08,McCollum,2-pointer,2,2,False,0
+0022500974,203999,Nikola Jokić,1,5:41,Braun,2-pointer,2,2,False,0
+0022500974,203999,Nikola Jokić,1,2:18,Braun,2-pointer,2,2,False,0
+0022500974,203999,Nikola Jokić,2,4:25,Braun,2-pointer,2,2,False,0
+0022500974,203999,Nikola Jokić,2,3:42,Gordon,3-pointer,3,3,False,0
+0022500974,203999,Nikola Jokić,3,11:06,Gordon,2-pointer,2,2,False,0
+0022500974,203999,Nikola Jokić,3,7:34,Hardaway Jr.,2-pointer,2,2,False,0
+0022500974,203999,Nikola Jokić,3,7:05,Gordon,2-pointer,2,2,True,0
+0022500974,203999,Nikola Jokić,3,6:24,Hardaway Jr.,3-pointer,3,3,False,0
+0022500974,203999,Nikola Jokić,3,6:05,Braun,2-pointer,2,2,False,0
+0022500974,203999,Nikola Jokić,3,0:56,Brown,3-pointer,3,3,False,0
+0022500974,203999,Nikola Jokić,3,0:28,Brown,2-pointer,2,2,False,0
+0022500974,203999,Nikola Jokić,4,6:59,Johnson,2-pointer,2,2,False,0
+0022500974,203999,Nikola Jokić,4,5:13,Jones,3-pointer,3,3,False,0
+0022500974,203999,Nikola Jokić,4,0:31,Hardaway Jr.,3-pointer,3,3,False,0
+0022500974,1629029,Luka Dončić,1,9:04,Reaves,3-pointer,3,3,False,0
+0022500974,1629029,Luka Dončić,1,8:31,Reaves,3-pointer,3,3,False,0
+0022500974,1629029,Luka Dončić,1,4:58,Reaves,2-pointer,2,2,False,0
+0022500974,1629029,Luka Dončić,1,2:48,Hachimura,2-pointer,2,2,False,0
+0022500974,1629029,Luka Dončić,1,1:05,Smart,3-pointer,3,3,False,0
+0022500974,1629029,Luka Dončić,2,4:05,Smart,2-pointer,2,2,False,0
+0022500974,1629029,Luka Dončić,2,1:53,James,2-pointer,2,2,False,0
+0022500974,1629029,Luka Dončić,2,0:33,Hachimura,2-pointer,2,2,False,0
+0022500974,1629029,Luka Dončić,3,11:39,Smart,3-pointer,3,3,False,0
+0022500974,1629029,Luka Dončić,3,1:08,Smart,2-pointer,2,2,False,0
+0022500974,1629029,Luka Dončić,4,7:09,LaRavia,2-pointer,2,2,False,0
+0022500974,1629029,Luka Dončić,4,5:28,James,2-pointer,2,2,True,0
+0022500974,1629029,Luka Dončić,5,0:30,Smart,3-pointer,3,3,False,0
 0022500975,201566,Russell Westbrook,1,11:27,Raynaud,2-pointer,2,2,False,0
 0022500975,201566,Russell Westbrook,1,5:13,Plowden,2-pointer,2,2,False,0
 0022500975,201566,Russell Westbrook,2,7:40,Raynaud,2-pointer,2,2,False,0
@@ -827,6 +1298,20 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022501010,2544,LeBron James,3,3:21,Hayes,2-pointer,2,2,False,0
 0022501010,2544,LeBron James,4,9:43,Reaves,2-pointer,2,2,False,0
 0022501010,2544,LeBron James,4,1:59,Dončić,3-pointer,3,3,False,0
+0022501032,203999,Nikola Jokić,1,11:23,Johnson,3-pointer,3,3,False,0
+0022501032,203999,Nikola Jokić,1,10:53,Murray,2-pointer,2,2,False,0
+0022501032,203999,Nikola Jokić,1,9:48,Murray,3-pointer,3,3,False,0
+0022501032,203999,Nikola Jokić,1,6:32,Johnson,3-pointer,3,3,False,0
+0022501032,203999,Nikola Jokić,1,5:44,Murray,3-pointer,3,3,False,0
+0022501032,203999,Nikola Jokić,1,4:25,Johnson,2-pointer,2,2,False,0
+0022501032,203999,Nikola Jokić,1,2:06,Watson,2-pointer,2,2,False,0
+0022501032,203999,Nikola Jokić,2,4:52,Brown,2-pointer,2,2,False,0
+0022501032,203999,Nikola Jokić,3,8:45,Gordon,3-pointer,3,3,False,0
+0022501032,203999,Nikola Jokić,3,8:18,Johnson,3-pointer,3,3,False,0
+0022501032,203999,Nikola Jokić,3,4:55,Braun,2-pointer,2,2,False,0
+0022501032,203999,Nikola Jokić,3,3:49,Murray,2-pointer,2,2,False,0
+0022501032,203999,Nikola Jokić,3,1:10,Hardaway Jr.,3-pointer,3,3,False,0
+0022501032,203999,Nikola Jokić,4,5:20,Watson,2-pointer,2,2,False,0
 0022501042,1630578,Alperen Sengun,1,11:43,Durant,2-pointer,2,2,False,0
 0022501042,1630578,Alperen Sengun,2,3:12,Sheppard,3-pointer,3,3,False,0
 0022501042,1630578,Alperen Sengun,3,11:29,Durant,2-pointer,2,2,False,0
@@ -837,3 +1322,51 @@ game_id,player_id,player_name,period,time_remaining,assisted_player,shot_type,sh
 0022501042,1630578,Alperen Sengun,3,0:31,Thompson,2-pointer,2,2,False,0
 0022501042,1630578,Alperen Sengun,4,7:02,Durant,2-pointer,2,2,False,0
 0022501042,1630578,Alperen Sengun,4,0:57,Durant,3-pointer,3,3,False,0
+0022501050,203999,Nikola Jokić,1,10:08,Braun,2-pointer,2,2,False,0
+0022501050,203999,Nikola Jokić,1,9:51,Gordon,2-pointer,2,2,False,0
+0022501050,203999,Nikola Jokić,1,4:06,Murray,3-pointer,3,3,False,0
+0022501050,203999,Nikola Jokić,1,2:51,Hardaway Jr.,3-pointer,3,3,False,0
+0022501050,203999,Nikola Jokić,1,2:20,Hardaway Jr.,2-pointer,2,2,True,0
+0022501050,203999,Nikola Jokić,2,4:50,Braun,2-pointer,2,2,False,0
+0022501050,203999,Nikola Jokić,2,4:01,Brown,3-pointer,3,3,False,0
+0022501050,203999,Nikola Jokić,2,1:36,Braun,3-pointer,3,3,False,0
+0022501050,203999,Nikola Jokić,2,0:13,Murray,2-pointer,2,2,False,0
+0022501050,203999,Nikola Jokić,3,11:49,Gordon,2-pointer,2,2,False,0
+0022501050,203999,Nikola Jokić,3,7:52,Johnson,2-pointer,2,2,False,0
+0022501050,203999,Nikola Jokić,3,7:21,Gordon,2-pointer,2,2,False,0
+0022501050,203999,Nikola Jokić,3,4:35,Hardaway Jr.,3-pointer,3,3,False,0
+0022501050,203999,Nikola Jokić,3,3:52,Braun,2-pointer,2,2,False,0
+0022501050,203999,Nikola Jokić,3,2:21,Hardaway Jr.,3-pointer,3,3,False,0
+0022501050,203999,Nikola Jokić,4,4:16,Murray,2-pointer,2,2,False,0
+0022501050,203999,Nikola Jokić,4,3:19,Gordon,3-pointer,3,3,True,0
+0022501059,203999,Nikola Jokić,1,10:24,Johnson,2-pointer,2,2,False,0
+0022501059,203999,Nikola Jokić,1,8:48,Murray,2-pointer,2,2,False,0
+0022501059,203999,Nikola Jokić,1,7:52,Murray,3-pointer,3,3,False,0
+0022501059,203999,Nikola Jokić,1,6:09,Murray,2-pointer,2,2,False,0
+0022501059,203999,Nikola Jokić,1,4:16,Watson,2-pointer,2,2,False,0
+0022501059,203999,Nikola Jokić,1,3:27,Braun,2-pointer,2,2,False,0
+0022501059,203999,Nikola Jokić,1,2:40,Murray,2-pointer,2,2,True,0
+0022501059,203999,Nikola Jokić,2,4:56,Murray,2-pointer,2,2,False,0
+0022501059,203999,Nikola Jokić,2,4:25,Strawther,3-pointer,3,3,False,0
+0022501059,203999,Nikola Jokić,2,2:18,Murray,3-pointer,3,3,False,0
+0022501059,203999,Nikola Jokić,2,1:14,Murray,3-pointer,3,3,False,0
+0022501059,203999,Nikola Jokić,3,9:57,Johnson,2-pointer,2,2,False,0
+0022501059,203999,Nikola Jokić,3,8:17,Braun,2-pointer,2,2,True,0
+0022501059,203999,Nikola Jokić,3,4:21,Watson,3-pointer,3,3,False,0
+0022501059,203999,Nikola Jokić,3,1:11,Brown,2-pointer,2,2,False,0
+0022501059,203999,Nikola Jokić,3,0:32,Strawther,3-pointer,3,3,False,0
+0022501059,203999,Nikola Jokić,3,0:05,Watson,2-pointer,2,2,False,0
+0022501059,203999,Nikola Jokić,4,6:15,Murray,2-pointer,2,2,True,0
+0022501059,203999,Nikola Jokić,4,3:17,Watson,3-pointer,3,3,False,0
+0022501072,203999,Nikola Jokić,1,9:29,Murray,2-pointer,2,2,False,0
+0022501072,203999,Nikola Jokić,1,8:07,Braun,3-pointer,3,3,False,0
+0022501072,203999,Nikola Jokić,1,7:31,Gordon,2-pointer,2,2,False,0
+0022501072,203999,Nikola Jokić,1,3:47,Gordon,2-pointer,2,2,False,0
+0022501072,203999,Nikola Jokić,2,4:59,Gordon,2-pointer,2,2,False,0
+0022501072,203999,Nikola Jokić,3,4:46,Hardaway Jr.,3-pointer,3,3,False,0
+0022501072,203999,Nikola Jokić,3,2:11,Hardaway Jr.,3-pointer,3,3,False,0
+0022501072,203999,Nikola Jokić,4,7:45,Brown,2-pointer,2,2,False,0
+0022501072,203999,Nikola Jokić,4,4:49,Gordon,2-pointer,2,2,False,0
+0022501072,203999,Nikola Jokić,4,2:20,Johnson,3-pointer,3,3,False,0
+0022501072,203999,Nikola Jokić,4,1:15,Murray,3-pointer,3,3,False,0
+0022501072,203999,Nikola Jokić,4,0:45,Johnson,3-pointer,3,3,False,0
